@@ -1,0 +1,11 @@
+key: "REGISTER_SUCCESS",
+locale: "en",
+text: "Hello ${user.lastName},\r\nYou just registered on MEDIFROID CLOUD. To validate your registration, please click on the following link: ${url}\r\nThis email is sent automatically, please do not reply.",
+subject: "Registration MEDIFROID CLOUD"
+
+
+key: "LOST_PASSWORD",
+locale: "en",
+text: "Hello ${user.lastName},\r\nYou've just asked for a new password.\r\nYour new password is: ${password}\r\nPlease change it once logged in https://medifroidcloud.inair.cloud\r\nFor reminder, your login is: ${user.login}\r\nThis email is sent automatically, please do not reply.",
+subject: "MEDIFROID CLOUD - Lost password"
+

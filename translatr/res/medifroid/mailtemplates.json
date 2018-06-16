@@ -1,0 +1,20 @@
+{
+	"_id": {
+		"$oid": "595eb066fb4ad686f621693e"
+	},
+	"key": "REGISTER_SUCCESS",
+	"locale": "fr",
+	"html": "\u003c!doctype html\u003e\u003chtml lang=\"${locale}\"\u003e\u003chead\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBonjour ${user.lastName},\u003c/p\u003e\u003cp\u003eVous venez de vous inscrire sur MEDIFROID CLOUD. Pour valider votre inscription, veuillez cliquer sur le lien suivant : \u003ca href=\"${url}\"\u003e${url}\u003c/a\u003e \u003c/p\u003e\u003cp\u003e\u003ci\u003eCe mail est envoyé automatiquement, merci de ne pas y répondre.\u003c/i\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+	"text": "Bonjour ${user.lastName},\r\nVous venez de vous inscrire sur MEDIFROID CLOUD. Pour valider votre inscription, veuillez cliquer sur le lien suivant : ${url}\r\nCe mail est envoyé automatiquement, merci de ne pas y répondre.",
+	"subject": "Inscription MEDIFROID CLOUD"
+}
+{
+	"_id": {
+		"$oid": "595f41ddfb4ad686f621693f"
+	},
+	"key": "LOST_PASSWORD",
+	"locale": "fr",
+	"html": "\u003c!doctype html\u003e\u003chtml lang=\"${locale}\"\u003e\u003chead\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBonjour ${user.lastName},\u003c/p\u003e\u003cp\u003eVous venez de faire une demande de mot de passe perdu.\u003c/p\u003e\u003cp\u003eVotre nouveau mot de passe est : \u003cb\u003e${password}\u003c/b\u003e\u003c/p\u003e\u003cp\u003eVeuillez changer votre mot de passe une fois connecté sur \u003ca href=\"https://medifroidcloud.inair.cloud\"\u003ehttps://medifroidcloud.inair.cloud\u003c/a\u003e\u003c/p\u003e\u003cp\u003ePour rappel, votre identifiant de connexion est : \u003cb\u003e${user.login}\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003eCe mail est envoyé automatiquement, merci de ne pas y répondre.\u003c/i\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+	"text": "Bonjour ${user.lastName},\r\nVous venez de faire une demande de mot de passe perdu.\r\nVotre nouveau mot de passe est : ${password}\r\nVeuillez changer votre mot de passe une fois connecté sur https://medifroidcloud.inair.cloud\r\nPour rappel, votre identifiant de connexion est : ${user.login}\r\nCe mail est envoyé automatiquement, merci de ne pas y répondre.",
+	"subject": "MEDIFROID CLOUD - Perte de mot de passe"
+}

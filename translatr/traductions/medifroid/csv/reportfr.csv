@@ -1,0 +1,298 @@
+.alarms.title|Alarmes|alarms
+.alarms.slave|Appareil|Device
+.alarms.comment|Commentaire|Comment
+.alarms.channel|Voie|way
+.alarms.date|Date|Dated
+.alarms.techalarm_1|Batterie changée|Battery changed
+.alarms.techalarm_3|Perte de communication|Loss of communication
+.alarms.techalarm_2|Batterie faible|Low battery
+.alarms.techalarm_4|Communication rétablie|Communication restablished
+.channelStats.min|Min|Low
+.channelStats.max|Max|Max
+.channelStats.average|Moyenne|Average
+.channelStats.deviation|Ecart type|Standard deviation
+.channelStats.mkt|MKT|MKT
+.channel.name|Désignation|Designation
+.channel.measure|Mesure|Measure
+.channel.probe|Mesure|Measure
+.channel.lowThreshold|Seuil bas|Low threshold
+.channel.highThreshold|Seuil haut|High threshold
+.channel.title|Voies enregistrées|Recorded channels
+.logEvents.date|Date|Date
+.logEvents.user|Utilisateur|User
+.logEvents.source|Source|Source
+.logEvents.title|Evènements|Events
+.logEvents.source_0|Application|Application
+.logEvents.source_3|Voie Calculée|Calculated channel
+.logEvents.source_2|Alarme Deportée|Deported Alarm
+.logEvents.source_1|Appareil|Device
+.logEvents.source_4|Base De Communication|Communication Base
+.logEvents.source_5|Cloud|Cloud
+.logEvents.code_1|Application Lancée|Application started
+.logEvents.code_4|Modification Paramètres Messagerie|Editing Messaging Settings
+.logEvents.code_3|Modification Préférences|Modification Preferences
+.logEvents.code_2|Application Fermée|Closed application
+.logEvents.code_10|Connexion Utilisateur|User Login
+.logEvents.code_11|Deconnexion Utilisateur|User Logout
+.logEvents.code_14|Modification Utilisateur|User Modification
+.logEvents.code_13|Ajout Utilisateur|Adding User
+.logEvents.code_12|Connexion Echouée|Failed Connection
+.logEvents.code_15|Suppression Utilisateur|User Deletion
+.logEvents.code_16|Changement Password|Change Password
+.logEvents.code_17|Ajout Groupe|Group Addition
+.logEvents.code_18|Modification Groupe|Group Modification
+.logEvents.code_20|Gestion Utilisateurs Modifiée|User Management Modified
+.logEvents.code_19|Suppression Groupe|Group deletion
+.logEvents.code_100|Appairage Appareil RF|RF appliance pairing
+.logEvents.code_104|Retrait Appareil RF|RF Device Removal
+.logEvents.code_102|Remplacement Appareil RF|RF Device Replacement
+.logEvents.code_101|Suppression Appareil RF|RF Device Removal
+.logEvents.code_103|Placement Appareil RF|RF Device Placement
+.logEvents.code_105|Griser Appareil RF|Gray RF Device
+.logEvents.code_106|Degriser Appareil RF|Degrade RF Device
+.logEvents.code_108|Planification Vidages|Unloading Planning
+.logEvents.code_107|Configuration Verification Reseau|Network Verification Configuration
+.logEvents.code_109|Planification Mesures|Planning Measures
+.logEvents.code_201|Configuration Appareil|Device Configuration
+.logEvents.code_202|Dechargement Appareil|Device Unloading
+.logEvents.code_204|Arrêt Campagne Par PC|Stop Campaign By PC
+.logEvents.code_203|Lancement Campagne Par PC|Launch Campaign By PC
+.logEvents.code_205|Vidage Appareil|Device unloading
+.logEvents.code_206|Lecture Mesures Appareil|Reading Device Measurements
+.logEvents.code_207|Test Communication|Test Communication
+.logEvents.code_1002|Infos Produit Modifiées|Product Information Changed
+.logEvents.code_1001|Produit Ajouté|Added Product
+.logEvents.code_1003|Produit Supprime|Product Deletes
+.logEvents.code_2001|Alarme Deportée Ajoutée|Deported Alarm Added
+.logEvents.code_2002|Alarme Deportée Modifiée|Deported Alarm Modified
+.logEvents.code_2003|Alarme Deportée Supprimée|Deported Alarm Deleted
+.logEvents.code_2004|Pilotage Relais Appareil|Device Relay Control
+.logEvents.code_2005|Alarme Email Ajoutée|Alarm Email Added
+.logEvents.code_2006|Alarme Email Modifiée|Modified Email Alarm
+.logEvents.code_2007|Alarme Email Supprimée|Alarm Deleted Email
+.logEvents.code_2008|Alarme Email Envoyée|Email Alarm Sent
+.logEvents.code_3001|Démarrage Service|Initiation Service
+.logEvents.code_3002|Arrêt Service|Stop Service
+.logEvents.code_5001|Connexion échouée|Failed connection
+.logEvents.code_5002|Connexion rétablie|Revised connection
+.logEvents.code_5004|Requête au serveur|Server request
+.logEvents.category|Catégorie|Category
+.logEvents.code_5003|Echec envoi de données|Failed to send data
+.logEvents.comment|Commentaire|Comment
+.logEvents.description|Description|Description
+.measures.title|Relevés|statements
+.measures.date|Date|Date
+.measures.index|Index|Index
+.slaveSettings.logType|Type de mesure|Type of measure
+.slaveSettings.title|Configuration|Configuration
+.slaveSettings.measureInterval|Intervalle|Interval
+.slaveSettings.min|Date de départ|Departure date
+.slaveSettings.count|Nombre de points|Number of points
+.slaveSettings.comment|Commentaire|Comment
+.slaveSettings.max|Date de fin|End date
+.slave.title|Appareil|Device
+.slave.name|Désignation|Designation
+.slave.slaveNumber|N° d'appareil|Device number
+.slave.reference|Type d'appareil|Device type
+.slave.serial|N° de série|Serial number
+.minutes|minutes|minutes
+.channel.unit_0|aucune|any
+.channel.unit_3|m3/h|m3/h
+.channel.unit_1|m/s|m/s
+.channel.unit_2|fpm|fpm
+.channel.unit_4|L/s|L/s
+.slave.version|Version de soft|Soft version
+.channel.unit_6|m3/s|m3/s
+.channel.unit_5|cfm|cfm
+.channel.unit_7|°C|°C
+.channel.unit_8|°F|°F
+.channel.unit_9|%RH|% RH
+.channel.unit_12|mmH2O|mmH2O
+.channel.unit_10|%PSI|PSI%
+.channel.unit_13|inWg|INWG
+.channel.unit_11|Pa|Pa
+.channel.unit_14|kPa|kPa
+.channel.unit_16|mbar|mbar
+.channel.unit_17|absolueg/kg|absolueg/kg
+.channel.unit_15|mmHg|mmHg
+.channel.unit_18|°C Td|°C Td
+.channel.unit_19|°F Td|°F Td
+.channel.unit_20|°C Tw|°C Tw
+.channel.unit_22|kJ/kg|kJ/kg
+.channel.unit_21|°F Tw|°F Tw
+.channel.unit_23|mA|my
+.channel.unit_24|A|AT
+.channel.unit_26|V|V
+.channel.unit_25|mV|mV
+.channel.unit_31|unité libre|free unit
+.channel.unit_27|lux|lux
+.channel.unit_32|pulse|pulse
+.channel.unit_33|pulses|pulse
+.channel.unit_34|KelvinK|Kelvink
+.channel.unit_35|km/h|km/h
+.channel.unit_36|mph|mph
+.channel.unit_37|Hz|Hz
+.channel.unit_38|tr/min|rev/min
+.channel.unit_39|rpm|rpm
+.channel.unit_41|in/min|in/min
+.channel.unit_40|m/min|m/min
+.channel.unit_42|bar|bar
+.channel.unit_43|daPa|daPa
+.channel.unit_44|hPa|hPa
+.channel.unit_46|dB|dB
+.channel.unit_45|ppm|ppm
+.channel.unit_47|ohms|ohms
+.channel.unit_lora_0|aucune|any
+.channel.unit_lora_2||
+.channel.unit_undefined|Indéfinie|Undefined
+.channel.unit_lora_1|%RH|% RH
+.channel.unit_lora_3|unité libre|free unit
+.channel.unit_lora_15|unité inconnue|unknown unit
+.channel.unit_lora_16|°C|°C
+.channel.unit_lora_17|°F|°F
+.channel.unit_lora_19|Delta °C|Delta °C
+.channel.unit_lora_18|K|K
+.channel.unit_lora_33|g/kg|g/kg
+.channel.unit_lora_20|Delta °F|Delta °F
+.channel.unit_lora_35|°CTd|°Ctd
+.channel.unit_lora_32|%RH|% RH
+.channel.unit_lora_34|kJ/kg|kJ/kg
+.channel.unit_lora_36|°FTd|°FTD
+.channel.unit_lora_39|g/m3|g/m3
+.channel.unit_lora_38|°F Tw|°F Tw
+.channel.unit_lora_48|bar|bar
+.channel.unit_lora_37|°C Tw|°C Tw
+.channel.unit_lora_49|PSI|PSI
+.channel.unit_lora_50|kPa|kPa
+.channel.unit_lora_51|inWg|INWG
+.channel.unit_lora_52|hPa|hPa
+.channel.unit_lora_53|mbar|mbar
+.channel.unit_lora_54|mmHg|mmHg
+.channel.unit_lora_56|daPa|daPa
+.channel.unit_lora_55|mmH2O|mmH2O
+.channel.unit_lora_57|Pa|Pa
+.channel.unit_lora_64|m/s|m/s
+.channel.unit_lora_65|fpm|fpm
+.channel.unit_lora_66|km/h|km/h
+.channel.unit_lora_67|mph|mph
+.channel.unit_lora_80|m3/h|m3/h
+.channel.unit_lora_81|l/s|l/s
+.channel.unit_lora_82|cfm|cfm
+.channel.unit_lora_83|m3/s|m3/s
+.channel.unit_lora_85|dm3/h|dm3/h
+.channel.unit_lora_84|nm3/h|Nm3/h
+.channel.unit_lora_96|Hz|Hz
+.channel.unit_lora_98|rpm|rpm
+.channel.unit_lora_97|tr/min|rev/min
+.channel.unit_lora_100|in/min|in/min
+.channel.unit_lora_99|m/min|m/min
+.channel.unit_lora_101|ft/min|ft/min
+.channel.unit_lora_102|m/s|m/s
+.channel.unit_lora_112|ppm|ppm
+.channel.unit_lora_114|mg/kWh|mg/kWh
+.channel.unit_lora_113|mg/m3|mg/m3
+.channel.unit_lora_115|g/kWh|g/kWh
+.channel.unit_lora_116|g/GJ|g/GJ
+.channel.unit_lora_117|g/m3|g/m3
+.channel.unit_lora_118|%|%
+.channel.unit_lora_119|% LIE|% LIE
+.channel.unit_lora_120|g/an|g/year
+.channel.unit_lora_129|fc|fc
+.channel.unit_lora_128|lux|lux
+.channel.unit_lora_130|W/m2|W/m2
+.channel.unit_lora_131|klux|klux
+.channel.unit_lora_132|kfc|kfc
+.channel.unit_lora_144|db|db
+.channel.unit_lora_160|mV|mV
+.channel.unit_lora_161|V|V
+.channel.unit_lora_162|µA|μA
+.channel.unit_lora_163|mA|my
+.channel.unit_lora_164|A|AT
+.channel.unit_lora_165|Ohms|ohms
+.channel.unit_lora_176|wbgt|WBGT
+.channel.unit_lora_192|s|s
+.channel.unit_lora_177|W/m2/K|W/m2/K
+.channel.unit_lora_193|min|min
+.channel.unit_lora_194|h|h
+.channel.unit_lora_208|mm|mm
+.channel.unit_lora_209|in|in
+.channel.unit_lora_210|m|m
+.channel.unit_lora_255|Comptage|counting
+.channel.probecodes_1|Température CTN Ambiance|Temperature NTC Ambience
+.channel.probecodes_2|Température CTN Interne|Internal CTN temperature
+.channel.probecodes_3|Température CTN Déportée|NTC temperature deported
+.channel.probecodes_4|Courant 0/20 mA|0/20 mA current
+.channel.probecodes_5|Courant 4/20 mA|4/20 mA current
+.channel.probecodes_6|Tension 0/10 V|Voltage 0/10 V
+.channel.probecodes_7|Tension 0/2500 mV|Voltage 0/2500 mV
+.channel.probecodes_8|Thermo-Hygro SHT Ambiance|Thermo-Hygro SHT Ambience
+.channel.probecodes_9|Thermo-Hygro SHT Déportée|Thermo-Hygro SHT deported
+.channel.probecodes_10|Luminosité|Luminosity
+.channel.probecodes_11|Température Thermocouple K|Temperature Thermocouple K
+.channel.probecodes_12|Température Thermocouple T|Temperature Thermocouple T
+.channel.probecodes_13|Température Thermocouple J|Temperature Thermocouple J
+.channel.probecodes_14|Température PT100 Déportée|Temperature PT100 deported
+.channel.probecodes_15|Thermo-Hygro Ambiance|Thermo-Hygro Ambiance
+.channel.probecodes_16|Thermo-Hygro Inox Déportée|Thermo-Hygro Inox deported
+.channel.probecodes_17|Pince ampèremétrique 20 A|current Clamp 20 A
+.channel.probecodes_18|Pince ampèremétrique 50 A|current Clamp cale 50 A
+.channel.probecodes_19|Pince ampèremétrique 100 A|current Clamp 100 A
+.channel.probecodes_20|Pince ampèremétrique 200 A|current Clamp 200 A
+.channel.probecodes_22|Thermo-Hygro Plastique Déportée|Thermo-Hygro Plastic deported
+.channel.probecodes_21|Pince ampèremétrique 600 A|Clamp ammeter 600 A
+.channel.probecodes_23|Température KT20|Temperature KT20
+.channel.probecodes_24|Température Thermocouple S|Temperature Thermocouple S
+.channel.probecodes_25|Détection impulsions|Pulse detection
+.channel.probecodes_27|Pression 1000 Pa|1000 Pa pressure
+.channel.probecodes_26|Compteur impulsions|Pulse counter
+.channel.probecodes_29|Cellule CO2|CO2 cell
+.channel.probecodes_28|Pression 10000 Pa|Pressure 10000 Pa
+.channel.probecodes_30|Lumière|Light
+.channel.probecodes_lora_2|Thermocouple J|Thermocouple J
+.channel.probecodes_lora_1|Thermocouple K|Thermocouple K
+.channel.probecodes_lora_4|Thermocouple N|Thermocouple N
+.channel.probecodes_lora_3|Thermocouple T|Thermocouple T
+.channel.probecodes_lora_5|Thermocouple S|Thermocouple S
+.channel.probecodes_lora_6|Courant 0-20mA|Current 0-20mA
+.channel.probecodes_lora_8|Tension 0-5V|0-5V voltage
+.channel.probecodes_lora_7|Courant 4-20mA|4-20mA current
+.channel.probecodes_lora_9|Tension 0-10V|0-10V voltage
+.channel.probecodes_lora_10|Compteur impulsion|Impulse counter
+.channel.probecodes_lora_11|Pince ampèremétrique 50A|50A Ampere Clamp
+.channel.probecodes_lora_12|Pince ampèremétrique 100A|Clamp ammeter 100A
+.channel.probecodes_lora_13|Pince ampèremétrique 200A|Clamp ammeter 200A
+.channel.probecodes_lora_14|Pince ampèremétrique 600A|Clamp ammeter 600A
+.channel.probecodes_lora_16|température PT100 externe|external PT100 temperature
+.channel.probecodes_lora_17|Température interne|Internal temperature
+.channel.probecodes_lora_18|Pression d'eau 0-10 bar|Water pressure 0-10 bar
+.channel.probecodes_lora_19|Sonde hygro-température|Hygro-temperature probe
+.channel.probecodes_lora_15|Température CTN externe|External NTC temperature
+.channel.probecodes_lora_20|Sonde hygro-température inox|Stainless steel hygro-temperature probe
+.channel.probecodes_lora_23|Lumière interne|Internal light
+.channel.probecodes_lora_24|CO2 interne|Internal CO2
+.channel.probecodes_lora_21|Sonde hygro-température ABS/amb|ABS hygro-temperature probe/amb
+.channel.probecodes_lora_22|Sonde hygro-température interne|Internal hygro-temperature probe
+.channel.probecodes_lora_25|Pression atmosphérique interne|Internal atmospheric pressure
+.channel.probecodes_lora_26|Pression interne 1000 Pa|Internal pressure 1000 Pa
+.channel.probecodes_lora_27|Pression interne 10000 Pa|Internal pressure 10000 Pa
+.channel.probecodes_lora_28|Pression d'eau 0-20 bar|Water pressure 0-20 bar
+.measures.stats|Statistiques|Statistics
+.slaveSettings.logtype_1|Instant|moment
+.slaveSettings.logtype_0|Différé|delayed
+.slaveSettings.logtype_3|Maximum|Maximum
+.slaveSettings.logtype_4|Moyenne|Average
+.slaveSettings.logtype_2|Minimum|Minimum
+.slaveSettings.logtype_6|EnLigne|Online
+.slaveSettings.logtype_7|Fin|End
+.slaveSettings.logtype_9|Thermohygrometre|thermohygrometer
+.slaveSettings.logtype_8|Thermometre|Thermometer
+.slaveSettings.logtype_5|Surveillance|surveillance
+.chart.title|Graphique|Graphic
+.slaveSettings.logtype_10|Detection d'impulsions|Pulse detection
+.logEvents.source_undefined|Indéfini|Undefined
+.csv.name|Nom du site|name of the site
+.csv.serial|Identifiant du site|Site identifier
+.channel.probecodes_lora_a17|Température interne|Internal temperature
+.channel.probecodes_lora_a20|Sonde hygro-température inox|Stainless steel hygro-temperature probe
+.channel.probecodes_undefined|channel.probecodes_undefined|channel.probecodes_undefined
+.chart.nodata|Pas de données|No data

@@ -1,0 +1,767 @@
+webapp.COMMON.terminate|Terminer|finish
+webapp.COMMON.days|Jour(s)|Days
+webapp.COMMON.previous|Précédent|Precedent
+webapp.COMMON.next|Suivant|following
+webapp.COMMON.mailNotification|Alertes par mail|Alerts by email
+webapp.COMMON.mailNotificationThreshold|Recevoir les alarmes sur seuils|Receive alarms on thresholds
+webapp.COMMON.LORA_DEVICE_NOT_FOUND|L'appareil n'existe pas|The device does not exist
+webapp.COMMON.mailNotificationTechnical|Recevoir les alarmes techniques|Receive technical alarms
+webapp.COMMON.mailNotificationTitle|Gestion des alertes|Alert Management
+webapp.COMMON.LORA_DEVICE_ALREADY_REGISTERED|L'appareil est déjà enregistré|The device is already registered
+webapp.COMMON.LORA_DEVICE_SITE_NOT_FOUND|Le site est introuvable|The site was not found
+webapp.COMMON.selectAll|Tout sélectionner|Select all
+webapp.COMMON.unselectAll|Tout désélectionner|Anything wrong
+webapp.COMMON.all|Tous|All
+webapp.COMMON.cancel|Annuler|Cancel
+webapp.COMMON.ok|OK|OK
+webapp.COMMON.all_female|Toutes|All
+webapp.COMMON.valid|Valider|Validate
+webapp.COMMON.send|Envoyer|To send
+webapp.COMMON.add|Ajouter|Add
+webapp.COMMON.save|Enregistrer|Record
+webapp.COMMON.defaultZoneName|Zone par défaut|Zone by default
+webapp.COMMON.delete|Supprimer|Remove
+webapp.COMMON.date|Date|Dated
+webapp.COMMON.hour|Heure|Hour
+webapp.COMMON.channel|Voie|way
+webapp.COMMON.channelInternal|interne|internal
+webapp.COMMON.unit_unknown|Unité non spécifiée|Unit unspecified
+webapp.COMMON.errorFieldsMandatory|Veuillez renseigner tous les champs|Please fill in all fields
+webapp.COMMON.errorConfirmationMismatch|La confirmation du mot de passe ne correspond pas|Confirmation of the password does not match
+webapp.COMMON.errorMaxProfile|Nombre maximum de profils atteint|Maximum number of profiles reached
+webapp.COMMON.errorNameExists|Le nom de profil n'est pas disponible|Profile name is not available
+webapp.COMMON.USER_EXISTS|Le nom d'utilisateur n'est pas disponible|Username is not available
+webapp.COMMON.MAIL_EXISTS|L'adresse mail n'est pas disponible|The email address is not available
+webapp.COMMON.LICENSE_CODE_INVALID|Le code abonnement est invalide|The subscription code is invalid
+webapp.COMMON.USER_OR_MAIL_EXISTS|Le nom d'utilisateur ou le mail ne sont pas disponibles|Username or email are not available
+webapp.COMMON.LICENSE_USED|Le code abonnement a déjà été utilisé|The subscription code has already been used
+webapp.COMMON.LICENSE_MAX_USERS|Vous avez atteint la limite du nombre d'utilisateurs actifs|You have reached the limit of the number of active users
+webapp.COMMON.LICENSE_MAX_READ_DATA|Vous ne pouvez consulter les données que sur une période de {1} mois glissants|You can only view data over a rolling {1} month period
+webapp.COMMON.LICENSE_MAX_SLAVES|Vous avez atteint la limite du nombre d'appareils actifs|You have reached the limit of the number of active devices
+webapp.COMMON.LICENSE_KEY_INVALID|Le code produit est invalide|Product code is invalid
+webapp.COMMON.MASTER_NOT_FOUND|La license est introuvable|The license is not found
+webapp.COMMON.SITE_EXISTS|Le site est déjà enregistré sur un autre compte|The site is already registered on another account
+webapp.COMMON.lastName|Nom|Name
+webapp.COMMON.login|Identifiant de connexion|Connection identifier
+webapp.COMMON.firstName|Prénom|Firstname
+webapp.COMMON.mail|Adresse mail|Mail address
+webapp.COMMON.confirmation|Confirmation|Confirmation
+webapp.COMMON.password|Mot de passe|Password
+webapp.COMMON.name|Nom|Name
+webapp.COMMON.unit_0|aucune|any
+webapp.COMMON.unit_1|m/s|m/s
+webapp.COMMON.unit_2|fpm|fpm
+webapp.COMMON.unit_4|L/s|L/s
+webapp.COMMON.unit_3|m3/h|m3/h
+webapp.COMMON.unit_5|cfm|cfm
+webapp.COMMON.unit_6|m3/s|m3/s
+webapp.COMMON.unit_7|°C|°C
+webapp.COMMON.unit_10|%PSI|PSI%
+webapp.COMMON.unit_8|°F|°F
+webapp.COMMON.unit_9|%RH|% RH
+webapp.COMMON.unit_11|Pa|Pa
+webapp.COMMON.unit_13|inWg|INWG
+webapp.COMMON.unit_12|mmH2O|mmH2O
+webapp.COMMON.unit_15|mmHg|mmHg
+webapp.COMMON.unit_14|kPa|kPa
+webapp.COMMON.unit_16|mbar|mbar
+webapp.COMMON.unit_17|absolueg/kg|absolueg/kg
+webapp.COMMON.unit_18|°C Td|°C Td
+webapp.COMMON.unit_19|°F Td|°F Td
+webapp.COMMON.unit_20|°C Tw|°C Tw
+webapp.COMMON.unit_21|°F Tw|°F Tw
+webapp.COMMON.unit_22|kJ/kg|kJ/kg
+webapp.COMMON.unit_24|A|AT
+webapp.COMMON.unit_25|mV|mV
+webapp.COMMON.unit_23|mA|my
+webapp.COMMON.unit_26|V|V
+webapp.COMMON.unit_27|lux|lux
+webapp.COMMON.unit_31|unité libre|free unit
+webapp.COMMON.unit_32|pulse|pulse
+webapp.COMMON.unit_33|pulses|pulse
+webapp.COMMON.unit_34|KelvinK|Kelvink
+webapp.COMMON.unit_35|km/h|km/h
+webapp.COMMON.unit_36|mph|mph
+webapp.COMMON.unit_37|Hz|Hz
+webapp.COMMON.unit_38|tr/min|rev/min
+webapp.COMMON.unit_39|rpm|rpm
+webapp.COMMON.unit_40|m/min|m/min
+webapp.COMMON.unit_41|in/min|in/min
+webapp.COMMON.unit_42|bar|bar
+webapp.COMMON.unit_43|daPa|daPa
+webapp.COMMON.unit_44|hPa|hPa
+webapp.COMMON.unit_45|ppm|ppm
+webapp.COMMON.unit_46|dB|dB
+webapp.COMMON.unit_lora_0|aucune|any
+webapp.COMMON.unit_47|ohms|ohms
+webapp.COMMON.unit_lora_1|%RH|% RH
+webapp.COMMON.unit_lora_2||
+webapp.COMMON.unit_lora_3|unité libre|free unit
+webapp.COMMON.unit_lora_16|°C|°C
+webapp.COMMON.unit_lora_15|unité inconnue|unknown unit
+webapp.COMMON.unit_lora_17|°F|°F
+webapp.COMMON.unit_lora_18|K|K
+webapp.COMMON.unit_lora_32|%RH|% RH
+webapp.COMMON.unit_lora_20|Delta °F|Delta °F
+webapp.COMMON.unit_lora_19|Delta °C|Delta °C
+webapp.COMMON.unit_lora_33|g/kg|g/kg
+webapp.COMMON.unit_lora_37|°C Tw|°C Tw
+webapp.COMMON.unit_lora_34|kJ/kg|kJ/kg
+webapp.COMMON.unit_lora_36|°FTd|°FTD
+webapp.COMMON.unit_lora_35|°CTd|°Ctd
+webapp.COMMON.unit_lora_38|°F Tw|°F Tw
+webapp.COMMON.unit_lora_48|bar|bar
+webapp.COMMON.unit_lora_39|g/m3|g/m3
+webapp.COMMON.unit_lora_50|kPa|kPa
+webapp.COMMON.unit_lora_49|PSI|PSI
+webapp.COMMON.unit_lora_51|inWg|INWG
+webapp.COMMON.unit_lora_53|mbar|mbar
+webapp.COMMON.unit_lora_54|mmHg|mmHg
+webapp.COMMON.unit_lora_55|mmH2O|mmH2O
+webapp.COMMON.unit_lora_52|hPa|hPa
+webapp.COMMON.unit_lora_56|daPa|daPa
+webapp.COMMON.unit_lora_57|Pa|Pa
+webapp.COMMON.unit_lora_65|fpm|fpm
+webapp.COMMON.unit_lora_66|km/h|km/h
+webapp.COMMON.unit_lora_64|m/s|m/s
+webapp.COMMON.unit_lora_67|mph|mph
+webapp.COMMON.unit_lora_80|m3/h|m3/h
+webapp.COMMON.unit_lora_82|cfm|cfm
+webapp.COMMON.unit_lora_83|m3/s|m3/s
+webapp.COMMON.unit_lora_81|l/s|l/s
+webapp.COMMON.unit_lora_84|nm3/h|Nm3/h
+webapp.COMMON.unit_lora_85|dm3/h|dm3/h
+webapp.COMMON.unit_lora_97|tr/min|rev/min
+webapp.COMMON.unit_lora_98|rpm|rpm
+webapp.COMMON.unit_lora_96|Hz|Hz
+webapp.COMMON.unit_lora_99|m/min|m/min
+webapp.COMMON.unit_lora_101|ft/min|ft/min
+webapp.COMMON.unit_lora_100|in/min|in/min
+webapp.COMMON.unit_lora_102|m/s|m/s
+webapp.COMMON.unit_lora_112|ppm|ppm
+webapp.COMMON.unit_lora_113|mg/m3|mg/m3
+webapp.COMMON.unit_lora_115|g/kWh|g/kWh
+webapp.COMMON.unit_lora_114|mg/kWh|mg/kWh
+webapp.COMMON.unit_lora_117|g/m3|g/m3
+webapp.COMMON.unit_lora_116|g/GJ|g/GJ
+webapp.COMMON.unit_lora_118|%|%
+webapp.COMMON.unit_lora_119|% LIE|% LIE
+webapp.COMMON.unit_lora_120|g/an|g/year
+webapp.COMMON.unit_lora_129|fc|fc
+webapp.COMMON.unit_lora_128|lux|lux
+webapp.COMMON.unit_lora_130|W/m2|W/m2
+webapp.COMMON.unit_lora_131|klux|klux
+webapp.COMMON.unit_lora_132|kfc|kfc
+webapp.COMMON.unit_lora_144|db|db
+webapp.COMMON.unit_lora_160|mV|mV
+webapp.COMMON.unit_lora_161|V|V
+webapp.COMMON.unit_lora_163|mA|my
+webapp.COMMON.unit_lora_162|µA|ÂμA
+webapp.COMMON.unit_lora_164|A|AT
+webapp.COMMON.unit_lora_165|Ohms|ohms
+webapp.COMMON.unit_lora_176|wbgt|WBGT
+webapp.COMMON.unit_lora_192|s|s
+webapp.COMMON.unit_lora_177|W/m2/K|W/m2/K
+webapp.COMMON.unit_lora_193|min|min
+webapp.COMMON.unit_lora_194|h|h
+webapp.COMMON.unit_lora_208|mm|mm
+webapp.COMMON.unit_lora_209|in|in
+webapp.COMMON.unit_lora_210|m|m
+webapp.COMMON.source_0|Application|Application
+webapp.COMMON.unit_lora_255|Comptage|counting
+webapp.COMMON.source_1|Appareil|Apparatus
+webapp.COMMON.source_2|Alarme Deportée|Deported Alarm
+webapp.COMMON.source_4|Base De Communication|Communication Basis
+webapp.COMMON.source_3|Voie Calculée|Calculated Way
+webapp.COMMON.source_5|Cloud|Cloud
+webapp.COMMON.code_1|Application Lancée|Application Launched
+webapp.COMMON.code_2|Application Fermée|Closed application
+webapp.COMMON.code_4|Modification Paramètres Messagerie|Editing Messaging Settings
+webapp.COMMON.code_3|Modification Préférences|Modification Preferences
+webapp.COMMON.code_10|Connexion Utilisateur|User Login
+webapp.COMMON.code_11|Deconnexion Utilisateur|User Logout
+webapp.COMMON.code_12|Connexion Echouée|Failed Connection
+webapp.COMMON.code_15|Suppression Utilisateur|User Deletion
+webapp.COMMON.code_14|Modification Utilisateur|User Modification
+webapp.COMMON.code_13|Ajout Utilisateur|Adding User
+webapp.COMMON.code_16|Changement Password|Change Password
+webapp.COMMON.code_17|Ajout Groupe|Group Addition
+webapp.COMMON.code_18|Modification Groupe|Group Modification
+webapp.COMMON.code_20|Gestion Utilisateurs Modifiée|User Management Modified
+webapp.COMMON.code_19|Suppression Groupe|Group deletion
+webapp.COMMON.code_100|Appairage Appareil RF|RF appliance pairing
+webapp.COMMON.code_101|Suppression Appareil RF|RF Device Removal
+webapp.COMMON.code_102|Remplacement Appareil RF|RF Device Replacement
+webapp.COMMON.code_103|Placement Appareil RF|RF Device Placement
+webapp.COMMON.code_104|Retrait Appareil RF|RF Device Removal
+webapp.COMMON.code_105|Griser Appareil RF|Gray RF Device
+webapp.COMMON.code_107|Configuration Verification Reseau|Network Verification Configuration
+webapp.COMMON.code_106|Degriser Appareil RF|Degrade RF Device
+webapp.COMMON.code_108|Planification Vidages|Waste Planning
+webapp.COMMON.code_109|Planification Mesures|Planning Measures
+webapp.COMMON.code_201|Configuration Appareil|Device Configuration
+webapp.COMMON.code_203|Lancement Campagne Par PC|Launch Campaign By PC
+webapp.COMMON.code_204|Arrêt Campagne Par PC|Stop Campaign By PC
+webapp.COMMON.code_202|Dechargement Appareil|Device Unloading
+webapp.COMMON.code_205|Vidage Appareil|Device emptying
+webapp.COMMON.code_206|Lecture Mesures Appareil|Reading Device Measurements
+webapp.COMMON.code_207|Test Communication|Test Communication
+webapp.COMMON.code_1001|Produit Ajouté|Added Product
+webapp.COMMON.code_1003|Produit Supprime|Product Deletes
+webapp.COMMON.code_1002|Infos Produit Modifiées|Product Information Changed
+webapp.COMMON.code_2001|Alarme Deportée Ajoutée|Deported Alarm Added
+webapp.COMMON.code_2004|Pilotage Relais Appareil|Device Relay Control
+webapp.COMMON.code_2002|Alarme Deportée Modifiée|Deported Alarm Modified
+webapp.COMMON.code_2003|Alarme Deportée Supprimée|Deported Alarm Deleted
+webapp.COMMON.code_2005|Alarme Email Ajoutée|Alarm Email Added
+webapp.COMMON.code_2006|Alarme Email Modifiée|Modified Email Alarm
+webapp.COMMON.code_3001|Démarrage Service|Initiation Service
+webapp.COMMON.code_2008|Alarme Email Envoyée|Email Alarm Sent
+webapp.COMMON.code_2007|Alarme Email Supprimée|Alarm Deleted Email
+webapp.COMMON.code_3002|Arrêt Service|Stop Service
+webapp.COMMON.code_5001|Connexion échouée|Failed connection
+webapp.COMMON.code_5002|Connexion rétablie|Revised connection
+webapp.COMMON.probe_1|Température CTN Ambiance|Temperature NTC Ambience
+webapp.COMMON.code_5003|Echec envoi de données|Failed to send data
+webapp.COMMON.code_5004|Requête au serveur|Server request
+webapp.COMMON.probe_2|Température CTN Interne|Internal CTN temperature
+webapp.COMMON.probe_3|Température CTN Déportée|NTC temperature DeÌ door
+webapp.COMMON.probe_5|Courant 4/20 mA|4/20 mA current
+webapp.COMMON.probe_4|Courant 0/20 mA|0/20 mA current
+webapp.COMMON.probe_6|Tension 0/10 V|Voltage 0/10 V
+webapp.COMMON.probe_7|Tension 0/2500 mV|Voltage 0/2500 mV
+webapp.COMMON.probe_8|Thermo-Hygro SHT Ambiance|Thermo-Hygro SHT Ambience
+webapp.COMMON.probe_10|Luminosité|LuminositeÌ
+webapp.COMMON.probe_9|Thermo-Hygro SHT Déportée|Thermo-Hygro SHT DeÌ door
+webapp.COMMON.probe_11|Température Thermocouple K|Temperature Thermocouple K
+webapp.COMMON.probe_12|Température Thermocouple T|Temperature Thermocouple T
+webapp.COMMON.probe_13|Température Thermocouple J|Temperature Thermocouple J
+webapp.COMMON.probe_15|Thermo-Hygro Ambiance|Thermo-Hygro Ambiance
+webapp.COMMON.probe_14|Température PT100 Déportée|Temperature PT100 DeÌ door
+webapp.COMMON.probe_16|Thermo-Hygro Inox Déportée|Thermo-Hygro Inox DeÌ door
+webapp.COMMON.probe_17|Pince ampèremétrique 20 A|Clamp ammeter 20 A
+webapp.COMMON.probe_18|Pince ampèremétrique 50 A|Clamp ammeter cale 50 A
+webapp.COMMON.probe_19|Pince ampèremétrique 100 A|Clamp ammeter trique 100 A
+webapp.COMMON.probe_20|Pince ampèremétrique 200 A|Clamp ammeter trique 200 A
+webapp.COMMON.probe_21|Pince ampèremétrique 600 A|Clamp ammeterctrique 600 A
+webapp.COMMON.probe_22|Thermo-Hygro Plastique Déportée|Thermo-Hygro Plastic DeÌ door
+webapp.COMMON.probe_23|Température KT20|Temperature KT20
+webapp.COMMON.probe_25|Détection impulsions|Pulse deÌection
+webapp.COMMON.probe_26|Compteur impulsions|Pulse counter
+webapp.COMMON.probe_24|Température Thermocouple S|Temperature Thermocouple S
+webapp.COMMON.probe_27|Pression 1000 Pa|1000 Pa pressure
+webapp.COMMON.Probe_29|Cellule CO2|CO2 cell
+webapp.COMMON.probe_28|Pression 10000 Pa|Pressure 10000 Pa
+webapp.COMMON.Probe_lora_1|Thermocouple K|Thermocouple K
+webapp.COMMON.Probe_30|Lumière|Light
+webapp.COMMON.Probe_lora_2|Thermocouple J|Thermocouple J
+webapp.COMMON.Probe_lora_3|Thermocouple T|Thermocouple T
+webapp.COMMON.Probe_lora_5|Thermocouple S|Thermocouple S
+webapp.COMMON.Probe_lora_6|Courant 0-20mA|Current 0-20mA
+webapp.COMMON.Probe_lora_4|Thermocouple N|Thermocouple N
+webapp.COMMON.Probe_lora_7|Courant 4-20mA|4-20mA current
+webapp.COMMON.Probe_lora_8|Tension 0-5V|0-5V voltage
+webapp.COMMON.Probe_lora_10|Compteur impulsion|Impulse counter
+webapp.COMMON.Probe_lora_11|Pince ampèremétrique 50A|50A Ampere Clamp
+webapp.COMMON.Probe_lora_9|Tension 0-10V|0-10V voltage
+webapp.COMMON.Probe_lora_12|Pince ampèremétrique 100A|Clamp ammeter 100A
+webapp.COMMON.Probe_lora_13|Pince ampèremétrique 200A|Clamp ammeter 200A
+webapp.COMMON.Probe_lora_14|Pince ampèremétrique 600A|Clamp ammeter 600A
+webapp.COMMON.Probe_lora_15|Température CTN externe|External NTC temperature
+webapp.COMMON.Probe_lora_16|température PT100 externe|external PT100 temperature
+webapp.COMMON.Probe_lora_17|Température interne|Internal temperature
+webapp.COMMON.Probe_lora_19|Sonde hygro-température|Hygro-temperature probe
+webapp.COMMON.Probe_lora_18|Pression d'eau 0-10 bar|Water pressure 0-10 bar
+webapp.COMMON.Probe_lora_20|Sonde hygro-température inox|Stainless steel hygro-temperature probe
+webapp.COMMON.Probe_lora_21|Sonde hygro-température ABS/amb|ABS hygro-temperature probe/amb
+webapp.COMMON.Probe_lora_22|Sonde hygro-température interne|Internal hygro-temperature probe
+webapp.COMMON.Probe_lora_23|Lumière interne|Internal light
+webapp.COMMON.Probe_lora_24|CO2 interne|Internal CO2
+webapp.COMMON.Probe_lora_25|Pression atmosphérique interne|Internal atmospheric pressure
+webapp.COMMON.Probe_lora_26|Pression interne 1000 Pa|Internal pressure 1000 Pa
+webapp.COMMON.Probe_lora_27|Pression interne 10000 Pa|Internal pressure 10000 Pa
+webapp.COMMON.Probe_lora_28|Pression d'eau 0-20 bar|Water pressure 0-20 bar
+webapp.COMMON.techAlarm_1|Batterie changée|Battery changed
+webapp.COMMON.techAlarm_2|Batterie faible|Low battery
+webapp.COMMON.techAlarm_3|Perte de communication|Loss of communication
+webapp.COMMON.techAlarm_3_more|Aucune communication avec le serveur depuis 1heure|No communication with the server since 1 hour
+webapp.COMMON.techAlarm_4|Communication rétablie|Revised communication
+webapp.COMMON.techAlarm_666|Erreur de traitement de données|Error processing data
+webapp.COMMON.techAlarm_510|Erreur de traitement de données.|Error processing data.
+webapp.COMMON.techAlarm_510_more|510: Pas de réponse de la base de données|510: No response from the database
+webapp.COMMON.techAlarm_511|Erreur de traitement de données.|Error processing data.
+webapp.COMMON.techAlarm_511_more|511: Version de configuration inconnu.|511: Unknown configuration version.
+webapp.COMMON.techAlarm_512|Erreur de traitement de données.|Error processing data.
+webapp.COMMON.techAlarm_512_more|512: Appareil non configuré|512: Unconfigured device
+webapp.COMMON.techAlarm_506|Erreur de traitement de données.|Error processing data.
+webapp.COMMON.techAlarm_506_more|506: Configuration de l'appareil et données reçues incohérentes|506: Device Configuration and Data Received Inconsistent
+webapp.COMMON.techAlarm_514|Erreur de traitement de données.|Error processing data.
+webapp.COMMON.techAlarm_514_more|514: Erreur de base de données.|514: Database error.
+webapp.LostPasswordForm.mail|Adresse email|E-mail adress
+webapp.LostPasswordForm.errorWrongMail|Adresse mail incorrecte|Invalid email address
+webapp.LostPasswordForm.title|Identifiant ou mot de passe oublié|Username or password forgotten
+webapp.InstallationTypeChoice.siteName|Nom du site|name of the site
+webapp.InstallationTypeChoice.siteSerial|Identifiant de l'installation|Identifier of the installation
+webapp.InstallationTypeChoice.slaveSerial|N° de série de l'appareil|Serial number of the device
+webapp.InstallationTypeChoice.slaveCode|Code de l'appareil|Device code
+webapp.RegisterForm.login|Identifiant de connexion|Connection identifier
+webapp.RegisterForm.mail|Mail|Mail
+webapp.RegisterForm.register|S'enregistrer|register
+webapp.RegisterForm.licenseCode|Code abonnement|Subscription code
+webapp.RegisterForm.confirmation|Confirmation du mot de passe|Password Confirmation
+webapp.RegisterForm.personalInformations|Informations Personnelles|Personal informations
+webapp.RegisterForm.accountInformations|Paramètres du compte|Account settings
+webapp.RegisterForm.siteInformations|Informations du site|Site information
+webapp.LoginForm.USER_INACTIVE|Votre accès est désactivé. Veuillez contacter votre administrateur.|Your access is disabled. 
+webapp.LoginForm.connexion|Connexion|Log in
+webapp.LoginForm.title|Connexion|Log in
+webapp.LoginForm.errorFieldsMandatory|Tous les champs sont obligatoire|All fields are mandatory
+webapp.LoginForm.errorWrongLogin|Identifiant ou mot de passe incorrect|Incorrect username or password
+webapp.LoginForm.activationError|Une erreur est survenue durant l'activation|An error occurred during activation
+webapp.LoginForm.activationSuccess|Votre compte est maintenant activé. Vous pouvez vous connecter.|Your account is now activated. 
+webapp.LoginForm.ERROR|Une erreur est survenue lors de la connexion. Veuillez contacter votre administrateur.|An error occurred while connecting. 
+webapp.LoginForm.lostPassword|Identifiant ou mot de passe oublié|Username or password forgotten
+webapp.LoginForm.register|Créer un compte|Create an account
+webapp.Menu.events|Journal des événements|Event Diary
+webapp.Menu.reporting|Exporter|Export
+webapp.Menu.unload|Déchargement|Detail © loading
+webapp.Menu.informations|Informations|information
+webapp.LoginForm.registerSuccess|Votre inscription a bien été prise en compte|Your registration has been taken into account
+webapp.Menu.settings|Paramètres|ParamÃ¨tres
+webapp.Menu.logoff|Déconnexion|Detail © connection
+webapp.Menu.configuration|Configuration|Configuration
+webapp.Menu.configure|Configuration|Configuration
+webapp.SettingsPage.settings|Paramètres|ParamÃ¨tres
+webapp.InformationsPage.informations|Informations|information
+webapp.InformationsPage.version|Version|Version
+webapp.InformationsPage.documentation|Notice|notice
+webapp.InformationsPage.documentationLink|Télécharger la notice|Download the manual
+webapp.SettingsUserAccessPage.title|Gestion des accès utilisateurs|Management of user access
+webapp.SettingsAccountPage.title|Mon Compte|My account
+webapp.SettingsLicensePage.title|Abonnement|Subscription
+webapp.SettingsLicensePage.renewLicenseTitle|Abonnement|Subscription
+webapp.SettingsLicensePage.renewLicenseSubtitle|Veuillez rentrer votre nouveau code d'abonnement|Please enter your new subscription code
+webapp.SettingsLicensePage.licenseCode|Code d'abonnement|Subscription code
+webapp.SettingsUserPage.title|Gestion des utilisateurs|User Management
+webapp.SettingsUserPage.addUserSubtitle|Veuillez renseigner les champs suivants|Please fill in the following fields
+webapp.SettingsUserPage.login|Identifiant de connexion|Connection identifier
+webapp.LoginForm.lostPasswordSuccess|Un email contenant votre nouveau mot de passe a été envoyé à l'adresse|An email containing your new password has been sent to the address
+webapp.SettingsProfilePage.title|Gestion des profils|Profile Management
+webapp.SettingsLicensePage.licenseRenewSuccess|Votre nouvel abonnement est maintenant actif|Your new subscription is now active
+webapp.SettingsUserPage.addUserTitle|Ajout d'un utilisateur|Add a user
+webapp.SettingsProfilePage.addProfileTitle|Ajout d'un profil|Adding a profile
+webapp.SettingsProfilePage.addProfileSubtitle|Veuillez renseigner les champs suivants|Please fill in the following fields
+webapp.UserList.login|Utilisateurs|users
+webapp.UserList.role|Groupe|Group
+webapp.UserList.userSelection|Sélection d'un utilisateur|Selection of a user
+webapp.ProfileList.profiles|Profils|profiles
+webapp.ProfileList.profileSelection|Sélection d'un profil|Selecting a profile
+webapp.UserDetail.informations|Information du compte|Account Information
+webapp.UserDetail.active|Compte actif|Active account
+webapp.UserDetail.sites|Sites accessibles|Accessible sites
+webapp.UserDetail.accesses|Accès|access
+webapp.UserDetail.MODIFY_SUCCESS|Utilisateur modifié avec succés|User successfully modified
+webapp.UserDetail.DELETE_SUCCESS|Utilisateur supprimé avec succés|User successfully deleted
+webapp.UserDetail.ADD_SUCCESS|Utilisateur ajouté avec succés|User successfully added
+webapp.UserDetail.confirmDelete|Etes-vous sûr de vouloir supprimer cet utilisateur ?|Are you sure you want to delete this user?
+webapp.UserDetail.updatePassword|Modifier le mot de passe|change the password
+webapp.UserDetail.updatePasswordTitle|Modification du mot de passe|Changing the password
+webapp.UserDetail.defaultProfile|Profil par défaut|Default profile
+webapp.AccountDetail.informations|Information du compte|Account Information
+webapp.AccountDetail.mail|Adresse mail|Mail address
+webapp.UserDetail.defaultZone|Zone non définie|Area not defined
+webapp.AccountDetail.UPDATE_SUCCESS|Utilisateur modifié avec succés|User successfully modified
+webapp.AccountDetail.updatePasswordTitle|Modification du mot de passe|Changing the password
+webapp.AccountDetail.updatePassword|Modifier le mot de passe|change the password
+webapp.ProfileDetail.informations|Information du profil|Profile information
+webapp.ProfileDetail.active|Profil actif|Active profile
+webapp.ProfileDetail.confirmDelete|Etes-vous sûr de vouloir supprimer ce profil ?|Are you sure you want to delete this profile?
+webapp.ProfileDetail.global|Général|General
+webapp.ProfileDetail.MODIFY_SUCCESS|Profile modifié avec succés|Profile modified successfully
+webapp.ProfileDetail.sites|Sites accessibles|Accessible sites
+webapp.ProfileDetail.ADD_SUCCESS|Profile ajouté avec succés|Profile successfully added
+webapp.ProfileDetail.DELETE_SUCCESS|Profile supprimé avec succés|Profile deleted successfully
+webapp.ProfileDetail.accessType|Type d'accès|Type of access
+webapp.ProfileDetail.API_ADMIN_MANAGE_PROFILES|Gestion des profils|Profile Management
+webapp.ProfileDetail.API_ADMIN_MANAGE|Gestion des droits|Rights management
+webapp.ProfileDetail.API_ADMIN_MANAGE_USERS|Gestion des utilisateurs|User Management
+webapp.ProfileDetail.API_USERS_ADD_SITES|Ajout|adding
+webapp.ProfileDetail.aclAffectation|Affectation des droits|Assignment of rights
+webapp.ProfileDetail.API_SITES_MANAGE_SLAVES|Gestion des appareils|Device Management
+webapp.ProfileDetail.API_SITES_CONFIGURE_SLAVES|Configuration des appareils|Device configuration
+webapp.ProfileDetail.API_ALARMS_UPDATE|Acquittement des alarmes|Acknowledging alarms
+webapp.ProfileDetail.API_SITES_UPDATE_SLAVES|Activation/Désactivation|Activation/deactivation Detail ©
+webapp.ProfileDetail.API_USERS_MANAGE_SITES|Gestion des sites|Site Management
+webapp.UserAccessList.success|Enregistrement effectué avec succés|Registration successfully completed
+webapp.ProfileDetail.API_USERS_UPDATE_SITES|Modification du nom|Name change
+webapp.SettingsSideBar.settings|Paramètres|ParamÃ¨tres
+webapp.SettingsSideBar.users|Utilisateurs|users
+webapp.SettingsSideBar.profiles|Profils|profiles
+webapp.ProfileDetail.API_SITES_MANAGE_ZONES|Gestion des zones/groupements d'appareils|Management of zones/groups of devices
+webapp.ProfileDetail.PROFILE_USED|Vous ne pouvez pas supprimer un profil attaché à un utlisateur|You can not delete a profile attached to a user
+webapp.SettingsSideBar.account|Mon Compte|My account
+webapp.SettingsSideBar.userAccesses|Accès utilisateurs|User access
+webapp.SettingsSideBar.groups|Groupes|Groups
+webapp.UserAccessList.login|Utilisateur|User
+webapp.SettingsSideBar.license|Abonnement|Subscription
+webapp.AdminPage.yes|Oui|Yes
+webapp.AdminPage.userList|Liste des utilisateurs sur lesquels vous pouvez prendre le contrôle|List of users you can take control of
+webapp.AdminPage.site|Nom du site|name of the site
+webapp.AdminPage.master|Numéro de série|Serial number
+webapp.AdminPage.activated|Compte activé|Account activated
+webapp.AdminPage.no|Non|No
+webapp.AdminPage.search|Recherche|Research
+webapp.SitePage.siteList|Liste de vos sites|List of your sites
+webapp.SitePage.helpAddSite|Ajoutez vos sites en cliquant sur l’icône (+) pour accéder aux données de vos appareils.|Add your sites by clicking on the icon () to access the data of your devices.
+webapp.SitePage.siteName|Nom du site|name of the site
+webapp.SitePage.serial|Identifiant du site|Site identifier
+webapp.SitePage.addSiteSubtitle|Veuillez indiquer les informations du site à ajouter|Please enter the information of the site to add
+webapp.SitePage.MASTER_NOT_FOUND|La license est introuvable|The license is not found
+webapp.SitePage.CONTROL_EXISTS|Le site est déjà enregistré sur un autre compte|The site is already registered on another account
+webapp.SitePage.welcome|Bienvenue sur Medifroid Cloud|Welcome to Medifroid Cloud
+webapp.SitePage.addSiteTitle|Ajout d'un site|Adding a site
+webapp.HomePage.waitingZoneName|Appareils en attente de configuration|Devices waiting for configuration
+webapp.HomePage.unload|Déchargement forcé|Forced unloading
+webapp.HomePage.ZONE_DEFAULT|Vous ne pouvez pas modifier la zone par défaut|You can not change the default zone
+webapp.HomePage.editZoneTitle|Editer la zone|Edit zone
+webapp.HomePage.addZoneTitle|Ajouter une zone|Add a zone
+webapp.HomePage.zoneName|Nom de la zone|Name of the area
+webapp.HomePage.addZone|Ajouter une zone|Add a zone
+webapp.HomePage.editZone|Editer une zone|Edit an area
+webapp.HomePage.siteName|Nom du site|name of the site
+webapp.HomePage.editSite|Modification du site|Modification of the site
+webapp.HomePage.confirmZoneDelete|Etes-vous sûr de vouloir supprimer cette zone ?|Are you sure you want to delete this area?
+webapp.HomePage.confirmDelete|Etes-vous sûr de vouloir supprimer ce site ?|Are you sure you want to delete this site?
+webapp.NavBar.feedbackTitle|Votre avis nous intéresse|Your opinion interests us
+webapp.NavBar.profile|Profil|Profile
+webapp.NavBar.settings|Paramètres|ParamÃ¨tres
+webapp.NavBar.logout|Déconnexion|Detail © connection
+webapp.SideBar.alarm|Liste des alarmes|List of alarms
+webapp.NavBar.feedbackSubtitle|Veuillez saisir votre avis|Please enter your opinion
+webapp.SideBar.slaves|Liste des appareils|List of devices
+webapp.SlaveList.slaves|Liste des appareils|List of devices
+webapp.ChannelList.measures|Dernières mesures relevées|Latest measurements taken
+webapp.ChannelList.values|Valeurs|Values
+webapp.ChannelList.noMeasures|Aucunes mesures relevées|No measures taken
+webapp.ChannelList.statistics|Statistiques|Statistics
+webapp.ChannelList.dataViewMode0|Graphique|Graphic
+webapp.ChannelList.dataViewMode2|Résumé|Re© Suma
+webapp.ChannelList.dataViewMode1|Tableau|Board
+webapp.ChannelList.dataViewMode3|Configuration|Configuration
+webapp.ChannelList.minimum|Minimum|Minimum
+webapp.ChannelList.average|Moyenne|Average
+webapp.ChannelList.maximum|Maximum|Maximum
+webapp.ChannelList.deviation|Ecart type|Standard deviation
+webapp.ChannelList.mkt|MKT|MKT
+webapp.ChannelListTable.values|Valeurs|Values
+webapp.ChannelListTable.statistics|Statistiques|Statistics
+webapp.ChannelListTable.minimum|Minimum|Minimum
+webapp.ChannelListTable.maximum|Maximum|Maximum
+webapp.ChannelListTable.deviation|Ecart type|Standard deviation
+webapp.ChannelListTable.average|Moyenne|Average
+webapp.ChannelListTable.mkt|MKT|MKT
+webapp.SlaveAbstract.comments|Commentaire|Comment
+webapp.SlaveAbstract.device|Appareil|Apparatus
+webapp.SlaveAbstract.configuration|Configuration|Configuration
+webapp.SlaveAbstract.channels|Voies|Routes
+webapp.SlaveAbstract.reference|Appareil|Apparatus
+webapp.SlaveAbstract.serial|N° de série|Serial number
+webapp.SlaveAbstract.designation|Désignation|Detail © shipping name
+webapp.SlaveAbstract.version|Version|Version
+webapp.SlaveAbstract.campaign|Campagne|Campaign
+webapp.SlaveAbstract.logType|Type d'enregistrement|Registration type
+webapp.SlaveAbstract.logType_0|Différé|Differentiation Result © ©
+webapp.SlaveAbstract.logType_1|Instant|moment
+webapp.SlaveAbstract.logType_2|Minimum|Minimum
+webapp.HomePage.confirmChangeSlaveStatus|Attention :  les mesures et les alarmes de cet appareil ne seront plus envoyées sur le cloud si vous le désactivez.|Caution: Measurements and alarms on this device will no longer be sent to the cloud if you unmount it.
+webapp.SlaveAbstract.logType_3|Maximum|Maximum
+webapp.SlaveAbstract.logType_4|Moyenne|Average
+webapp.SlaveAbstract.logType_5|Surveillance|surveillance
+webapp.SlaveAbstract.logType_6|EnLigne|Online
+webapp.SlaveAbstract.logType_7|Fin|End
+webapp.SlaveAbstract.logType_8|Thermometre|Thermometer
+webapp.SlaveAbstract.logType_9|Thermohygrometre|thermohygrometer
+webapp.SlaveAbstract.logType_10|Detection d'impulsions|Pulse detection
+webapp.SlaveAbstract.recordDelay|Intervalle d'enregistrement|Recording interval
+webapp.SlaveAbstract.measureInterval|Intervalle de mesure|Measurement interval
+webapp.SlaveAbstract.startDate|Date de départ|Departure date
+webapp.SlaveAbstract.endDate|Date de fin|End date
+webapp.SlaveAbstract.probeType|Type de sonde|Probe type
+webapp.SlaveAbstract.alarmState|Etat de la voie|State of the track
+webapp.SlaveAbstract.alarmState_0|Normal|Normal
+webapp.SlaveAbstract.alarmState_1|Active|active
+webapp.SlaveAbstract.highThreshold|Seuil haut|High threshold
+webapp.SlaveAbstract.lowThreshold|Seuil bas|Low threshold
+webapp.SlaveAbstract.minute|min.|min.
+webapp.AlarmList.alarms|Alarmes|alarms
+webapp.AlarmList.sameComment|Appliquer le même commentaire à toutes les alarmes|Apply the same comment to all alarms
+webapp.SlaveAbstract.alarmState_2|Pas d'alarmes configurées|No configured alarms
+webapp.AlarmList.slaveDesignation|Désignation de l'appareil|Designation of the device
+webapp.SlaveAbstract.noAlarmState|Pas d'alarmes configurées|No configured alarms
+webapp.AlarmList.value|Valeur|Value
+webapp.SlaveAbstract.waitForConfigurationValidation|Configuration en attente de validation|Configuration pending validation
+webapp.AlarmList.mode|Etat|State
+webapp.AlarmList.filterAcked|Alarmes acquittées|Acknowledged alarms
+webapp.AlarmList.filterUnacked|Alarmes non acquittées|Unpaid alarms
+webapp.AlarmList.filterNone|Toutes les alarmes|All alarms
+webapp.AlarmList.ack|Acquitter|pay
+webapp.AlarmList.channelDesignation|Désignation de la voie|Designation of the way
+webapp.AlarmList.ackPending|Acquittement en cours...|Acquittal in progress ...
+webapp.AlarmList.modalSubtitle|Laissez un message avant d'acquitter l'alarme|Leave a message before acknowledging the alarm
+webapp.AlarmList.oneAckAlarm|Veuillez sélectionner au moins une alarme à acquitter|Please select at least one alarm to acknowledge
+webapp.DateFilterList.TODAY|Aujourd'hui|Today
+webapp.DateFilterList.YESTERDAY|Depuis Hier|Since yesterday
+webapp.DateFilterList.WEEK|7 derniers jours|Last 7 days
+webapp.DateFilterList.MONTH|30 derniers jours|Last 30 days
+webapp.AlarmList.modalTitle|Commentaire (facultatif)|Comment (optional)
+webapp.DateFilterList.INTERVAL|Entre deux dates|Between two dates
+webapp.DateFilterList.UNACKED|Alarmes non acquittées|Unpaid alarms
+webapp.DateFilterList.ACKED|Alarmes acquittées|Acknowledged alarms
+webapp.DateFilterList.ALL|Toutes les alarmes|All alarms
+webapp.DateFilterList.LATEST|Dernières données|Latest data
+webapp.UnloadList.unload|Décharger|Decharge
+webapp.UnloadList.unloadTitle|Déchargement|Detail © loading
+webapp.UnloadList.modalTitle|Déchargement en cours|Unloading in progress
+webapp.UnloadList.modalSubtitle2|Vous pouvez continuer à utiliser l'application pendant la mise à jour des données|You can continue using the application while updating data
+webapp.UnloadList.oneUnload|Veuillez sélectionner au moins un appareil|Please select at least one device
+webapp.LogEventList.events|Journal des évènements|Event Diary
+webapp.LogEventList.user|Utilisateur|User
+webapp.LogEventList.source|Source|Source
+webapp.LogEventList.category|Catégorie|Categories © gory
+webapp.LogEventList.description|Description|Description
+webapp.LogEventList.comment|Commentaire|Comment
+webapp.UnloadList.modalSubtitle1|Cette opération peut durer quelques minutes.|This operation may take a few minutes.
+webapp.UnloadList.unloadSubtitle|Sélectionner les appareils à décharger|Select devices to unload
+webapp.ReportingPage.title|Exportation des données|Exporting data
+webapp.ReportingPage.fileType|Type de fichier|File type
+webapp.ReportingPage.fileTypePDF|PDF|PDF
+webapp.ReportingPage.fileTypeCSV|CSV|CSV
+webapp.ReportingPage.pdfOption|Options PDF|PDF options
+webapp.ReportingPage.pdfOptionCharts|Inclure les graphiques|Include graphics
+webapp.ReportingPage.pdfOptionPreview|Prévisualiser le fichier|Preview file
+webapp.ReportingPage.more|Données à intégrer au rapport|Data to be included in the report
+webapp.ReportingPage.moreSettings|Configuration des appareils|Device configuration
+webapp.ReportingPage.moreTable|Tableaux de valeurs|Tables of values
+webapp.ReportingPage.moreAlarm|Journal des alarmes|Alarm Log
+webapp.ReportingPage.moreLogevents|Journal des événements|Event Diary
+webapp.ReportingPage.export|Exporter|Export
+webapp.ReportingPage.period|Période à exporter|Period to export
+webapp.ReportingPage.next|Suivant >|Next>
+webapp.ReportingPage.moreStats|Tableaux de statistiques|Statistical tables
+webapp.ChannelItem.channel|Voie|way
+webapp.ChannelItem.channelInternal|interne|internal
+webapp.ModalMessage.httpForbiddenTitle|Accès refusé|Access denied
+webapp.ModalMessage.httpForbiddenBody|Vous ne disposez pas des autorisations nécessaires pour accéder à cette fonctionnalité. Veuillez contacter votre administrateur.|You do not have the necessary permissions to access this feature. 
+webapp.Tooltip.DEVICE_DISCONNECTED|Le Logiciel CTS-RF ne semble pas connecté au CLOUD|CTS-RF Software does not appear to be connected to CLOUD
+webapp.Tooltip.WS_SITE_UNLOAD_SLAVE_START|Déchargement en cours...|Unloading ...
+webapp.Tooltip.WS_SITE_UNLOAD_SLAVE_SUCCESS|Déchargement effectué avec succés|Successfully unloaded
+webapp.Tooltip.WS_SITE_UNLOAD_SLAVE_ERROR_408|Déchargement impossible :  le logiciel ne semble pas connecté au CLOUD|Unable to download: the software does not seem to be connected to CLOUD
+webapp.Tooltip.WS_SITE_ALARM_ACK_START|Acquittement des alarmes en cours...|Acknowledging alarms ...
+webapp.Tooltip.WS_SITE_ALARM_ACK_ERROR_408|Acquittement des alarmes impossible : le logiciel ne semble pas connecté au CLOUD|Acknowledgment of the alarms impossible: the software does not seem connected to the CLOUD
+webapp.ReportingPage.previous|< Précédent|<Previous
+webapp.ReportingSlaveList.title|Exportation des données - Choix des appareils à exporter|Exporting data - Choosing devices to export
+webapp.LicenseDetail.activationType|Type d'abonnement|Subscription type
+webapp.LicenseDetail.level|Niveau d'abonnement|Subscription level
+webapp.LicenseDetail.expirationDate|Date d'expiration|Expiration date
+webapp.LicenseDetail.licenseCode|Code d'abonnement|Subscription code
+webapp.LicenseDetail.licenceFeature|Caractéristiques de l'abonnement|Characteristics of the subscription
+webapp.LicenseDetail.duration|Durée d'engagement|Duration of commitment
+webapp.LicenseDetail.maxReadData|Consultation des données|Data consultation
+webapp.Tooltip.WS_SITE_ALARM_ACK_SUCCESS|Acquittement des alarmes effectué avec succés|Acknowledging alarms successfully completed
+webapp.Tooltip.LICENSE_EXPIRATION_DAYS|Attention votre license arrive à expiration dans {1} jours|Warning your license expires in {1} days
+webapp.LicenseDetail.maxBackupData|Sauvegarde des données|Backing up data
+webapp.LicenseDetail.maxUsers|Nombre d'utilisateurs|Number of users
+webapp.LicenseDetail.maxDevices|Nombre d'enregistreurs|Number of recorders
+webapp.LicenseDetail.LICENSE_KEY_MC1|Niveau 1|Level 1
+webapp.LicenseDetail.LICENSE_KEY_MC2|Niveau 2|Level 2
+webapp.LicenseDetail.LICENSE_KEY_MC3|Niveau 3|Level 3
+webapp.LicenseDetail.LICENSE_KEY_MEDIFROIDCLOUDFREE|Niveau 4|Level 4
+webapp.LicenseDetail.max|max.|max.
+webapp.LicenseDetail.month|mois|month
+webapp.LicenseDetail.slidingMonth|mois glissants|rolling months
+webapp.LicenseDetail.LICENSE_KEY_MC4|Niveau 4|Level 4
+webapp.ConfigurePage.storeAsModel|Enregistrer la configuration comme modèle|Save the configuration as a template
+webapp.ConfigurePage.unit|Unité|UNITA ©
+webapp.ConfigurePage.loraNetwork|Réseau Lora|Lora Network
+webapp.ConfigurePage.configureDevice|Configuration|Configuration
+webapp.LicenseDetail.renew|Modifier/Renouveler|Edit/Renew
+webapp.ConfigurePage.configureSuccess|Configuration de l'appareil réussie|Configuration of the successful device
+webapp.ConfigurePage.estimatedBatteryLife|Autonomie estimée|Estimated autonomy
+webapp.ConfigurePage.dateHourStart|Date et Heure du départ|Date and Time of departure
+webapp.ConfigurePage.configureServer|Configuration envoyée au serveur|Configuration sent to the server
+webapp.ConfigurePage.configureError|Erreur de configuration|Configuration error
+webapp.ConfigurePage.configureChannels|Configuration des voies|Channel configuration
+webapp.ConfigurePage.informationDevice|Appareil|Apparatus
+webapp.ConfigurePage.Designation|Nom|Name
+webapp.ConfigurePage.IntervalMesure|Intervalle de mesure|Measurement interval
+webapp.ConfigurePage.Intervals|Intervalles|intervals
+webapp.ConfigurePage.IntervalEnregistrement|Intervalle d'enregistrement|Recording interval
+webapp.ConfigurePage.DepartType_0|Par date|By date
+webapp.ConfigurePage.DepartType|Type de Départ|Departure type
+webapp.ConfigurePage.DepartType_1|Bouton|Button
+webapp.ConfigurePage.DepartType_2|Immédiat|Imma © diate
+webapp.ConfigurePage.DateEtHeureDepart|Date de Départ|Departure Date
+webapp.ConfigurePage.Enregistrement|Enregistrement|Recording
+webapp.ConfigurePage.Display|Affichage|Viewing
+webapp.ConfigurePage.Infos|Information de l'appareil|Device Information
+webapp.ConfigurePage.Activated|Activé|© Enabled
+webapp.ConfigurePage.Leds|LEDs|LEDs
+webapp.ConfigurePage.Fonctionnement|Fonctionnement|Operation
+webapp.ConfigurePage.Proteged|Protégé|Prota © gÃ ©
+webapp.ConfigurePage.ConfigurationAllreadyProgramed|Une configuration est déjà en cours|A configuration is already in progress
+webapp.ConfigurePage.seuilEntre|Seuil entre {0} et {1} {2}|Threshold between {0} and {1} {2}
+webapp.ConfigurePage.tempo|Temporisation|timeout
+webapp.ConfigurePage.dataset|Campagne|Campaign
+webapp.ConfigurePage.comments|Commentaires|comments
+webapp.ConfigurePage.record|Enregistrer|Record
+webapp.ConfigurePage.recordMode|Mode d'enregistrement|Registration mode
+webapp.ConfigurePage.recordMode_1|Instantané|© instantly
+webapp.ConfigurePage.recordMode_3|Maximum|Maximum
+webapp.ConfigurePage.recordMode_2|Minimum|Minimum
+webapp.ConfigurePage.recordMode_4|Moyenne|Average
+webapp.ConfigurePage.stopByButton|Arrêt par bouton|Stop by button
+webapp.ConfigurePage.hours|Heure(s)|Hour (s)
+webapp.ConfigurePage.minutes|Minute(s)|Minutes)
+webapp.ConfigurePage.seconds|Seconde(s)|Second (s)
+webapp.ConfigurePage.enableThresholds|Activer seuils|Activate thresholds
+webapp.ConfigurePage.low|Bas|Low
+webapp.ConfigurePage.high|Haut|top
+webapp.ConfigurePage.ERROR_417|Erreur 417 inconnue|Error 417 unknown
+webapp.ConfigurePage.ERROR_430|Une configuration est déjà en cours|A configuration is already in progress
+webapp.ConfigurePage.ERROR_408|Configuration impossible : le KILOG ne semble pas connecté au CLOUD|Impossible configuration: KILOG does not seem connected to CLOUD
+webapp.ConfigurePage.ERROR_512|Erreur 512 inconnue|Unknown error 512
+webapp.ConfigurePage.ERROR_500|Erreur 500 inconnue|Error 500 unknown
+webapp.ConfigurePage.ERROR_220|Erreur 220 inconnue|Error 220 unknown
+webapp.ConfigurePage.success|Configuration envoyée avec succés|Configuration sent successfully
+webapp.ConfigurePage.loadConfiguration|Charger une configuration|Load a configuration
+webapp.ConfigurePage.thresholds|Seuils alarme|Alarm thresholds
+webapp.ConfigurePage.serial|N° de série|Serial number
+webapp.ConfigurePage.version|Version|Version
+webapp.ConfigurePage.validmultihelp|**Envoyer cette configuration à une selection d' appareils compatibles de ce site|** Send this configuration to a selection of compatible devices from this site
+webapp.ConfigurePage.validmulti|**Configuration multiple|** Multiple configuration
+webapp.ConfigurePage.INVALID_DATE_TIME|**Format de date invalide: DD/MM/YYYY HH:MM|** Invalid date format: DD/MM/YYYY HH: MM
+webapp.ConfigurePage.cfr21dialogTitle|Identification et justification|Identification and justification
+webapp.ConfigurePage.cfr21dialogPasswordLabel|Votre mot de passe|Your password
+webapp.ConfigurePage.cfr21dialogCommentLabel|La justification pour ce changement de configuration|The justification for this configuration change
+webapp.ConfigurePage.cfr21dialogerror_fields|Tous les champs doivent obligatoirement être renseignés.|All fields must be filled in.
+webapp.ConfigurePage.templatedialogTitle|Sélectionner un modèle de configuration|Select a configuration template
+webapp.ConfigurePage.templatedialogDesc|Veuillez sélectionnez un modèle de configuration ci dessous. Celui ci sera appliqué à l'appreil choisi.|Please select a configuration template below. 
+webapp.ConfigurePage.templatedialogerror_fields|Aucune configuration n'a été sélectionnée.|No configuration has been selected.
+webapp.ConfigurePage.INVALID_CONFIG_FORMAT|Configuration invalide, annulation|Invalid configuration, cancellation
+webapp.ConfigurePage.NO_MODE|Aucun mode d'affichage de défini|No display mode of defined
+webapp.ConfigurePage.NO_RECORD_TYPE|Aucun type d'enregistrement défini.|No record type defined.
+webapp.ConfigurePage.NO_START_TYPE|Aucun type de départ défini|No type of defined departure
+webapp.ConfigurePage.NO_CANAL_CONFIG|Aucun canal de configuration défini|No configuration channel defined
+webapp.ConfigurePage.NO_RECORD_TIME|Durée d'enregistrement non définie|Recording time undefined
+webapp.ConfigurePage.NO_CAMPAGNE_NAME|Aucun nom de campagne de défini|No defined campaign name
+webapp.ConfigurePage.INVALID_CANAL|Canal de configuration invalide|Invalid configuration channel
+webapp.ConfigurePage.templatedialogLabel|Liste des configurations compatibles avec votre appareil|List of configurations compatible with your device
+webapp.ConfigurePage.NO_MESURE_TIME|Durée de mesure non définie|Measurement time undefined
+webapp.ConfigurePage.cfr21dialogDesc|Merci de vous identifier avant de procéder au changement de configuration|Please identify yourself before proceeding with the configuration change
+webapp.ConfigurePage.INVALID_MODE|Mode d'affichage invalide|Invalid display mode
+webapp.ConfigurePage.INVALID_LED_ALARM|Aucun mode LED pour les alarmes de défini.|No LED mode for defined alarms.
+webapp.ConfigurePage.INVALID_LED_ON|Aucun mode LED pour le voyant actif de défini|No LED mode for the active indicator of de fi ned
+webapp.ConfigurePage.INVALID_CAMPAGNE_NAME_LENGTH|Le nom de campagne doit faire au minimum 3 caractères et au maximum 20|Campaign name must be at least 3 characters and at most 20
+webapp.ConfigurePage.INVALID_RECORD_TIME|Durée d'enregistrement non valide|Invalid recording time
+webapp.ConfigurePage.INVALID_MESURE_TIME|Durée de mesure invalide: doit etre compris entre ...|Invalid measurement time: must be between ...
+webapp.ConfigurePage.INVALID_RECORD_TYPE|Type d'enrgistrement de mesure invalide.|Invalid measurement recording type.
+webapp.ConfigurePage.INVALID_START_TYPE|le type de départ doit être par date, par bouton ou immédiat|the type of departure must be by date, button or immediate
+webapp.ConfigurePage.INVALID_DATE_FORMAT|Format de la date de départ incorrect|Invalid departure date format
+webapp.ConfigurePage.INVALID_SEUIL_FORMAT|Format de seuil invalide: doit etre un nombre strictement positif|Invalid threshold format: must be a strictly positive number
+webapp.ConfigurePage.INVALID_TEMPO_FORMAT|Format de temporisation invalide: doit etre un nombre strictement positif.|Invalid timing format: must be a strictly positive number.
+webapp.ConfigurePage.INVALID_CHANNEL_NAME|Nom de voie invalide: doit faire au maximum 15 caractères|Invalid channel name: must be a maximum of 15 characters
+webapp.ConfigurePage.INVALID_CHANNEL_NUMBER|Numéro de voie invalide|Invalid lane number
+webapp.ConfigurePage.INVALID_CHANNEL_REF_PROBE|Type de sonde inconnue|Unknown probe type
+webapp.ConfigurePage.XML_CONFIG_NO_TOKEN|Aucun token de défini pour une configuration xml|No definition token for xml configuration
+webapp.ConfigurePage.RECORD_LT_MESURE|La durée d'enregistrement ne peut pas être inférieure à la durée de mesure|The recording time can not be shorter than the measurement time
+webapp.ConfigurePage.NO_DATE_GIVEN|Aucune date de départ pour la campagne n'a été renseignée|No departure date for the campaign has been entered
+webapp.ConfigurePage.INVALID_NO_CHANNEL|Aucune voie de séléctionnée pour les enregistrements|No channels of interest for the recordings
+webapp.ConfigurePage.INVALID_SEUILS_VALUES|Le seuil HAUT ne peut etre superieur au seuil BAS|The HIGH threshold can not be greater than the BAS threshold
+webapp.ConfigurePage.CONFIG_NOT_LOGGED|Not loggin!|Not loggin!
+webapp.ConfigurePage.NO_CFR_DATAS|Aucunes informations d'identification n'ont été fournies|No credentials were provided
+webapp.ConfigurePage.CONFIG_UNKNOWN_USER|Les informations d'identifications fournies sont érronées.|The credentials information provided is erroneous.
+webapp.ConfigurePage.INVALID_CHANNEL_UNIT|Unité de la voie inconnue|Unit of the unknown way
+webapp.SlaveConfiguration.LaunchFull|Lancer la reconfiguration complète par XML|Start the complete reconfiguration by XML
+webapp.ConfigurePage.unknown|Erreur serveur inconnue...|Unknown server error ...
+webapp.SlaveConfiguration.full|Configuration complète|Complete configuration
+webapp.SlaveConfiguration.warningText2| Vous pouvez également suivre les instructions de cet assistant pour configurer votre appareil par fichier XML|You can also follow the instructions of this wizard to configure your device by XML file
+webapp.SlaveConfiguration.simplified|Configuration simplifiée|Simplified configuration
+webapp.ProbesType.Probe_1|Température CTN d'ambiance|Room NTC temperature
+webapp.ProbesType.Probe_3|Température CTN déportée|NTC temperature dropped
+webapp.ProbesType.Probe_4|Courant 0-20mA|Current 0-20mA
+webapp.ProbesType.Probe_5|Courant 4-20mA|4-20mA current
+webapp.ProbesType.Probe_6|Tension 0-10V|0-10V voltage
+webapp.ProbesType.Probe_9|Thermo-Hygro SHT déportée|Thermo-Hygro SHT released
+webapp.ProbesType.Probe_2|Température CTN interne|Internal CTN temperature
+webapp.ProbesType.Probe_10|Lumière|Light
+webapp.ProbesType.Probe_7|Tension 0-2500mV|0-2500mV voltage
+webapp.ProbesType.Probe_11|Température Thermocouple K|K Thermocouple temperature
+webapp.SlaveConfiguration.warningText1|Attention ! Nous vous conseillons d'utiliser l'application mobile Medifroid Cloud pour changer les paramètres de vos appareils. Elle vous permettra de configurer votre appareil plus facilement.|Warning ! 
+webapp.ProbesType.Probe_14|Température PT100 déportée|PT100 Temperatures
+webapp.ProbesType.Probe_8|Thermo-Hygro SHT d'ambiance|Thermo-Hygro SHT Ambience
+webapp.ProbesType.Probe_15|Thermo-Hygro d'ambiance|Thermo-Hygro Ambient
+webapp.ProbesType.Probe_17|Pince ampèremétrique 20A|Clamp ammeter 20A
+webapp.ProbesType.Probe_18|Pince ampèremétrique 50A|50A Ampere Clamp
+webapp.ProbesType.Probe_19|Pince ampèremétrique 100A|Clamp ammeter 100A
+webapp.ProbesType.Probe_20|Pince ampèremétrique 200A|Clamp ammeter 200A
+webapp.ProbesType.Probe_13|Température Thermocouple J|Thermocouple Temperature J
+webapp.ProbesType.Probe_21|Pince ampèremétrique 600A|Clamp ammeter 600A
+webapp.ProbesType.Probe_22|Thermo-Hygro plastique déportée|Thermo-Hygro plastic spilled
+webapp.ProbesType.Probe_12|Température Thermocouple T|Thermocouple temperature T
+webapp.ProbesType.Probe_23|Température KT20|KT20 Temperatures
+webapp.ProbesType.Probe_16|Thermo-Hygro inox déportée|Thermo-Hygro stainless steel
+webapp.ProbesType.Probe_25|Détection d'impulsions|Pulse detection
+webapp.ProbesType.Probe_26|Compteur d'impulsions|Pulse counter
+webapp.ProbesType.Probe_27|Pression 1000Pa|1000Pa pressure
+webapp.ProbesType.Probe_28|Pression 10000Pa|Pressure 10000Pa
+webapp.ProbesType.Probe_29|Cellule CO2|CO2 cell
+webapp.ProbesType.Probe_30|Lumière|Light
+webapp.ProbesType.Probe_lora_2|Thermocouple J|Thermocouple J
+webapp.ProbesType.Probe_lora_1|Thermocouple K|Thermocouple K
+webapp.ProbesType.Probe_lora_3|Thermocouple T|Thermocouple T
+webapp.ProbesType.Probe_lora_4|Thermocouple N|Thermocouple N
+webapp.ProbesType.Probe_24|Température Thermocouple S|Thermocouple temperature S
+webapp.ProbesType.Probe_lora_5|Thermocouple S|Thermocouple S
+webapp.ProbesType.Probe_lora_6|Courant 0-20mA|Current 0-20mA
+webapp.ProbesType.Probe_lora_7|Courant 4-20mA|4-20mA current
+webapp.ProbesType.Probe_lora_8|Tension 0-5V|0-5V voltage
+webapp.ProbesType.Probe_lora_9|Tension 0-10V|0-10V voltage
+webapp.ProbesType.Probe_lora_11|Pince ampèremétrique 50A|50A Ampere Clamp
+webapp.ProbesType.Probe_lora_10|Compteur impulsion|Impulse counter
+webapp.ProbesType.Probe_lora_12|Pince ampèremétrique 100A|Clamp ammeter 100A
+webapp.ProbesType.Probe_lora_13|Pince ampèremétrique 200A|Clamp ammeter 200A
+webapp.ProbesType.Probe_lora_14|Pince ampèremétrique 600A|Clamp ammeter 600A
+webapp.ProbesType.Probe_lora_17|Température interne|Internal temperature
+webapp.ProbesType.Probe_lora_15|Température CTN externe|External NTC temperature
+webapp.ProbesType.Probe_lora_18|Pression d'eau 0-10 bar|Water pressure 0-10 bar
+webapp.ProbesType.Probe_lora_16|température PT100 externe|external PT100 temperature
+webapp.ProbesType.Probe_lora_19|Sonde hygro-température|Hygro-temperature probe
+webapp.ProbesType.Probe_lora_21|Sonde hygro-température ABS/amb|ABS hygro-temperature probe/amb
+webapp.ProbesType.Probe_lora_20|Sonde hygro-température inox|Stainless steel hygro-temperature probe
+webapp.ProbesType.Probe_lora_22|Sonde hygro-température interne|Internal hygro-temperature probe
+webapp.ProbesType.Probe_lora_23|Lumière interne|Internal light
+webapp.ProbesType.Probe_lora_24|CO2 interne|Internal CO2
+webapp.ProbesType.Probe_lora_26|Pression interne 1000 Pa|Internal pressure 1000 Pa
+webapp.ProbesType.Probe_lora_28|Pression d'eau 0-20 bar|Water pressure 0-20 bar
+webapp.ProbesType.Probe_lora_27|Pression interne 10000 Pa|Internal pressure 10000 Pa
+webapp.AssistantConfiguration.page1Description2|Ces informations se trouvent à l’arrière du boîtier de l’enregistreur.|This information is located at the back of the recorder box.
+webapp.AssistantConfiguration.deviceSerial|Numéro de série|Serial number
+webapp.AssistantConfiguration.deviceCode|Code appareil|Device code
+webapp.AssistantConfiguration.deviceIdentication|Identification de l'appareil|Device identification
+webapp.ProbesType.Probe_lora_25|Pression atmosphérique interne|Internal atmospheric pressure
+webapp.AssistantConfiguration.configurationOption2|Configuration par fichier XML|Configuration by XML file
+webapp.AssistantConfiguration.deviceConfiguration|Configuration de l'appareil|Device configuration
+webapp.AssistantConfiguration.configurationOption1|Configuration par l'application mobile (Conseillé)|Configuration by mobile application (Recommended)
+webapp.AssistantConfiguration.page2Option2Description2|Un code de configuration va apparaitre sur l’écran de l’enregistreur, renseignez le ici.|A configuration code will appear on the screen of the recorder, fill in the here.
+webapp.AssistantConfiguration.page1Description1|Indiquez le numéro de série et le code de l’appareil.|Enter the serial number and the code of the device.
+webapp.AssistantConfiguration.page2Option2Warning|Attention ! Ne débranchez pas votre appareil du port USB pendant la configuration, sinon le numéro de configuration ne sera plus valide.|Warning ! 
+webapp.AssistantConfiguration.page2Option1Info1|Afin de continuer le mise en route de votre appareil, nous vous conseillons d'utiliser l'application mobile Medifroid Cloud. Elle vous permettra de configurer votre appareil plus facilement.|In order to continue getting started with your device, we recommend using the Medifroid Cloud mobile application. 
+webapp.AssistantConfiguration.configurationCode|Code de configuration|Configuration code
+webapp.AssistantConfiguration.page2Option2Description1|Connectez votre appareil en USB à l’ordinateur.|Connect your device in USB to the computer.
+webapp.AssistantConfiguration.page4Description2|Copiez ce fichier sur votre enregistreur, affiché sur votre ordinateur dans les stockages amovibles.|Copy this file to your recorder, displayed on your computer in removable storage.
+webapp.AssistantConfiguration.page4Title|Enregistrement de la configuration|Saving the configuration
+webapp.AssistantConfiguration.designation|Désignation|Detail © shipping name
+webapp.AssistantConfiguration.page2Option1Info2|Vous pouvez également suivre les instructions de cet assistant pour configurer votre appareil par fichier XML.|You can also follow the instructions in this wizard to configure your device by XML file.
+webapp.AssistantConfiguration.page4Description1|Le fichier de configuration conf{token}.xml a été enregistré sur votre ordinateur.|The configuration file conf {token} .xml has been saved on your computer.
+webapp.AssistantConfiguration.page4Warning|Attention ! Si votre navigateur est configuré de manière à télécharger automatiquement les fichiers, vous trouverez votre fichier dans le dossier de téléchargement habituel.|Warning ! 
+webapp.AssistantConfiguration.page5Description|Une fois le fichier de configuration copié sur votre appareil, celui-ci est prêt à fonctionner. Donnez lui une désignation et sélectionnez la zone dans laquelle vous souhaitez l’intégrer.|Once the configuration file is copied to your device, it is ready to work. 

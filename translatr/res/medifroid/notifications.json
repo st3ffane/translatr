@@ -1,0 +1,88 @@
+{
+	"_id": {
+		"$oid": "593f8f2d67da3386375af8bf"
+	},
+	"collection": "alarms",
+	"rules": [
+		{
+			"query": {
+				"state": 1.0,
+				"ackType": {
+					"_neq": 2.0
+				}
+			},
+			"payloads": {
+				"fr_FR": {
+					"title": "Déclenchement alarme sur ${site.name}",
+					"body": "${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation} ${alarms.value}${alarms.unit}",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		},
+		{
+			"query": {
+				"state": 0.0,
+				"ackType": {
+					"_neq": 2.0
+				}
+			},
+			"payloads": {
+				"fr_FR": {
+					"title": "Retour d'alarme sur ${site.name}",
+					"body": "${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation} ${alarms.value}${alarms.unit}",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5924592ee31984ec79eb8c20"
+	},
+	"collection": "alarms",
+	"rules": [
+		{
+			"query": {
+				"state": 1.0
+			},
+			"payloads": {
+				"fr_FR": {
+					"title": "Déclenchement alarme sur ${site.name}",
+					"body": "${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation} ${alarms.value}${alarms.unit}",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		},
+		{
+			"query": {
+				"state": 0.0
+			},
+			"payloads": {
+				"fr_FR": {
+					"title": "Retour d'alarme sur ${site.name}",
+					"body": "${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation} ${alarms.value}${alarms.unit}",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		}
+	]
+}

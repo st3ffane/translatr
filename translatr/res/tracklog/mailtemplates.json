@@ -1,0 +1,74 @@
+[
+{
+	"key": "REGISTER_SUCCESS",
+	"locale": "fr_FR",
+	"html": "\u003c!doctype html\u003e\u003chtml lang=\"${locale}\"\u003e\u003chead\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBonjour ${user.lastName},\u003c/p\u003e\u003cp\u003eVous venez de vous inscrire sur Kimo TrackLog. Pour valider votre inscription, veuillez cliquer sur le lien suivant : \u003ca href=\"${url}\"\u003e${url}\u003c/a\u003e \u003c/p\u003e\u003cp\u003e\u003ci\u003eCe mail est envoyé automatiquement, merci de ne pas y répondre.\u003c/i\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+	"text": "Bonjour ${user.lastName},\r\nVous venez de vous inscrire sur KIMO TrackLogs. Pour valider votre inscription, veuillez cliquer sur le lien suivant : ${url}\r\nCe mail est envoyé automatiquement, merci de ne pas y répondre.",
+	"subject": "Inscription KIMO TrackLogs"
+},
+{
+	"key": "REGISTER_SUCCESS",
+	"locale": "en_US",
+	"html": "\u003c!doctype html\u003e\u003chtml lang=\"${locale}\"\u003e\u003chead\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eHello ${user.lastName},\u003c/p\u003e\u003cp\u003eYou just signed up for KIMO TrackLogs. To validate your registration, please click on the following link: \u003ca href=\"${url}\"\u003e${url}\u003c/a\u003e \u003c/p\u003e\u003cp\u003e\u003ci\u003eThis email is sent automatically, please do not reply.\u003c/i\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+	"text": "Hello ${user.lastName}, \r\nYou just signed up for KIMO TrackLogs. To validate your registration, please click on the following link: ${url} \r\nThis email is sent automatically, please do not reply.",
+	"subject": "KIMO TrackLogs Registration"
+},
+{
+	
+	"key": "LOST_PASSWORD",
+	"locale": "fr_FR",
+	"html": "\u003c!doctype html\u003e\u003chtml lang=\"${locale}\"\u003e\u003chead\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBonjour ${user.lastName},\u003c/p\u003e\u003cp\u003eVous venez de faire une demande de mot de passe perdu.\u003c/p\u003e\u003cp\u003eVotre nouveau mot de passe est : \u003cb\u003e${password}\u003c/b\u003e\u003c/p\u003e\u003cp\u003eVeuillez changer votre mot de passe une fois connecté sur \u003ca href=\"https://medifroidcloud.inair.cloud\"\u003ehttps://medifroidcloud.inair.cloud\u003c/a\u003e\u003c/p\u003e\u003cp\u003ePour rappel, votre identifiant de connexion est : \u003cb\u003e${user.login}\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003eCe mail est envoyé automatiquement, merci de ne pas y répondre.\u003c/i\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+	"text": "Bonjour ${user.lastName},\r\nVous venez de faire une demande de mot de passe perdu.\r\nVotre nouveau mot de passe est : ${password}\r\nVeuillez changer votre mot de passe une fois connecté sur https://kimotracklogs.cloud\r\nPour rappel, votre identifiant de connexion est : ${user.login}\r\nCe mail est envoyé automatiquement, merci de ne pas y répondre.",
+	"subject": "KIMO TrackLogs - Perte de mot de passe"
+},
+{
+	
+	"key": "LOST_PASSWORD",
+	"locale": "en_US",
+	"html": "\u003c!doctype html\u003e\u003chtml lang=\"${locale}\"\u003e\u003chead\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eHello ${user.lastName},\u003c/p\u003e\u003cp\u003eYou've just asked for a lost password.\u003c/p\u003e\u003cp\u003eYour new password is: \u003cb\u003e${password}\u003c/b\u003e\u003c/p\u003e\u003cp\u003ePlease change your password once logged in \u003ca href=\"https://kimo.tracklog\"\u003ehttps://kimo.tyracklog\u003c/a\u003e\u003c/p\u003e\u003cp\u003eFor reminder, your login is: \u003cb\u003e${user.login}\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003eThis email is sent automatically, please do not reply.\u003c/i\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+	"text": "Hello ${user.lastName}, \r\nYou've just asked for a lost password.\r\nYour new password is: ${password} \r\nPlease change your password once logged in https://kimotracklogs.cloud \r\nFor reminder, your login is: ${user.login} \r\nThis email is sent automatically, please do not reply.",
+	"subject": "KIMO TrackLogs - Lost Password"
+},
+{
+	"key": "NEW_PASSWORD",
+	"locale": "fr_FR",
+	"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Bonjour ${user.lastName},</p><p>Votre demande de mofification de mot de passe a bien été enregistrée.</p><p>Pour rappel, votre identifiant de connexion est : <b>${user.login}</b></p><p><i>Ce mail est envoyé automatiquement, merci de ne pas y répondre.</i></p></body></html>",
+	"text": "Bonjour ${user.lastName},\r\nVotre demande de mofification de mot de passe a bien été enregistrée.\r\nPour rappel, votre identifiant de connexion est : ${user.login}\r\nCe mail est envoyé automatiquement, merci de ne pas y répondre.",
+	"subject": "KIMO TrackLogs - Changement de mot de passe"
+},
+{
+	"key": "NEW_PASSWORD",
+	"locale": "en_US",
+	"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Hello ${user.lastName},</p><p>Your password change request has been saved. </p><p>For reminder, your login is: <b>${user.login}</b></p><p><i>This email is sent automatically please do not answer.</i></p></body></html>",
+	"text": "Hello ${user.lastName}, \r\nYour password change request has been saved. \r\nFor reminder, your login is: ${user.login} \r\nThis email is sent automatically please do not answer.",
+	"subject": "KIMO TrackLogs - Change of password"
+},
+{
+	"key": "INTRUSION",
+	"locale": "fr_FR",
+	"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Bonjour ${admin.lastName},</p><p>Une tentative d'intrusion a été détéctée sur le compte de ${user.firstName} ${user.lastName} </b></p><p><i>Ce mail est envoyé automatiquement, merci de ne pas y rpondre.</i></p></body></html>",
+	"text": "Bonjour ${admin.lastName},\r\nUne tentative d'intrusion a été détéctée sur le compte de ${user.firstName} ${user.lastName} \r\nCe mail est envoyé automatiquement, merci de ne pas y répondre.",
+	"subject": "KIMO TrackLogs - Intrusion"
+},
+{
+	"key": "INTRUSION",
+	"locale": "en_US",
+	"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Hello ${admin.lastName},</p><p>An intrusion attempt has been detected on the account of ${user.firstName} ${user.lastName} </b></p><p><i>This email is sent automatically, please do not reply.</i></p></body></html>",
+	"text": "Hello ${admin.lastName}, \r\nAn intrusion attempt has been detected on the account of ${user.firstName} ${user.lastName} \r\nThis email is sent automatically, please do not reply .",
+	"subject": "KIMO TrackLogs - Intrusion"
+},
+{
+	"key": "ADMIN_LOST_PASSWORD",
+	"locale": "fr_FR",
+	"html": "\u003c!doctype html\u003e\u003chtml lang=\"${locale}\"\u003e\u003chead\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBonjour ${user.lastName},\u003c/p\u003e\u003cp\u003eVotre mot de passe a été réinitialisé à la suite de 5 tentatives de connexion échouées.\u003c/p\u003e\u003cp\u003eVotre nouveau mot de passe est : \u003cb\u003e${password}\u003c/b\u003e\u003c/p\u003e\u003cp\u003eVeuillez changer votre mot de passe une fois connecté sur \u003ca href=\"https://medifroidcloud.inair.cloud\"\u003ehttps://medifroidcloud.inair.cloud\u003c/a\u003e\u003c/p\u003e\u003cp\u003ePour rappel, votre identifiant de connexion est : \u003cb\u003e${user.login}\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003eCe mail est envoyé automatiquement, merci de ne pas y répondre.\u003c/i\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+	"text": "Bonjour ${user.lastName},\r\nVotre mot de passe a été réinitialisé à la suite de 5 tentatives de connexion échouées.\r\nVotre nouveau mot de passe est : ${password}\r\nVeuillez changer votre mot de passe une fois connecté sur https://kimo.cloud\r\nPour rappel, votre identifiant de connexion est : ${user.login}\r\nCe mail est envoyé automatiquement, merci de ne pas y répondre.",
+	"subject": "KIMO TrackLogs - Réinitialisation de votre mot de passe"
+},
+{
+	"key": "ADMIN_LOST_PASSWORD",
+	"locale": "en_US",
+	"html": "\u003c!doctype html\u003e\u003chtml lang=\"${locale}\"\u003e\u003chead\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eHello ${user.lastName},\u003c/p\u003e\u003cp\u003eYour password has been reset after 5 failed login attempts.\u003c/p\u003e\u003cp\u003eYour new password is: \u003cb\u003e${password}\u003c/b\u003e\u003c/p\u003e\u003cp\u003ePlease change your password once logged in  \u003ca href=\"https:\\kimo.cloud\"\u003e https://kimo.cloud\u003c/a\u003e\u003c/p\u003e\u003cp\u003eFor reminder, your login is: ${user.login} \u003cb\u003e${user.login}\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003eThis email is sent automatically, please do not reply.\u003c/i\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+	"text": "Hello ${user.lastName}, \r\nYour password has been reset after 5 failed login attempts. \r\nYour new password is: ${password} \r\nPlease change your password once logged in https://kimo.cloud \r\nFor reminder, your login is: ${user.login} \r\nThis email is sent automatically, please do not reply.",
+	"subject": "KIMO TrackLogs - Réinitialisation de votre mot de passe"
+}
+]

@@ -1,0 +1,7 @@
+{
+    "from":"fr",
+    "to":"en,es,de",
+    "input":"./package.json",
+    "output":"./",
+    "dict": "./translatr/traductions/medifroid/app/en"
+}

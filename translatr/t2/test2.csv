@@ -1,0 +1,1167 @@
+KEY;FILE;TYPE;FR
+CONS4_004879;352637-4;105; avec jauge de pression de -0,8 à 20 bars
+CONS4_032785;271183-4;105;à colonne inclinée
+CONS4_032771;272643-4;105;à colonne vertical
+CONS4_049943;448080-4;105;A élément souple à coller
+CONS4_007353;292583-4;105;A pointes : matériau bois 
+CONS4_083597;444576-4;105;A rallonge
+CONS1_000148;337218-1;102;Accéléromètre ASH201-A
+CONS1_076215;449688-1;102;Adaptateur pour sonde de température PT100 3 fils KICA-320
+CONS1_070087;466752-1;102;Adaptateur pour sonde de température PT100 3 fils STA-13
+CONS1_069097;447180-1;102;Adaptateur pour sonde de température PT100 3 fils TCP310
+CONS1_069104;451819-1;102;Adaptateur pour sonde de température PT100 3 fils TCP310-HP
+CONS1_010525;390138-1;102;Afficheur 5100V
+CONS1_016733;441308-1;102;Afficheur de température
+CONS1_030043;259689-1;102;Afficheur Multi-voies encastrable ATE 300-B
+CONS1_030051;259906-1;102;Afficheur Multi-voies encastrable ATE 300-I
+CONS1_065841;282924-1;102;Afficheur Multi-voies encastrable ATE 310
+CONS1_028553;266605-1;102;Afficheur Thermo-hygromètre
+CONS1_080021;272156-1;102;Afficheur Thermo-hygromètre Opus 1
+CONS1_080028;273725-1;102;Afficheur Thermo-hygromètre Opus 10
+CONS1_080065;442697-1;102;Afficheur thermo-hygromètre Opus 20
+CONS1_090831;277257-1;102;Afficheur transmetteur ATEX ExCOS D
+CONS1_090881;452569-1;102;Afficheur transmetteur ATEX RedCos D
+CONS1_090838;282257-1;102;Afficheur transmetteur ATEX RedCos-D
+CONS1_031846;283686-1;102;Afficheur transmetteur DS400 + Capteur point de rosée haute pression FA410
+CONS1_041694;356978-1;102;Afficheur transmetteur DS400 + VA400_11
+CONS1_011984;289563-1;102;Afficheur transmetteur mobile DS 300
+CONS1_012018;355476-1;102;Afficheur transmetteur mobile DS 400
+CONS1_012025;422443-1;102;Afficheur transmetteur mobile DS300
+CONS1_093292;439555-1;102;Afficheur-régulateur de type TLK38
+CONS1_042831;443210-1;102;Ajusteur d'humidimètre
+CONS1_079094;468957-1;102;Ajusteur Kistock
+CONS1_078171;442327-1;102;Ajusteur poste fixe
+CONS1_087898;294111-1;102;Alésomètre
+CONS1_014589;384326-1;102;Ampéremètre DIFF
+CONS1_014892;299567-1;102;Analuseur de combustion MICROMAK
+CONS1_020891;361951-1;102;Analyseur de câble DSP4300
+CONS1_020898;361221-1;102;Analyseur de câble DTX1800
+CONS1_024829;274332-1;102;Analyseur de Chlore HI 93701
+CONS1_024836;274353-1;102;Analyseur de Chlore HI 93711
+CONS1_024843;274578-1;102;Analyseur de Chlore HI 96724
+CONS1_029200;271414-1;102;Analyseur de combustion
+CONS1_083811;260666-1;102;Analyseur de combustion 89-5
+CONS1_101034;265899-1;102;Analyseur de combustion A400
+CONS1_043216;292840-1;102;Analyseur de combustion AC300
+CONS1_024398;283033-1;102;Analyseur de combustion BIOGAS 5000
+CONS1_087459;266699-1;102;Analyseur de combustion BOSTON
+CONS1_091626;289694-1;102;Analyseur de combustion CHEMIST 200
+CONS1_091634;289729-1;102;Analyseur de combustion CHEMIST 300
+CONS1_016315;270961-1;102;Analyseur de combustion CLV
+CONS1_091642;291515-1;102;Analyseur de combustion COMBIGAS 300
+CONS1_030146;278756-1;102;Analyseur de combustion COMBUTEST
+CONS1_030122;281385-1;102;Analyseur de combustion COMBUTEST 2
+CONS1_030130;284440-1;102;Analyseur de combustion COMBUTEST 200
+CONS1_034331;292535-1;102;Analyseur de combustion COMBUTEST 2000
+CONS1_030138;285713-1;102;Analyseur de combustion COMBUTEST 2000 PR
+CONS1_043312;308379-1;102;Analyseur de combustion COMBUTEST 3
+CONS1_060002;308245-1;102;Analyseur de combustion COMBUTEST 4
+CONS1_083819;274465-1;102;Analyseur de combustion DELTA 1600 S
+CONS1_083826;274938-1;102;Analyseur de combustion DELTA 2000CD
+CONS1_083833;267936-1;102;Analyseur de combustion DELTA 65
+CONS1_030154;283219-1;102;Analyseur de combustion DIAG EDITION
+CONS1_004248;283006-1;102;Analyseur de combustion ECA450
+CONS1_030090;281846-1;102;Analyseur de combustion ECOLINE 6000
+CONS1_016323;281099-1;102;Analyseur de combustion ECOM DUO DIAG
+CONS1_016330;269973-1;102;Analyseur de combustion ECOM EN2
+CONS1_016353;268375-1;102;Analyseur de combustion ECOM JF
+CONS1_101042;289270-1;102;Analyseur de combustion ECONOMETRE E98
+CONS1_016719;290428-1;102;Analyseur de combustion ELEKTRON CO
+CONS1_017450;296080-1;102;Analyseur de combustion EUROLYSER
+CONS1_089160;267190-1;102;Analyseur de combustion FG100
+CONS1_004256;304395-1;102;Analyseur de combustion FYRITE INSIGHT
+CONS1_004264;295032-1;102;Analyseur de combustion FYRITE PRO
+CONS1_080550;266138-1;102;Analyseur de combustion GA 21+
+CONS1_080558;267454-1;102;Analyseur de combustion GA 40 T
+CONS1_080574;267819-1;102;Analyseur de combustion GA 40T
+CONS1_030098;286577-1;102;Analyseur de combustion GREENLINE 8000
+CONS1_016337;270019-1;102;Analyseur de combustion J2K
+CONS1_016345;272523-1;102;Analyseur de combustion J2KN
+CONS1_029221;278202-1;102;Analyseur de Combustion KANE 100
+CONS1_029152;276744-1;102;Analyseur de Combustion KANE 250
+CONS1_029160;276657-1;102;Analyseur de Combustion KANE 400
+CONS1_029168;276810-1;102;Analyseur de Combustion KANE 450
+CONS1_029176;276895-1;102;Analyseur de Combustion KANE 453
+CONS1_029184;276965-1;102;Analyseur de Combustion KANE 455
+CONS1_029400;289556-1;102;Analyseur de Combustion KANE 455DG+
+CONS1_029527;369441-1;102;Analyseur de Combustion KANE 501
+CONS1_030194;274355-1;102;Analyseur de combustion KIGAZ 100
+CONS1_030178;295217-1;102;Analyseur de combustion KIGAZ 100 CO FONDIS
+CONS1_030186;293369-1;102;Analyseur de combustion KIGAZ 100 CO PRINT
+CONS1_043025;307845-1;102;Analyseur de combustion KIGAZ 100 G5
+CONS1_046568;311664-1;102;Analyseur de combustion KIGAZ 100 I
+CONS1_060103;306451-1;102;Analyseur de combustion KIGAZ 100 T5
+CONS1_060111;306482-1;102;Analyseur de combustion KIGAZ 100 T6
+CONS1_043344;301313-1;102;Analyseur de combustion KIGAZ 110
+CONS1_074003;306168-1;102;Analyseur de combustion KIGAZ 110 G5
+CONS1_074011;306565-1;102;Analyseur de combustion KIGAZ 110 T5
+CONS1_074019;309703-1;102;Analyseur de combustion KIGAZ 110 UNI
+CONS1_043352;301445-1;102;Analyseur de combustion KIGAZ 150
+CONS1_074035;313911-1;102;Analyseur de combustion KIGAZ 150 DELMO
+CONS1_060143;306193-1;102;Analyseur de combustion KIGAZ 150 G5
+CONS1_074043;318516-1;102;Analyseur de combustion KIGAZ 150 G5 DELMO
+CONS1_046584;311813-1;102;Analyseur de combustion KIGAZ 150 I
+CONS1_060127;313882-1;102;Analyseur de combustion KIGAZ 150-DELMO
+CONS1_060135;318481-1;102;Analyseur de combustion KIGAZ 150-G5-DELMO
+CONS1_060159;306991-1;102;Analyseur de combustion KIGAZ 150-IM
+CONS1_030210;274386-1;102;Analyseur de combustion KIGAZ 200
+CONS1_034403;286722-1;102;Analyseur de combustion KIGAZ 200 CO
+CONS1_030472;292913-1;102;Analyseur de combustion KIGAZ 200 CO PRINT
+CONS1_043041;310402-1;102;Analyseur de combustion KIGAZ 200 PG5
+CONS1_043049;311543-1;102;Analyseur de combustion KIGAZ 200 PRO
+CONS1_043057;310799-1;102;Analyseur de combustion KIGAZ 200 PT5
+CONS1_060199;309138-1;102;Analyseur de combustion KIGAZ 200 PT6
+CONS1_043065;310487-1;102;Analyseur de combustion KIGAZ 200 SG5
+CONS1_060215;308826-1;102;Analyseur de combustion KIGAZ 200 SG6
+CONS1_043073;310884-1;102;Analyseur de combustion KIGAZ 200 ST5
+CONS1_060231;309223-1;102;Analyseur de combustion KIGAZ 200 ST6
+CONS1_060239;309285-1;102;Analyseur de combustion KIGAZ 200 ST8 PROXISERVE
+CONS1_059747;311118-1;102;Analyseur de combustion KIGAZ 200 STD
+CONS1_030218;275983-1;102;Analyseur de combustion KIGAZ 2000
+CONS1_043368;301377-1;102;Analyseur de combustion KIGAZ 202
+CONS1_043376;301344-1;102;Analyseur de combustion KIGAZ 210
+CONS1_074067;308752-1;102;Analyseur de combustion KIGAZ 210 PG5
+CONS1_074091;309893-1;102;Analyseur de combustion KIGAZ 210 PRO
+CONS1_074075;331626-1;102;Analyseur de combustion KIGAZ 210 PRO SAUERMANN
+CONS1_074083;317995-1;102;Analyseur de combustion KIGAZ 210 PRO UNI
+CONS1_074099;309149-1;102;Analyseur de combustion KIGAZ 210 PT5
+CONS1_074107;308837-1;102;Analyseur de combustion KIGAZ 210 SG5
+CONS1_074115;309234-1;102;Analyseur de combustion KIGAZ 210 ST5
+CONS1_074139;309691-1;102;Analyseur de combustion KIGAZ 210 STD
+CONS1_074123;331452-1;102;Analyseur de combustion KIGAZ 210 STD SAUERMANN
+CONS1_074131;317777-1;102;Analyseur de combustion KIGAZ 210 STD UNI
+CONS1_060303;301319-1;102;Analyseur de combustion KIGAZ 250
+CONS1_060263;306954-1;102;Analyseur de combustion KIGAZ 250 KI
+CONS1_043081;310539-1;102;Analyseur de combustion KIGAZ 250 PG5
+CONS1_059763;311457-1;102;Analyseur de combustion KIGAZ 250 PRO
+CONS1_043089;310624-1;102;Analyseur de combustion KIGAZ 250 SG5
+CONS1_059779;311255-1;102;Analyseur de combustion KIGAZ 250 STD
+CONS1_030226;274421-1;102;Analyseur de combustion KIGAZ 300
+CONS1_043097;310026-1;102;Analyseur de combustion KIGAZ 300 CG5
+CONS1_059795;310316-1;102;Analyseur de combustion KIGAZ 300 CLA
+CONS1_046608;316571-1;102;Analyseur de combustion KIGAZ 300 CLV
+CONS1_059803;310200-1;102;Analyseur de combustion KIGAZ 300 CT5
+CONS1_059811;310214-1;102;Analyseur de combustion KIGAZ 300 PG5
+CONS1_043105;311578-1;102;Analyseur de combustion KIGAZ 300 PRO
+CONS1_059827;310611-1;102;Analyseur de combustion KIGAZ 300 PT5
+CONS1_060359;309173-1;102;Analyseur de combustion KIGAZ 300 PT6
+CONS1_043113;310522-1;102;Analyseur de combustion KIGAZ 300 SG5
+CONS1_060375;308861-1;102;Analyseur de combustion KIGAZ 300 SG6
+CONS1_046616;317067-1;102;Analyseur de combustion KIGAZ 300 SLV
+CONS1_043121;310919-1;102;Analyseur de combustion KIGAZ 300 ST5
+CONS1_060391;309258-1;102;Analyseur de combustion KIGAZ 300 ST6
+CONS1_043129;311376-1;102;Analyseur de combustion KIGAZ 300 STD
+CONS1_030250;276016-1;102;Analyseur de combustion KIGAZ 3000
+CONS1_030234;295115-1;102;Analyseur de combustion KIGAZ 3000 CO PRINT
+CONS1_030242;297219-1;102;Analyseur de combustion KIGAZ 3000 ECO PRINT
+CONS1_043384;301412-1;102;Analyseur de combustion KIGAZ 302
+CONS1_043400;301379-1;102;Analyseur de combustion KIGAZ 310
+CONS1_074195;308376-1;102;Analyseur de combustion KIGAZ 310 CG5
+CONS1_074203;308889-1;102;Analyseur de combustion KIGAZ 310 CLA
+CONS1_074211;308773-1;102;Analyseur de combustion KIGAZ 310 CT5
+CONS1_074219;308787-1;102;Analyseur de combustion KIGAZ 310 PG5
+CONS1_074227;309928-1;102;Analyseur de combustion KIGAZ 310 PRO
+CONS1_074235;309184-1;102;Analyseur de combustion KIGAZ 310 PT5
+CONS1_043392;305057-1;102;Analyseur de combustion KIGAZ 310 S
+CONS1_074243;308872-1;102;Analyseur de combustion KIGAZ 310 SG5
+CONS1_074251;309269-1;102;Analyseur de combustion KIGAZ 310 ST5
+CONS1_074259;309726-1;102;Analyseur de combustion KIGAZ 310 STD
+CONS1_060431;299862-1;102;Analyseur de combustion KIGAZ 50
+CONS1_060415;302935-1;102;Analyseur de combustion KIGAZ 50 F
+CONS1_059867;307530-1;102;Analyseur de combustion KIGAZ 500
+CONS1_060423;305524-1;102;Analyseur de combustion KIGAZ 50-IM
+CONS1_042977;304735-1;102;Analyseur de combustion KIGAZ 700
+CONS1_060463;299957-1;102;Analyseur de combustion KIGAZ 80
+CONS1_060447;304819-1;102;Analyseur de combustion KIGAZ 80 G5
+CONS1_074291;321943-1;102;Analyseur de combustion KIGAZ 80 SAUERMANN
+CONS1_060455;305216-1;102;Analyseur de combustion KIGAZ 80 T5
+CONS1_074307;303629-1;102;Analyseur de combustion KIGAZ 80 VAILLANT
+CONS1_042985;304785-1;102;Analyseur de combustion KIGAZ 900
+CONS1_043200;313781-1;102;Analyseur de combustion KIGAZ 900 BUREAU VERITAS
+CONS1_029207;271433-1;102;Analyseur de combustion KM900
+CONS1_017457;307149-1;102;Analyseur de combustion MAXILYSER MK II
+CONS1_014899;299042-1;102;Analyseur de combustion MICROMAK
+CONS1_017464;295694-1;102;Analyseur de combustion MINILYSER
+CONS1_017471;298648-1;102;Analyseur de combustion MULTILYSER
+CONS1_083840;267017-1;102;Analyseur de combustion NOVA H8
+CONS1_083848;269330-1;102;Analyseur de combustion OPTIMA 7
+CONS1_004272;281142-1;102;Analyseur de combustion PCA 2
+CONS1_004280;282908-1;102;Analyseur de combustion PCA 55
+CONS1_004288;282941-1;102;Analyseur de combustion PCA 65
+CONS1_017478;293877-1;102;Analyseur de combustion PROLYSER
+CONS1_083856;281633-1;102;Analyseur de combustion SPECTRA 1600 GL
+CONS1_083864;279539-1;102;Analyseur de combustion SPECTRA 1600 L
+CONS1_083872;275959-1;102;Analyseur de combustion SPECTRA 2000
+CONS1_023064;361975-1;102;Analyseur de combustion SPRINT 2000 XT
+CONS1_093532;280964-1;102;Analyseur de combustion SPRINT V2
+CONS1_093910;286558-1;102;Analyseur de combustion Testo 300 M
+CONS1_094153;292279-1;102;Analyseur de combustion Testo 300 XXL
+CONS1_094139;286901-1;102;Analyseur de combustion Testo 300M
+CONS1_093917;289317-1;102;Analyseur de combustion Testo 300XL
+CONS1_093924;291940-1;102;Analyseur de combustion Testo 300XXL
+CONS1_093931;283159-1;102;Analyseur de combustion Testo 310
+CONS1_093952;283192-1;102;Analyseur de combustion Testo 320
+CONS1_093966;286759-1;102;Analyseur de combustion Testo 325 M
+CONS1_093980;288888-1;102;Analyseur de combustion Testo 325_S
+CONS1_093959;285883-1;102;Analyseur de combustion Testo 325-1
+CONS1_093973;286346-1;102;Analyseur de combustion Testo 325-3
+CONS1_093987;285949-1;102;Analyseur de combustion Testo 327-1
+CONS1_093994;285980-1;102;Analyseur de combustion Testo 327-2
+CONS1_094001;285765-1;102;Analyseur de combustion Testo 330-1
+CONS1_094008;290414-1;102;Analyseur de combustion Testo 330-1LL
+CONS1_094015;285796-1;102;Analyseur de combustion Testo 330-2
+CONS1_094022;290445-1;102;Analyseur de combustion Testo 330-2LL
+CONS1_094029;283376-1;102;Analyseur de combustion Testo 335
+CONS1_094036;283254-1;102;Analyseur de combustion Testo 340
+CONS1_094043;285848-1;102;Analyseur de combustion Testo 342-1
+CONS1_094050;285883-1;102;Analyseur de combustion Testo 343-1
+CONS1_094057;286412-1;102;Analyseur de combustion Testo 346-2
+CONS1_096693;417990-1;102;Analyseur de combustion Testo 350
+CONS1_094064;286885-1;102;Analyseur de combustion Testo 350 S
+CONS1_094071;289456-1;102;Analyseur de combustion Testo 350 XL
+CONS1_094078;291730-1;102;Analyseur de combustion Testo 350M XL
+CONS1_094085;283438-1;102;Analyseur de combustion Testo 454
+CONS1_017520;295171-1;102;Analyseur de combustion type BLUELYSER
+CONS1_017442;295702-1;102;Analyseur de combustion type BLUELYZER
+CONS1_017975;292883-1;102;Analyseur de combustion UNIGAS 1000
+CONS1_030265;278468-1;102;Analyseur de combustion UNIGAS 2000
+CONS1_017983;292949-1;102;Analyseur de combustion UNIGAS 3000
+CONS1_017991;292982-1;102;Analyseur de combustion UNIGAS 4000
+CONS1_083880;275421-1;102;Analyseur de combustion VARIO PLUS
+CONS1_094903;374629-1;102;Analyseur de froid Testo 523
+CONS1_094996;384722-1;102;Analyseur de froid Testo 570
+CONS1_098436;273074-1;102;Analyseur de gaz IAQ-Calc
+CONS1_015831;293877-1;102;Analyseur de gaz MiniWarn
+CONS1_026207;350424-1;102;ANALYSEUR DE PUISSANCE
+CONS1_009351;440525-1;102;Analyseur de réseau CA 8332 B
+CONS1_009358;437827-1;102;Analyseur de réseau CA 8333
+CONS1_009039;386749-1;102;Analyseur de réseau CA 8334
+CONS1_009308;439143-1;102;Analyseur de réseau CA 8334 B
+CONS1_010196;390000-1;102;Analyseur de réseau CA 8334B
+CONS1_009046;386788-1;102;Analyseur de réseau CA 8335
+CONS1_009553;436409-1;102;Analyseur de réseau CA 8336
+CONS1_009053;386757-1;102;Analyseur de réseau CA 8352
+CONS1_020870;360214-1;102;Analyseur de réseau DSP 100
+CONS1_020877;361800-1;102;Analyseur de réseau DSP2000
+CONS1_020884;361866-1;102;Analyseur de réseau DSP4000
+CONS1_009032;388751-1;102;Analyseur de réseau électrique triphasé CA 8332B
+CONS1_021498;417718-1;102;Analyseur de réseau FLUKE 1735
+CONS1_021533;416241-1;102;Analyseur de réseau Fluke 434
+CONS1_022624;365168-1;102;Analyseur de réseau Fluke 435
+CONS1_022636;368077-1;102;Analyseur de réseau FLUKE 7-600
+CONS1_021217;387584-1;102;Analyseur de réseau MicroScanner 2
+CONS1_021224;379365-1;102;Analyseur de réseau MICROTEST OMNI
+CONS1_026374;400317-1;102;Analyseur de réseau PQA824
+CONS1_026381;401737-1;102;Analyseur de réseau VEGA 78
+CONS1_020905;363075-1;102;Analyseur de réseaux DTX-ELT
+CONS1_094982;384877-1;102;Analyseurs de froid Testo 557
+CONS1_094961;384894-1;102;Analyseurs pour pompes à chaleur et groupes frigorifiques Testo 549
+CONS1_094911;374643-1;102;Analyseurs pour pompes à chaleur et groupes frigorifiques Testo 550
+CONS1_094918;374829-1;102;Analyseurs pour pompes à chaleur et groupes frigorifiques Testo 556
+CONS1_096251;435814-1;102;Analyseurs pour pompes à chaleur et groupes frigorifiques TESTO 556-1
+CONS1_095990;436235-1;102;Analyseurs pour pompes à chaleur et groupes frigorifiques Testo 560
+CONS1_094925;379029-1;102;Analyseurs pour pompes à chaleur et groupes frigorifiques TESTO 560-1
+CONS1_095997;436264-1;102;Analyseurs pour pompes à chaleur et groupes frigorifiques Testo 570
+CONS1_029574;357115-1;102;Anémomètre
+CONS1_013987;443515-1;102;Anémomètre - thermomètre HD 2103.1
+CONS1_013994;443546-1;102;Anémomètre - thermomètre HD 2103.2
+CONS1_014057;443554-1;102;Anémomètre - thermomètre HD 2303.0
+CONS1_013366;440752-1;102;Anémomètre - thermomètre HD2103.1
+CONS1_013373;440783-1;102;Anémomètre - thermomètre HD2103.2
+CONS1_013450;440791-1;102;Anémomètre - thermomètre HD2303.0
+CONS1_013731;438533-1;102;Anémomètre - thermomètre HD2303.0 avec sonde de température externe Pt100 4 fils TP47.100
+CONS1_090015;378676-1;102;Anémomètre 327-0640
+CONS1_042163;341090-1;102;Anémomètre 4260 T
+CONS1_005130;379577-1;102;Anémomètre 50518
+CONS1_012095;425825-1;102;Anémomètre 54N50
+CONS1_098846;335819-1;102;Anémomètre 8475 150
+CONS1_098854;335732-1;102;Anémomètre 8475 300
+CONS1_090788;370225-1;102;Anémomètre à ailettes 555.1.18
+CONS1_079556;339158-1;102;Anémomètre à coupelle INT10H
+CONS1_019197;436316-1;102;Anémomètre à coupelles
+CONS1_042028;344675-1;102;Anémomètre à coupelles INT 10
+CONS1_014188;354628-1;102;Anémomètre à fil chaud HD2303.0
+CONS1_014195;358184-1;102;Anémomètre à fil chaud HD2903 T01
+CONS1_014202;360893-1;102;Anémomètre à fil chaud HD2903TC1.2
+CONS1_014209;360054-1;102;Anémomètre à fil chaud HD29371 T01
+CONS1_014216;355611-1;102;Anémomètre à fil chaud HD29V3T
+CONS1_093155;406517-1;102;Anémomètre à fil chaud type Swema Air 40
+CONS1_093162;406554-1;102;Anémomètre à fil chaud type SwemaAir 50
+CONS1_090758;400155-1;102;Anémométre à helice
+CONS1_090744;383192-1;102;Anémomètre à helice
+CONS1_007265;353191-1;102;Anémométre à hélice
+CONS1_019204;428798-1;102;Anémomètre à hélice
+CONS1_084322;352943-1;102;Anémomètre à hélice ALMEMO 2290
+CONS1_042051;347034-1;102;Anémomètre à hélice de diamétre 100 LCA 6000
+CONS1_042035;352749-1;102;Anémomètre à hélice de diamétre 100 LCA 6000 VA
+CONS1_042043;353338-1;102;Anémomètre à hélice de diamétre 100 LCA 6000 VT
+CONS1_012177;284225-1;102;Anémomètre à hélice Debical 4000
+CONS1_042299;346065-1;102;Anémométre à hélice HKF
+CONS1_042195;346066-1;102;Anémomètre à hélice HKF
+CONS1_029831;371988-1;102;Anémomètre à hélice Kestrel 1000
+CONS1_029817;368697-1;102;Anémomètre à hélice Kestrel 3000
+CONS1_000235;334945-1;102;Anémomètre à Helice TMA 10
+CONS1_029588;348477-1;102;Anémomètre à hélice type 6812
+CONS1_027502;348737-1;102;Anémomètre à hélice Type AM02
+CONS1_024490;355750-1;102;Anémomètre à ultrasons WINDSONIC
+CONS1_080322;350505-1;102;Anémomètre AM4203
+CONS1_080330;350606-1;102;Anémomètre AM4206
+CONS1_088167;392372-1;102;Anémomètre AVM-01
+CONS1_090023;336430-1;102;Anémomètre AVM-09
+CONS1_084589;365353-1;102;Anémomètre AVT-D
+CONS1_097293;359215-1;102;Anemomètre diamètre 100mm Testo 400
+CONS1_089742;361022-1;102;Anémométre digital
+CONS1_016116;399112-1;102;Anémomètre Dwyer 471
+CONS1_001260;352848-1;102;Anémomètre électronique à hélice AV-2
+CONS1_086487;374041-1;102;Anémomètre électronique à hélice DA4000
+CONS1_086501;373832-1;102;Anémomètre électronique à hélice DA40T
+CONS1_001267;354403-1;102;Anémomètre électronique à hélice DVA 30
+CONS1_001274;359730-1;102;Anémomètre électronique à hélice DVA 30VT
+CONS1_001281;359135-1;102;Anémomètre électronique à hélice DVA600T
+CONS1_001288;355021-1;102;Anémomètre électronique à hélice EDRA 6
+CONS1_001295;355609-1;102;Anémomètre électronique à hélice LCA 301
+CONS1_001302;359409-1;102;Anémométre électronique à hélice LCA 30VT
+CONS1_001309;355675-1;102;Anémomètre électronique à hélice LCA 501
+CONS1_001316;357222-1;102;Anémomètre électronique à hélice LCA 6000
+CONS1_001323;360703-1;102;Anémomètre électronique à hélice LCA 6000 VA
+CONS1_001330;361292-1;102;Anémomètre électronique à hélice LCA 6000 VT
+CONS1_042211;342633-1;102;Anémomètre électronique à hélice LVM B
+CONS1_042219;342664-1;102;Anémomètre électronique à hélice LVM C
+CONS1_042339;339926-1;102;Anémomètre électronique à hélice LVS
+CONS1_041496;339797-1;102;Anémomètre électronique ANS
+CONS1_041449;335064-1;102;Anémomètre électronique basse vitesse à fil chaud AFL
+CONS1_023659;413345-1;102;Anémomètre FI 381
+CONS1_023667;411873-1;102;Anémomètre FI 39
+CONS1_023675;460951-1;102;Anémomètre FI21AF
+CONS1_025904;370744-1;102;Anémomètre Flowtherm NT
+CONS1_025920;353647-1;102;Anémomètre HPS2 HP
+CONS1_025912;342243-1;102;Anémomètre HTA
+CONS1_006469;347102-1;102;Anémomètre M129003
+CONS1_028973;343871-1;102;Anémomètre mécanique à compteur NG5393-2
+CONS1_079752;367541-1;102;Anémomètre METEO DIGIT 1
+CONS1_028980;337889-1;102;Anémomètre NG6313
+CONS1_087757;369716-1;102;Anémomètre PCE-423
+CONS1_001172;347586-1;102;Anémomètre TA400
+CONS1_001180;349444-1;102;Anémomètre TA4007
+CONS1_001252;389828-1;102;Anémomètre TA7
+CONS1_097301;359453-1;102;Anémomètre Testo 417
+CONS1_097472;373255-1;102;Anémomètre Testovent 4300
+CONS1_014223;419038-1;102;Anémomètre thermomètre HD 2103.1 avec sonde extensible à fil chaud AP471 S1
+CONS1_014237;419100-1;102;Anémomètre thermomètre HD 2103.1 avec sonde extensible à fil chaud AP471 S3 avec terminaison à galber
+CONS1_014230;419069-1;102;Anémomètre thermomètre HD 2103.1 avec sonde extensible omni-directionelle à fil chaud AP471 S2
+CONS1_014251;419170-1;102;Anémomètre thermomètre HD 2103.1 avec sonde extensible omni-directionelle à fil chaud AP471 S5
+CONS1_014244;419131-1;102;Anémomètre thermomètre HD 2103.1 avec sonde extensible omni-directionelle à fil chaud avec base AP471 S2
+CONS1_014166;366657-1;102;Anémomètre thermomètre HD 2103.2
+CONS1_014258;419071-1;102;Anémomètre thermomètre HD 2103.2 avec sonde extensible à fil chaud AP471 S1
+CONS1_014272;419133-1;102;Anémomètre thermomètre HD 2103.2 avec sonde extensible à fil chaud AP471 S3 avec terminaison à galber
+CONS1_014265;419102-1;102;Anémomètre thermomètre HD 2103.2 avec sonde extensible omni-directionelle à fil chaud AP471 S2
+CONS1_014286;419203-1;102;Anémomètre thermomètre HD 2103.2 avec sonde extensible omni-directionelle à fil chaud AP471 S5
+CONS1_014279;419164-1;102;Anémomètre thermomètre HD 2103.2 avec sonde extensible omni-directionelle à fil chaud avec base AP471 S4
+CONS1_014293;419103-1;102;Anémomètre thermomètre HD 2303.0 avec sonde extensible à fil chaud AP471 S1
+CONS1_014307;419165-1;102;Anémomètre thermomètre HD 2303.0 avec sonde extensible à fil chaud AP471 S3 avec terminaison à galber
+CONS1_014300;419134-1;102;Anémomètre thermomètre HD 2303.0 avec sonde extensible omni-directionelle à fil chaud AP471 S2
+CONS1_014321;419235-1;102;Anémomètre thermomètre HD 2303.0 avec sonde extensible omni-directionelle à fil chaud AP471 S5
+CONS1_014314;419196-1;102;Anémomètre thermomètre HD 2303.0 avec sonde extensible omni-directionelle à fil chaud avec base AP471 S2
+CONS1_014335;380769-1;102;Anémomètre thermomètre HD2103.1 avec sonde  diamètre 100 AP472 S1L
+CONS1_014328;380653-1;102;Anémomètre thermomètre HD2103.1 avec sonde diamètre 100 AP472 S1H
+CONS1_014370;379500-1;102;Anémomètre thermomètre HD2103.1 avec sonde diamètre 16mm AP472 S4H
+CONS1_014377;382068-1;102;Anémomètre thermomètre HD2103.1 avec sonde diamètre 16mm AP472 S4HT
+CONS1_014384;379616-1;102;Anémomètre thermomètre HD2103.1 avec sonde diamètre 16mm AP472 S4L
+CONS1_014391;382184-1;102;Anémomètre thermomètre HD2103.1 avec sonde diamètre 16mm AP472 S4LT
+CONS1_014454;377239-1;102;Anémomètre thermomètre HD2103.1 avec sonde diamètre 60 AP472 S2
+CONS1_014349;380800-1;102;Anémomètre thermomètre HD2103.2 avec sonde  diamètre 100 AP472 S1L
+CONS1_014342;380684-1;102;Anémomètre thermomètre HD2103.2 avec sonde diamètre 100 AP472 S1H
+CONS1_014398;379531-1;102;Anémomètre thermomètre HD2103.2 avec sonde diamètre 16mm AP472 S4H
+CONS1_014405;382101-1;102;Anémomètre thermomètre HD2103.2 avec sonde diamètre 16mm AP472 S4HT
+CONS1_014412;379647-1;102;Anémomètre thermomètre HD2103.2 avec sonde diamètre 16mm AP472 S4L
+CONS1_014419;382217-1;102;Anémomètre thermomètre HD2103.2 avec sonde diamètre 16mm AP472 S4LT
+CONS1_014461;377272-1;102;Anémomètre thermomètre HD2103.2 avec sonde diamètre 60 AP472 S2
+CONS1_014447;359171-1;102;Anémomètre thermomètre HD2303.0
+CONS1_014363;380768-1;102;Anémomètre thermomètre HD2303.0 avec sonde  diamètre 100 AP472 S1L
+CONS1_014356;380652-1;102;Anémomètre thermomètre HD2303.0 avec sonde diamètre 100 AP472 S1H
+CONS1_014426;379499-1;102;Anémomètre thermomètre HD2303.0 avec sonde diamètre 16mm AP472 S4H
+CONS1_014433;382069-1;102;Anémomètre thermomètre HD2303.0 avec sonde diamètre 16mm AP472 S4HT
+CONS1_014440;379615-1;102;Anémomètre thermomètre HD2303.0 avec sonde diamètre 16mm AP472 S4L
+CONS1_014468;377304-1;102;Anémomètre thermomètre HD2303.0 avec sonde diamètre 60 AP472 S2
+CONS1_029567;344823-1;102;Anémomètre type A004
+CONS1_098396;427441-1;102;Anèmomètre type TA300
+CONS1_080346;356911-1;102;Anémomètre YK 2001TM
+CONS1_031748;265124-1;102;Anémo-thermo-hygro électronique VTH
+CONS1_031756;260750-1;102;Anémo-thermo-hygro électronique VTI
+CONS1_092962;377592-1;102;Appareil à point de fusion SMP3
+CONS1_094099;284957-1;102;Appareil de combustion TESTO 435
+CONS1_094115;284990-1;102;Appareil de combustion TESTO 445
+CONS1_094131;281024-1;102;Appareil de combustion TESTO 535
+CONS1_015892;360573-1;102;Appareil de détection multigaz  X-AM-5600
+CONS1_094761;293579-1;102;Appareil de mesure de pression absolue type Testo 511
+CONS1_079991;269678-1;102;Appareil de mesure de pression et de débit PFM 2000
+CONS1_012932;291345-1;102;Appareil de mesure de pression HD8804+TP804-10A
+CONS1_094658;279300-1;102;Appareil de mesure multifonctions TESTO 645
+CONS1_000606;293727-1;102;Appareil multifonction
+CONS1_092547;271302-1;102;Appareil multifonction 510 E
+CONS1_000838;368819-1;102;Appareil multifonction Almeno 2290-8
+CONS1_044265;287593-1;102;Appareil multifonction AM09
+CONS1_038163;414807-1;102;Appareil multifonction AMI 96
+CONS1_044784;392059-1;102;Appareil multifonction AMI200
+CONS1_008331;414727-1;102;Appareil multifonction AMI300
+CONS1_044273;298489-1;102;Appareil multifonction AMI300 2500
+CONS1_044281;298869-1;102;Appareil multifonction AMI300 CLA
+CONS1_044289;299218-1;102;Appareil multifonction AMI300 CRF
+CONS1_056500;433734-1;102;Appareil multifonction AMI300 MEGATECH
+CONS1_044297;299629-1;102;Appareil multifonction AMI300 PRF
+CONS1_044305;299908-1;102;Appareil multifonction AMI300 PRO
+CONS1_045887;356674-1;102;Appareil multifonction AMI300 SK
+CONS1_044313;299714-1;102;Appareil multifonction AMI300 SRF
+CONS1_044321;299706-1;102;Appareil multifonction AMI300 STD
+CONS1_056492;439449-1;102;Appareil multifonction AMI300CLA CLAUGER + MTC4
+CONS1_044337;308716-1;102;Appareil multifonction AMI300STD EVCD
+CONS1_008339;414748-1;102;Appareil multifonction AMI310
+CONS1_066332;298405-1;102;Appareil multifonction AMI310 2500
+CONS1_066340;303535-1;102;Appareil multifonction AMI310 APAVE
+CONS1_044345;298882-1;102;Appareil multifonction AMI310 CLA
+CONS1_044353;299719-1;102;Appareil multifonction AMI310 STD
+CONS1_070285;474730-1;102;Appareil multifonction AMI310-2500
+CONS1_066356;297787-1;102;Appareil multifonction AMI310CLA
+CONS1_066364;298136-1;102;Appareil multifonction AMI310CRF
+CONS1_066372;298547-1;102;Appareil multifonction AMI310PRF
+CONS1_066380;298826-1;102;Appareil multifonction AMI310PRO
+CONS1_067368;362912-1;102;Appareil multifonction AMI310S APAVE
+CONS1_067400;355679-1;102;Appareil multifonction AMI310SK
+CONS1_066388;298632-1;102;Appareil multifonction AMI310SRF
+CONS1_066396;298624-1;102;Appareil multifonction AMI310STD
+CONS1_036078;423174-1;102;Appareil multifonction AMI96
+CONS1_007363;295189-1;102;Appareil multifonction CA 1052
+CONS1_044377;290207-1;102;Appareil multifonction CA1052
+CONS1_066016;299633-1;102;Appareil multifonction CO DIAG+
+CONS1_012600;363007-1;102;Appareil multifonction Debical 4000
+CONS1_008355;412491-1;102;Appareil multifonction DIAM
+CONS1_099976;329390-1;102;Appareil multifonction DT-8820
+CONS1_023697;418290-1;102;Appareil multifonction FI 390
+CONS1_023112;338416-1;102;Appareil multifonction FI20
+CONS1_023645;461916-1;102;Appareil multifonction FI22
+CONS1_044417;289004-1;102;Appareil multifonction FI390
+CONS1_081892;263192-1;102;Appareil multifonction M4000
+CONS1_018091;305999-1;102;Appareil multifonction MicroCal 200
+CONS1_018070;318155-1;102;Appareil multifonction Microcal 20DPC
+CONS1_042495;325128-1;102;Appareil multifonction MP 202
+CONS1_092554;278552-1;102;Appareil multifonction MPM500 E
+CONS1_092801;371627-1;102;Appareil multifonction ST-8820
+CONS1_036250;423377-1;102;Appareil multifonction TAI96
+CONS1_095947;444287-1;102;Appareil multifonction Testo 350M XL
+CONS1_095904;437946-1;102;Appareil multifonction Testo 400
+CONS1_094811;286825-1;102;Appareil multifonction Testo 445
+CONS1_094570;279139-1;102;Appareil multifonction Testo 451
+CONS1_094818;286761-1;102;Appareil multifonction Testo 452
+CONS1_094584;279232-1;102;Appareil multifonction Testo 454
+CONS1_094591;279029-1;102;Appareil multifonction TESTO 600
+CONS1_094598;280604-1;102;Appareil multifonction TESTO 6010
+CONS1_096011;436318-1;102;Appareil multifonction Testo 635
+CONS1_096018;436351-1;102;Appareil multifonction Testo 645
+CONS1_092685;289904-1;102;Appareil multifonction type 800046
+CONS1_042419;325759-1;102;Appareil multifonction type AMI96
+CONS1_012592;390472-1;102;Appareil multifonctions
+CONS1_080983;272230-1;102;Appareil multifonctions 52236
+CONS1_098758;421625-1;102;Appareil multifonctions 7575-X
+CONS1_030798;265247-1;102;Appareil multifonctions AMI 300
+CONS1_030790;273654-1;102;Appareil multifonctions AMI 300 STD
+CONS1_030814;265270-1;102;Appareil multifonctions AMI 301
+CONS1_030806;273871-1;102;Appareil multifonctions AMI 301 PRO
+CONS1_030822;264225-1;102;Appareil multifonctions AMI 96
+CONS1_030830;264287-1;102;Appareil multifonctions AMI 98
+CONS1_037632;435171-1;102;Appareil multifonctions AMI96
+CONS1_007356;295158-1;102;Appareil multifonctions CA 1051
+CONS1_007964;439905-1;102;Appareil multifonctions CA 1052
+CONS1_008090;431825-1;102;Appareil multifonctions CA 860
+CONS1_007643;451277-1;102;Appareil multifonctions CA 865
+CONS1_008125;435029-1;102;Appareil multifonctions CA860
+CONS1_008286;380639-1;102;Appareil multifonctions CANAM 2000
+CONS1_008294;381215-1;102;Appareil multifonctions CONPA 2010
+CONS1_098558;268710-1;102;Appareil multifonctions DPCALC 8710
+CONS1_099688;333018-1;102;Appareil multifonctions DVM401
+CONS1_023453;486361-1;102;Appareil multifonctions FI 390
+CONS1_020142;278242-1;102;Appareil multifonctions FLUKE 975
+CONS1_019599;280690-1;102;Appareil multifonctions HS35
+CONS1_033470;270969-1;102;Appareil multifonctions MP 200
+CONS1_033478;271023-1;102;Appareil multifonctions MP 202
+CONS1_019057;308392-1;102;Appareil multifonctions SD800
+CONS1_098566;258629-1;102;Appareil multifonctions TA 460
+CONS1_001236;392614-1;102;Appareil multifonctions TA460
+CONS1_034707;350377-1;102;Appareil multifonctions TAI
+CONS1_094527;278963-1;102;Appareil multifonctions Testo 400
+CONS1_095463;298833-1;102;Appareil multifonctions TESTO 400
+CONS1_097215;405591-1;102;Appareil multifonctions Testo 400 v1
+CONS1_094686;353540-1;102;Appareil multifonctions Testo 435
+CONS1_096850;424072-1;102;Appareil multifonctions TESTO 435 2
+CONS1_096771;421067-1;102;Appareil multifonctions TESTO 435-2
+CONS1_094107;289619-1;102;Appareil multifonctions Testo 435-4
+CONS1_094563;279234-1;102;Appareil multifonctions TESTO 445
+CONS1_097437;358125-1;102;Appareil multifonctions TESTO 451
+CONS1_097444;359611-1;102;Appareil multifonctions TESTO 4510
+CONS1_097322;359422-1;102;Appareil multifonctions TESTO 452
+CONS1_097458;358218-1;102;Appareil multifonctions TESTO 454
+CONS1_094123;284967-1;102;Appareil multifonctions Testo 480
+CONS1_094651;279267-1;102;Appareil multifonctions TESTO 635
+CONS1_094665;279182-1;102;Appareil multifonctions TESTO 650
+CONS1_009067;387120-1;102;Appareil multifonctions type FTV200
+CONS1_100074;332681-1;102;Appareil multifonctions VC 4in1
+CONS1_098814;442242-1;102;Appareil multifonctions Velocicalc
+CONS1_098662;297144-1;102;Appareil multifonctions Velocicalc + 8360
+CONS1_099053;366327-1;102;Appareil multifonctions VelociCalc 5725
+CONS1_098918;407409-1;102;Appareil multifonctions Velocicalc 8345
+CONS1_098958;407388-1;102;Appareil multifonctions Velocicalc 8350
+CONS1_098926;407446-1;102;Appareil multifonctions Velocicalc 8355
+CONS1_098934;407508-1;102;Appareil multifonctions Velocicalc 8357
+CONS1_098678;295007-1;102;Appareil multifonctions Velocicalc 8385
+CONS1_098622;379403-1;102;Appareil multifonctions Velocicalc 8386
+CONS1_098966;407393-1;102;Appareil multifonctions Velocicalc 9335
+CONS1_098982;407459-1;102;Appareil multifonctions Velocicalc 9535
+CONS1_098582;287477-1;102;Appareil multifonctions Velocicalc 9545
+CONS1_098412;290480-1;102;Appareil multifonctions VelociCalc 9555
+CONS1_098694;297498-1;102;Appareil multifonctions VelociCalc 9555 P
+CONS1_098718;294036-1;102;Appareil multifonctions VelociCalc 9565
+CONS1_098420;293838-1;102;Appareil multifonctions VelociCalc 9565 P
+CONS1_098574;281917-1;102;Appareil multifonctions Velocicalc Plus
+CONS1_031740;263948-1;102;Appareil multifonctions VT 300
+CONS1_031724;272401-1;102;Appareil multifonctions VT 300 PRO
+CONS1_031732;272199-1;102;Appareil multifonctions VT 300 STD
+CONS1_038886;430425-1;102;Appareil multifonctions VT 300 T
+CONS1_025976;345683-1;102;Appareil multifunction COMBI 419
+CONS1_025999;334130-1;102;Appareil portable de mesure d'isolement et de continuité M70
+CONS4_075874;459051-4;105;Avec  capteur de température CMOS.
+CONS4_068168;428393-4;105;avec  capteur de température CTN intégré.
+CONS4_068675;447774-4;105;Avec  capteur de température Pt100 intégré.
+CONS4_026378;400317-4;105;Avec  flex
+CONS4_011988;289563-4;105;Avec  un FA410
+CONS4_090792;370225-4;105;avec ailettes de diamétre 38mm
+CONS4_092106;351526-4;105;Avec bloc insert
+CONS4_097170;354399-4;105;avec boule chaude.
+CONS4_035289;445788-4;105;Avec boule noire
+CONS4_059020;406247-4;105;avec câble d'entrée courant
+CONS4_059635;403803-4;105;avec câble d'entrée tension
+CONS4_017111;300389-4;105;Avec capteur CO2 interne
+CONS4_099729;269580-4;105;Avec capteur de lumière
+CONS4_083491;272339-4;105;Avec capteur de lumière.
+CONS4_093282;297478-4;105;avec capteur de pression
+CONS4_066925;345711-4;105;Avec capteur de pression (électrovanne)
+CONS4_079514;279114-6;105;Avec capteur de pression absolue GMSD 35 BAE
+CONS4_067588;284415-4;105;avec capteur de pression atmosphérique 
+CONS4_067509;373705-4;105;Avec capteur de pression atmosphérique interchangeable
+CONS4_063560;438615-4;105;Avec capteur de température CTN
+CONS4_068192;431515-4;105;avec capteur de température CTN intégré.
+CONS4_016692;431792-4;105;Avec capteur de température d'ambiance
+CONS4_087270;442610-4;105;Avec capteur de température interne
+CONS4_041509;343836-4;105;avec capteur de vitesse à fil chaud HD29371TC1.2
+CONS4_031385;266456-4;105;Avec capteur d'hygrométrie arrière de type CMOS et capteur de température intégré.
+CONS4_035177;435285-4;105;Avec capteur d'hygrométrie arrière de type CMOS.
+CONS4_061827;298506-4;105;Avec capteur d'hygrométrie capacitif interne et capteur de température intégré.
+CONS4_031069;264001-4;105;Avec capteur d'hygrométrie interne
+CONS4_061947;299180-4;105;Avec capteur d'hygrométrie interne de type capacitif et capteur de température intégré.
+CONS4_031393;266549-4;105;Avec capteur d'hygrométrie interne de type CMOS et capteur de température intégré.
+CONS4_031109;288282-4;105;Avec capteur d'hygrométrie interne de type CMOS.
+CONS4_101024;255509-4;105;avec capteur interne
+CONS4_019761;319197-4;105;Avec capteur interne.
+CONS4_005669;306750-4;105;avec capteur numérique (CMOS)
+CONS4_027001;248044-4;105;Avec capteur photodiode
+CONS4_066840;280367-4;105;Avec capteur photodiode au Silicium
+CONS4_027588;255649-4;105;Avec capteur photodiode au Silicium et filtre spectral.
+CONS4_001476;257323-4;105;Avec capteur photodiode au Silicium et filtre verre correcteur
+CONS4_005195;261390-4;105;Avec capteur photodiode au Silicium et filtre verre correcteur.
+CONS4_099745;267098-4;105;Avec capteur photodiode au Silicium et filtre.
+CONS4_017055;254307-4;105;Avec capteur photodiode et filtre correcteur.
+CONS4_075458;319049-4;105;Avec capteur piezo-électrique.
+CONS4_067625;299216-4;105;avec capteur piezoresistif.
+CONS4_007490;302858-4;105;avec capteur piézorésistif.
+CONS4_012981;291386-4;105;Avec capteur piézorésistif.
+CONS4_062904;299567-4;105;Avec capteur semi-conducteur.
+CONS4_092220;351345-4;105;avec capteur tachymétrique optique
+CONS4_031952;303308-4;105;Avec capteur transmetteur HD2004 T
+CONS4_034010;293555-4;105;Avec capteur transmetteur HD2004 T10BG
+CONS4_027612;258910-4;105;Avec capteur.
+CONS4_066933;351695-4;105;Avec carte de pression interchangeable (électrovanne)
+CONS4_024544;283743-4;105;Avec cellule
+CONS4_019126;291339-4;105;Avec Cellule
+CONS4_059680;296811-4;105;Avec cellule CH4
+CONS4_059704;307624-4;105;Avec cellule CH4 semi-conducteur
+CONS4_059888;294932-4;105;Avec cellule CO électro-chimique
+CONS4_074008;298276-4;105;Avec cellule CO électro-chimique compensée en H2
+CONS4_060532;324804-4;105;Avec cellule CO2 infrarouge
+CONS4_060484;302094-4;105;Avec cellule CO2 Infrarouge
+CONS4_030095;281846-4;105;avec cellule de type catalytique
+CONS4_066029;293158-4;105;Avec cellule électrochimique CO
+CONS4_060444;301267-4;105;Avec cellule electro-chimique.
+CONS4_060660;307683-4;105;Avec cellule infrarouge.
+CONS4_074344;309049-4;105;Avec cellule NO électro-chimique
+CONS4_061036;297843-4;105;Avec cellule NO2 électro-chimique
+CONS4_074480;353261-4;105;Avec cellule NO-BE électro-chimique
+CONS4_084312;281837-4;105;Avec cellule O2
+CONS4_074592;292168-4;105;Avec cellule O2 électro-chimique
+CONS4_074560;292261-4;105;Avec cellule O2LV électro-chimique
+CONS4_019110;291837-4;105;Avec Cellule photo-diode
+CONS4_061571;298123-4;105;Avec cellule SO2 électro-chimique
+CONS4_034480;264562-4;105;Avec cellule solaire
+CONS4_084341;290641-4;105;Avec Cellule solaire.
+CONS4_007447;291206-4;105;Avec Cellule.
+CONS4_004689;366279-4;105;avec codeur incrémental de type G305
+CONS4_086209;483997-4;105;Avec convertisseur
+CONS4_079952;483116-4;105;Avec convertisseur 4-20mA et plongeur de 140mm
+CONS4_049357;455657-4;105;Avec convertisseur CO-P
+CONS4_042556;376938-4;105;Avec cordon entrée courant 4-20 mA.
+CONS4_042579;351314-4;105;Avec cordon entrée courant 4-20 mA. Type KT-C-420
+CONS4_042820;351470-4;105;Avec cordon entrée tension 0-10 V
+CONS4_042789;379337-4;105;Avec cordon entrée tension 0-10 V.
+CONS4_072723;358295-4;105;avec coupelles (capteur à effet Hall) et capteur de température intégré CTN.
+CONS4_042032;344675-4;105;Avec coupelles diam. 52 mm
+CONS4_004068;343709-4;105;avec coupelles et capteur de température intégré.
+CONS4_092099;356035-4;105;Avec cuve diam 60 mm et profondeur 150 mm.
+CONS4_014803;417767-4;105;Avec de température de piquage
+CONS4_002186;413630-4;105;Avec de température filaire, Pt100.
+CONS4_002291;402551-4;105;Avec de température filaire, thermocouple K.
+CONS4_024694;413612-4;105;Avec de température filaire, thermocouple T.
+CONS4_014516;371503-4;105;Avec disque 
+CONS4_010874;323610-4;105;Avec DoseBadge CR110A
+CONS4_036051;417761-4;105;Avec élément sensible Ni1000
+CONS4_086064;500587-4;105;Avec embout de contact
+CONS4_072192;415075-4;105;Avec entrée de mesure thermocouple J sur module 
+CONS4_072422;419152-4;105;Avec entrée de mesure thermocouple K
+CONS4_056601;431542-4;105;Avec entrée de mesure thermocouple K sur module
+CONS4_072208;419150-4;105;Avec entrée de mesure thermocouple K sur module 
+CONS4_072606;413631-4;105;Avec entrée de mesure thermocouple T sur module 
+CONS4_007483;360792-4;105;Avec entrée de pression sur module interchangeable
+CONS4_008328;356383-4;105;Avec entrée de pression sur module interchangeable et tube de Pitot
+CONS4_058121;369569-4;105;avec hélice de diam. 100 mm (rotation de l'hélice +180°/-90°) et capteur de température intégré PT100 classe A.
+CONS4_051608;465763-4;105;avec hélice de diam. 100 mm (solidaire du boitier) et capteur de température intégré PT100 classe A.
+CONS4_073299;376519-4;105;avec hélice de diam. 100 mm et capteur de température intégré CTN.
+CONS4_008268;375629-4;105;avec hélice de diam. 100 mm et capteur de température intégré PT100 classe A.
+CONS4_073626;368289-4;105;avec hélice de diam. 14 mm et capteur de température intégré CTN.
+CONS4_073808;366164-4;105;avec hélice de diam. 70 mm et capteur de température intégré CTN.
+CONS4_089973;375285-6;105;avec hélice de diamètre 10 mm et capteur de température intégré.
+CONS4_051632;465792-4;105;avec hélice de diamètre 100 mm (rotation de l'hélice +180°/-90°) et capteur de température intégré PT100 classe A.
+CONS4_073403;386511-4;105;avec hélice de diamètre 100 mm et capteur de température intégré CTN.
+CONS4_051360;471851-4;105;avec hélice de diamètre 100 mm et capteur de température intégré PT100 classe A.
+CONS4_008252;359135-4;105;avec hélice de diamètre 100 mm et capteur de température intégré.
+CONS4_001278;359730-4;105;avec hélice de diamètre 100 mm.
+CONS4_001271;354403-4;105;avec hélice de diamètre 110 mm.
+CONS4_092261;364066-4;105;avec hélice de diamètre 13 mm et capteur de température intégré.
+CONS4_058217;470719-4;105;avec hélice de diamètre 14 mm et capteur de température intégré PT100 classe A.
+CONS4_073571;370444-4;105;avec hélice de diamètre 14 mm et capteur de température intégré.
+CONS4_025925;353647-4;105;avec hélice de diamètre 16 mm
+CONS4_080327;350505-4;105;avec hélice de diamètre 16 mm et capteur de température intégré.
+CONS4_004075;346668-4;105;avec hélice de diamètre 180 mm.
+CONS4_097477;373255-4;105;avec hélice de diamètre 20 mm et capteur de température intégré.
+CONS4_086491;374041-4;105;avec hélice de diamètre 20 mm.
+CONS4_027506;348737-4;105;avec hélice de diamètre 25 mm
+CONS4_101016;359376-4;105;avec hélice de diamètre 25 mm et capteur de température intégré.
+CONS4_100969;345945-4;105;avec hélice de diamètre 30 mm et capteur de température intégré.
+CONS4_011815;413028-4;105;avec hélice de diamètre 55 mm et capteur de température intégré.
+CONS4_088172;392372-4;105;avec hélice de diamètre 55 mm.
+CONS4_014616;386739-4;105;avec hélice de diamètre 60 mm et capteur de température intégré.
+CONS4_024380;350490-4;105;avec hélice de diametre 65mm et  capteur de temperature intégré
+CONS4_008313;372748-4;105;avec hélice de diametre 70 et  capteur de temperature intégré
+CONS4_000239;334945-4;105;avec hélice de diamètre 70 mm
+CONS4_029593;348477-4;105;avec hélice de diamètre 70 mm 
+CONS4_073776;370631-4;105;avec hélice de diamètre 70 mm et capteur de température intégré CTN.
+CONS4_058369;470820-4;105;avec hélice de diamètre 70 mm et capteur de température intégré PT100 classe A.
+CONS4_001951;347936-4;105;avec hélice de diamètre 70 mm et capteur de température intégré.
+CONS4_016129;345951-4;105;avec hélice de diamètre 70 mm.
+CONS4_005135;379577-4;105;avec hélice de diamètre 72 mm.
+CONS4_097305;359453-4;105;avec hélice diamètre 100mm
+CONS4_090028;336430-4;105;avec hélice et capteur de température intégré.
+CONS4_077987;366737-4;105;avec insert à corps noir
+CONS4_018081;317859-4;105;avec jauge de pression de -0,8 à 2 bars
+CONS4_024309;441157-4;105;Avec lecture sur régulateur
+CONS4_046895;360642-4;105;Avec lentille optique D:S=12:1
+CONS4_046860;365775-4;105;Avec lentille optique D:S=20:1
+CONS4_020219;322502-4;105;Avec lentille optique D:S=30:1
+CONS4_020226;322564-4;105;Avec lentille optique D:S=50:1
+CONS4_100270;270065-4;105;Avec manomètre
+CONS4_024175;341417-4;105;Avec manomètre à aiguille
+CONS4_099942;289895-4;105;avec manomètre à aiguille 
+CONS4_029365;283438-4;105;Avec manomètre EM150 (appareil déporté)
+CONS4_093819;303142-4;105;Avec Masses de 1 g à 10 Kg
+CONS4_093826;330652-4;105;Avec Masses de 500 g
+CONS4_045029;364245-4;105;Avec mesure de courant sur module
+CONS4_045405;361511-4;105;Avec mesure de tension sur module
+CONS4_007139;314381-4;105;Avec microphone
+CONS4_005961;333885-4;105;Avec microphone 
+CONS4_017042;324145-4;105;Avec microphone démontable.
+CONS4_000099;314126-4;105;Avec microphone déporté.
+CONS4_000387;319997-4;105;Avec microphone intégré.
+CONS4_042930;345298-4;105;Avec microphone type Electret.
+CONS4_000308;316226-4;105;Avec microphone.
+CONS4_024344;307741-4;105;avec miroir refroidi et sonde de température PT100
+CONS4_020192;288979-4;105;avec module de pression
+CONS4_013052;287843-4;105;Avec module de pression
+CONS4_012863;291564-4;105;Avec module de pression 
+CONS4_012898;292128-4;105;Avec module de pression absolue TP220/10A
+CONS4_012870;295070-4;105;Avec module de pression absolue type TP704 BAI
+CONS4_033986;296597-4;105;Avec module de pression type HD
+CONS4_071088;434601-4;105;Avec Module de température thermocouple K et sonde de température de contact
+CONS4_071736;431372-4;105;Avec Module de température thermocouple K et sonde de température velcro
+CONS4_007703;457160-4;105;Avec module et sonde de température filaire
+CONS4_019844;316372-4;105;Avec objectif interchangeable
+CONS4_014861;280742-4;105;Avec photo-détecteur : diode silicone photosensible avec filtre de réponse 
+CONS4_083284;384086-4;105;avec pince ampèremétrique
+CONS4_040438;427884-4;105;Avec plongeur diamètre 6 mm coudé à 90° et de longueur L1 de 150 mm et de longueur L2 de 70 mm.
+CONS4_086442;487252-4;105;Avec plongeur et céramique.
+CONS4_039692;452226-4;105;Avec plongeur et perles de céramique.
+CONS4_046845;399711-4;105;Avec plongeur inox 50mm et élement sensible KIM110.
+CONS4_040832;425787-4;105;Avec plongeur inox de longueur 25 mm, diamètre 5 mm.
+CONS4_038461;439950-4;105;Avec plongeur inox, coudé à 90°.
+CONS4_035925;430863-4;105;Avec plongeur inox.
+CONS4_038629;443034-4;105;Avec plongeur recouvert d'une gaine PFA.
+CONS4_013321;342532-4;105;Avec sonde
+CONS4_006466;378645-4;105;Avec sonde  fil chaud
+CONS4_042168;341090-4;105;avec sonde à hélice 
+CONS4_090734;372274-4;105;avec sonde à hélice de diamètre 10 mm
+CONS4_097370;358040-4;105;avec sonde à hélice de diamétre 14 mm
+CONS4_042128;344211-4;105;avec sonde à hélice de diamètre 14 mm 
+CONS4_042136;344234-4;105;avec sonde à hélice de diamètre 14 mm.
+CONS4_097398;357949-4;105;avec sonde à hélice de diamétre 16 mm
+CONS4_042176;344277-4;105;avec sonde à hélice de diamètre 16 mm 
+CONS4_008283;374156-4;105;avec sonde à hélice de diamètre 16 mm .
+CONS4_042184;344300-4;105;avec sonde à hélice de diamètre 16 mm.
+CONS4_097405;357970-4;105;avec sonde à hélice de diamétre 40 mm
+CONS4_042200;346066-4;105;avec sonde à hélice, diam. 16 mm.
+CONS4_097441;358125-4;105;avec sonde à hélice.
+CONS4_013587;434014-4;105;avec sonde à immersion PT100 type TP9AC
+CONS4_013977;427939-4;105;avec sonde à immersion PT100 type TP9AP
+CONS4_038367;415706-4;105;avec sonde à piquer, PT100.
+CONS4_023571;476445-4;105;avec sonde à piquer, thermocouple K.
+CONS4_011424;421554-4;105;avec sonde à usage général
+CONS4_037212;420822-4;105;avec sonde à usage général, PT100.
+CONS4_062010;297374-4;105;Avec sonde ambiante.
+CONS4_063408;447974-4;105;avec sonde arrière d'ambiance
+CONS4_064136;454555-4;105;Avec sonde arrière inox
+CONS4_013851;452494-4;105;avec sonde capcitive et résistive
+CONS4_019102;377049-4;105;avec sonde CO2 équipée d'un capteur d'humidité et de température.
+CONS4_017425;420480-4;105;avec sonde contact, thermocouple K.
+CONS4_006977;406956-4;105;avec sonde d' ambiance thermocouple K
+CONS4_036175;422558-4;105;avec sonde d'ambiance
+CONS4_023422;484668-4;105;avec sonde d'ambiance, thermocouple K.
+CONS4_043221;292840-4;105;avec sonde de CO et capteur de température intégré.
+CONS4_060652;310349-4;105;avec sonde de CO2 et capteur de température intégré SCO2T.
+CONS4_019054;309220-4;105;avec sonde de CO2 et capteur de température intégré.
+CONS4_013300;340345-4;105;Avec sonde de conductivité
+CONS4_011324;458178-4;105;avec sonde de contact
+CONS4_023321;429120-4;105;Avec sonde de contact
+CONS4_038748;414800-4;105;avec sonde de contact à velcro, PT100.
+CONS4_007912;438232-4;105;avec sonde de contact thermocouple K
+CONS4_036627;417356-4;105;avec sonde de contact, PT100.
+CONS4_025175;415441-4;105;avec sonde de contact, thermocouple K
+CONS4_007905;440354-4;105;avec sonde de contact, thermocouple K, type STKC.
+CONS4_006984;404914-4;105;avec sonde de contact, thermocouple K.
+CONS4_094136;281024-4;105;avec sonde de mesure Co2
+CONS4_094104;284957-4;105;avec sonde de mesure CO2
+CONS4_049605;437779-4;105;avec sonde de mesure de la qualité de l'air équipée d'un capteur de température.
+CONS4_007739;465039-4;105;avec sonde de mesure d'humidité équipée d'un capteur de température.
+CONS4_051704;492709-4;105;avec sonde de mesure multifonction équipée d'un capteur de température, PT100 Classe A.
+CONS4_098771;421594-4;105;avec sonde de mesure multifonctions
+CONS4_098755;438270-4;105;avec sonde de mesure multifonctions à capteur thermique
+CONS4_018422;459321-4;105;avec sonde de précision de type PT100
+CONS4_016327;281099-4;105;Avec sonde de prélévement
+CONS4_094815;286825-4;105;avec sonde de pression
+CONS4_095137;291515-4;105;Avec sonde de pression
+CONS4_010487;277448-4;105;avec sonde de pression absolue HD9408T
+CONS4_075322;301733-4;105;Avec sonde de pression relative
+CONS4_012959;285818-4;105;avec sonde de pression relative TP704-500MBGI
+CONS4_012966;291496-4;105;avec sonde de pression TP705
+CONS4_098747;425237-4;105;avec sonde de température
+CONS4_023949;440412-10;105;Avec sonde de température
+CONS4_096312;426605-4;105;avec sonde de température  d'ambiance
+CONS4_082129;419060-4;105;avec sonde de température  d'ambiance, thermocouple K
+CONS4_096485;413851-4;105;avec sonde de température  filaire
+CONS4_051855;448101-4;105;avec sonde de température  filaire alimentaire, Pt 1000 classe A.
+CONS4_047989;438349-4;105;avec sonde de température  filaire, CTN.
+CONS4_007689;450599-4;105;avec sonde de température  filaire, Pt 100, type STPF.
+CONS4_015525;424370-4;105;avec sonde de température  filaire, Pt 100.
+CONS4_037117;418834-4;105;avec sonde de température  filaire, Pt 100F.
+CONS4_027047;456388-4;105;avec sonde de température  filaire.
+CONS4_048745;468575-4;105;avec sonde de température à piquage alimentaire, CTN.
+CONS4_098000;404536-4;105;avec sonde de température à piquer
+CONS4_014713;427017-4;105;Avec sonde de température à piquer
+CONS4_048585;432624-4;105;avec sonde de température à piquer, CTN.
+CONS4_020593;414368-4;105;avec sonde de température à piquer, thermocouple K, type STKP.
+CONS4_026901;413371-4;105;avec sonde de température à piquer.
+CONS4_002248;437802-4;105;Avec sonde de température à tête
+CONS4_070084;467066-4;105;Avec sonde de température à tête et convertisseur
+CONS4_023963;483695-4;105;Avec sonde de température à tête Pt100
+CONS4_070091;466752-4;105;Avec sonde de température à tête.
+CONS4_051736;448339-4;105;avec sonde de température alimentaire d'ambiance, PT1000 classe A.
+CONS4_052127;434010-4;105;avec sonde de température alimentaire d'ambiance, thermocouple J.
+CONS4_054977;434682-4;105;avec sonde de température alimentaire d'ambiance, thermocouple T.
+CONS4_053478;432144-4;105;avec sonde de température alimentaire de contact à lamelle, thermocouple K.
+CONS4_051792;446277-4;105;avec sonde de température alimentaire de contact, PT1000 classe A.
+CONS4_052247;432084-4;105;avec sonde de température alimentaire de contact, thermocouple J.
+CONS4_053534;434474-4;105;avec sonde de température alimentaire de contact, thermocouple K.
+CONS4_055769;464729-4;105;avec sonde de température alimentaire de piquage, thermocouple T.
+CONS4_051919;448169-4;105;avec sonde de température alimentaire d'usage général, PT1000 classe A.
+CONS4_052535;431652-4;105;avec sonde de température alimentaire d'usage général, thermocouple J.
+CONS4_055489;432320-4;105;avec sonde de température alimentaire d'usage général, thermocouple T.
+CONS4_007654;468167-4;105;avec sonde de température ambiante
+CONS4_089085;467768-4;105;Avec sonde de température ambiante
+CONS4_006452;447266-4;105;Avec sonde de température boule noire
+CONS4_035128;429295-4;105;Avec sonde de température CMOS intégré.
+CONS4_088993;435457-4;105;avec sonde de température contact
+CONS4_019504;406060-4;105;avec sonde de température contact thermocouple K
+CONS4_036582;421234-4;105;avec sonde de température contact, PT100.
+CONS4_028144;403472-4;105;avec sonde de température contact, Thermocouple K Classe 1, type FK-PFA.
+CONS4_024203;425183-4;105;avec sonde de température CTN ambiance
+CONS4_095915;423236-4;105;avec sonde de température d'ambiance
+CONS4_025119;426270-4;105;Avec sonde de température d'ambiance
+CONS4_086216;450334-4;105;avec sonde de température d'ambiance aimantée thermocouple K.
+CONS4_047358;440747-4;105;avec sonde de température d'ambiance CTN.
+CONS4_068784;456583-4;105;Avec sonde de température d'ambiance et une boule noire
+CONS4_036083;423174-4;105;avec sonde de température d'ambiance Pt100
+CONS4_049166;473007-4;105;Avec sonde de température d'ambiance Pt100 Classe A
+CONS4_036127;433598-4;105;Avec sonde de température d'ambiance PT100.
+CONS4_092092;437906-4;105;Avec sonde de température d'ambiance Pt1000
+CONS4_012407;408457-4;105;avec sonde de température d'ambiance thermocouple K type STKA.
+CONS4_012526;400236-4;105;avec sonde de température d'ambiance thermocouple K type STKP.
+CONS4_010683;394470-4;105;avec sonde de température d'ambiance thermocouple K type STKV.
+CONS4_025677;407899-4;105;avec sonde de température d'ambiance thermocouple K.
+CONS4_095683;430792-4;105;avec sonde de température d'ambiance type CTN
+CONS4_036263;422366-4;105;avec sonde de température d'ambiance, PT100
+CONS4_049102;449095-4;105;avec sonde de température d'ambiance, PT100 1/3 DIN.
+CONS4_007640;453446-4;105;avec sonde de température d'ambiance, PT100 classe A, type STPA.
+CONS4_036143;434910-4;105;avec sonde de température d'ambiance, PT100 classe A.
+CONS4_036183;419096-4;105;avec sonde de température d'ambiance, PT100.
+CONS4_076212;448323-4;105;Avec sonde de température d'ambiance, PT100. 
+CONS4_052135;436145-4;105;avec sonde de température d'ambiance, thermocouple J.
+CONS4_086223;443638-4;105;avec sonde de température d'ambiance, thermocouple K
+CONS4_052895;438284-4;105;avec sonde de température d'ambiance, Thermocouple K Classe 1.
+CONS4_053151;439226-4;105;avec sonde de température d'ambiance, Thermocouple K Classe 10.
+CONS4_007863;442255-4;105;avec sonde de température d'ambiance, thermocouple K, type STKA.
+CONS4_096319;433990-4;105;avec sonde de température d'ambiance, thermocouple K.
+CONS4_025112;414516-4;105;Avec sonde de température d'ambiance, thermocouple K.
+CONS4_014729;423513-4;105;avec sonde de température d'ambiance.
+CONS4_028195;404655-4;105;avec sonde de température de  contact thermocouple K
+CONS4_053271;435518-4;105;avec sonde de température de compost, Thermocouple K Classe 1.
+CONS4_024740;422895-4;105;avec sonde de température de compost, thermocouple K.
+CONS4_096036;421990-4;105;avec sonde de température de contact
+CONS4_005127;446899-4;105;Avec sonde de température de contact
+CONS4_027055;404030-4;105;Avec sonde de température de contact à lamelle
+CONS4_053599;442475-5;105;avec sonde de température de contact à lamelle, thermocouple K.
+CONS4_055097;436499-4;105;avec sonde de température de contact à lamelle, Thermocouple T Classe 1.
+CONS4_055105;441597-4;105;avec sonde de température de contact à lamelle, Thermocouple T.
+CONS4_000262;423341-4;105;Avec sonde de température de contact à pastille
+CONS4_086267;448254-4;105;avec sonde de température de contact aimantée thermocouple K.
+CONS4_049413;447284-4;105;avec sonde de température de contact pastille, PT100 1/3 DIN.
+CONS4_028786;433016-4;105;avec sonde de température de contact pastille, PT100 classe A, type SPC.
+CONS4_049533;445799-4;105;avec sonde de température de contact pastille, PT100 classe A.
+CONS4_015092;430748-4;105;avec sonde de température de contact Pt100
+CONS4_049477;470897-4;105;Avec sonde de température de contact Pt100 classe A.
+CONS4_101310;406614-4;105;Avec sonde de température de contact thermocouple K
+CONS4_010648;397470-4;105;avec sonde de température de contact thermocouple K 
+CONS4_012449;397532-4;105;avec sonde de température de contact thermocouple K type STKC.
+CONS4_025684;418537-4;105;avec sonde de température de contact thermocouple K.
+CONS4_080268;417185-4;105;Avec sonde de température de contact,  thermocouple K.
+CONS4_047494;438853-4;105;avec sonde de température de contact, CTN.
+CONS4_007661;451079-4;105;avec sonde de température de contact, PT100 classe A, type STPC.
+CONS4_068942;445693-4;105;avec sonde de température de contact, Pt100 classe A.
+CONS4_036597;422184-4;105;avec sonde de température de contact, PT100 classe A.
+CONS4_007675;449356-4;105;avec sonde de température de contact, PT100.
+CONS4_036739;417728-4;105;avec sonde de température de contact, PT100. 
+CONS4_052255;434253-4;105;avec sonde de température de contact, thermocouple J.
+CONS4_020460;421348-4;105;avec sonde de température de contact, thermocouple K
+CONS4_100224;417845-4;105;Avec sonde de température de contact, Thermocouple K
+CONS4_053279;435936-4;105;avec sonde de température de contact, Thermocouple K Classe 1.
+CONS4_020467;422685-4;105;avec sonde de température de contact, thermocouple K, type STKC.
+CONS4_020446;423368-4;105;avec sonde de température de contact, thermocouple K.
+CONS4_055113;432752-4;105;avec sonde de température de contact, thermocouple T.
+CONS4_101110;454899-4;105;avec sonde de température de contact.
+CONS4_011148;436387-4;105;Avec sonde de température de contact.
+CONS4_040030;409049-4;105;avec sonde de température de fumée
+CONS4_064764;405594-4;105;Avec sonde de température de fumée.
+CONS4_070012;439620-4;105;Avec sonde de température de penetration
+CONS4_050565;461726-4;105;Avec sonde de température de pénétration Pt100 Classe A.
+CONS4_069940;440893-4;105;Avec sonde de température de penetration, Pt100 Classe A.
+CONS4_071456;429996-4;105;avec sonde de température de penetration, thermocouple K.
+CONS4_072056;430604-4;105;avec sonde de température de penetration, thermocouple T.
+CONS4_071840;430188-4;105;avec sonde de température de penetration.
+CONS4_096205;436019-4;105;avec sonde de température de piquage
+CONS4_001565;442602-4;105;Avec sonde de température de piquage
+CONS4_050741;437285-4;105;avec sonde de température de piquage , PT100 classe A.
+CONS4_016245;417027-4;105;Avec sonde de température de piquage alimentaire
+CONS4_017781;436185-4;105;Avec sonde de température de piquage alimentaire TP161G
+CONS4_007781;445248-4;105;avec sonde de température de piquage alimentaire, PT100 classe A, type STPP.
+CONS4_038152;416041-4;105;avec sonde de température de piquage alimentaire, PT100 classe A.
+CONS4_051983;440232-4;105;avec sonde de température de piquage alimentaire, PT1000 classe A.
+CONS4_096297;425429-4;105;avec sonde de température de piquage alimentaire, thermocouple J
+CONS4_003797;412138-4;105;avec sonde de température de piquage alimentaire, thermocouple K
+CONS4_054510;468394-4;105;avec sonde de température de piquage alimentaire, Thermocouple K Classe 1.
+CONS4_008087;434279-4;105;avec sonde de température de piquage alimentaire, thermocouple K, type STKP.
+CONS4_054550;431848-4;105;avec sonde de température de piquage alimentaire, thermocouple K.
+CONS4_054582;466849-4;105;avec sonde de température de piquage alimentaire, thermocouple KT.
+CONS4_096355;425561-4;105;avec sonde de température de piquage compost, thermocouple K
+CONS4_095864;422499-4;105;avec sonde de température de piquage équipée d'un capteur type CTN.
+CONS4_028941;428193-4;105;avec sonde de température de piquage thermocouple K.
+CONS4_050557;461416-4;105;Avec sonde de température de piquage, classe A.
+CONS4_050509;440989-4;105;avec sonde de température de piquage, PT100 1/3 DIN.
+CONS4_028882;427131-4;105;avec sonde de température de piquage, PT100 classe A.
+CONS4_050701;441541-4;105;avec sonde de température de piquage, PT100 classe AP.
+CONS4_038168;414807-4;105;avec sonde de température de piquage, PT100.
+CONS4_052655;425663-4;105;avec sonde de température de piquage, thermocouple J.
+CONS4_096804;418736-4;105;avec sonde de température de piquage, thermocouple K
+CONS4_054279;430088-4;105;avec sonde de température de piquage, Thermocouple K Classe 1.
+CONS4_025359;407628-4;105;avec sonde de température de piquage, thermocouple K, type STKP
+CONS4_040298;403052-4;105;avec sonde de température de piquage, thermocouple K.
+CONS4_055649;426291-4;105;avec sonde de température de piquage, thermocouple T.
+CONS4_025373;407923-4;105;Avec sonde de température de piquage,thermocouple K.
+CONS4_038383;415855-4;105;avec sonde de température de piquage.
+CONS4_010676;391035-4;105;Avec sonde de température de piquage.
+CONS4_035798;458713-4;105;avec sonde de température de type CTN filaire
+CONS4_092012;440816-4;105;avec sonde de température de type Ni1000
+CONS4_015138;430293-4;105;avec sonde de température de type Pt100
+CONS4_013785;433533-4;105;avec sonde de température de type PT100
+CONS4_014148;424593-4;105;avec sonde de température de type Thermocouple K
+CONS4_063808;462201-4;105;Avec sonde de température déportée.
+CONS4_069716;449877-4;105;Avec sonde de température d'immersion
+CONS4_069860;458034-4;105;Avec sonde de température d'immersion, PT100 Classe 1/3 DIN.
+CONS4_068715;447747-4;105;Avec sonde de température d'immersion, Pt100 classe A
+CONS4_070624;441422-4;105;avec sonde de température d'immersion, thermocouple J.
+CONS4_071264;443149-4;105;avec sonde de température d'immersion, thermocouple K.
+CONS4_071856;440417-4;105;avec sonde de température d'immersion, thermocouple S.
+CONS4_072032;442031-4;105;avec sonde de température d'immersion, thermocouple T.
+CONS4_097796;450481-4;105;avec sonde de température d'usage ambiance.
+CONS4_008073;439643-4;105;avec sonde de température d'usage général
+CONS4_004000;401859-4;105;Avec sonde de température d'usage général
+CONS4_016281;417580-4;105;Avec sonde de température d'usage général externe
+CONS4_050054;453340-4;105;Avec sonde de température d'usage general Pt100 
+CONS4_050094;470413-4;105;Avec sonde de température d'usage general Pt100 Classe A
+CONS4_037305;423003-4;105;avec sonde de température d'usage général PT100, 3 fils
+CONS4_037327;428112-4;105;avec sonde de température d'usage général PT100, 3 fils, classe A
+CONS4_037335;428143-4;105;avec sonde de température d'usage général PT100, 3 fils, classe B
+CONS4_097780;458693-4;105;Avec sonde de température d'usage général Pt100.
+CONS4_036120;414884-4;105;Avec sonde de température d'usage général PT100.
+CONS4_098255;459494-4;105;Avec sonde de température d'usage général Pt1000
+CONS4_063696;446067-4;105;avec sonde de température d'usage général sur bornier
+CONS4_101324;406198-4;105;Avec sonde de température d'usage général thermocouple K
+CONS4_012498;406233-4;105;avec sonde de température d'usage général thermocouple K type STKG.
+CONS4_025288;416669-4;105;avec sonde de température d'usage général thermocouple K.
+CONS4_080289;416773-4;105;Avec sonde de température d'usage général,  thermocouple K.
+CONS4_077658;448256-4;105;Avec sonde de température d'usage général, classe B.
+CONS4_048301;435898-4;105;avec sonde de température d'usage général, CTN.
+CONS4_037422;419896-4;105;avec sonde de température d'usage général, PT100
+CONS4_017886;435119-4;105;Avec sonde de température d'usage général, Pt100
+CONS4_078063;458489-4;105;avec sonde de température d'usage général, PT100 1/3 DIN, type SPG SP.
+CONS4_050031;446872-4;105;avec sonde de température d'usage général, PT100 1/3 DIN.
+CONS4_037494;420098-4;105;avec sonde de température d'usage général, PT100 classe A
+CONS4_028838;439868-4;105;avec sonde de température d'usage général, PT100 classe A, type SPG.
+CONS4_007710;450663-4;105;avec sonde de température d'usage général, PT100 classe A, type STPG.
+CONS4_050237;421791-4;105;avec sonde de température d'usage général, PT100 classe A.
+CONS4_037518;418699-4;105;avec sonde de température d'usage général, PT100 classe B
+CONS4_010501;419453-4;105;avec sonde de température d'usage général, PT100.
+CONS4_007724;448920-4;105;Avec sonde de température d'usage général, PT100.
+CONS4_052543;433817-4;105;avec sonde de température d'usage général, thermocouple J.
+CONS4_025281;413005-4;105;Avec sonde de température d'usage général, thermocouple K
+CONS4_010610;401786-4;105;Avec sonde de température d'usage général, Thermocouple K
+CONS4_054059;435559-4;105;avec sonde de température d'usage général, Thermocouple K Classe 1.
+CONS4_008038;439938-4;105;avec sonde de température d'usage général, thermocouple K, type STKG.
+CONS4_040046;410443-4;105;avec sonde de température d'usage général, thermocouple K.
+CONS4_054027;445863-4;105;Avec sonde de température d'usage général, thermocouple K.
+CONS4_054961;434429-4;105;avec sonde de température d'usage général, thermocouple S.
+CONS4_055441;433937-4;105;avec sonde de température d'usage général, Thermocouple T Classe 1.
+CONS4_040884;431572-4;105;avec sonde de température d'usage général, thermocouple T.
+CONS4_055425;436087-4;105;avec sonde de température d'usage général, Thermocouple T.
+CONS4_013749;434311-4;105;Avec sonde de température d'usage général, TP870.
+CONS4_025345;413856-4;105;Avec sonde de température d'usage général,thermocouple K.
+CONS4_015532;429361-4;105;avec sonde de température d'usage général.
+CONS4_089588;416660-4;105;Avec sonde de température d'usage général.
+CONS4_036471;428276-4;105;avec sonde de température en inox. type  STT
+CONS4_036479;428501-4;105;avec sonde de température en plastique. type  STT
+CONS4_011338;267584-4;105;avec sonde de température et d'hygrométrie
+CONS4_038137;441234-4;105;avec sonde de température externe de type Pt100
+CONS4_013693;438575-4;105;avec sonde de température externe Pt100 4 fils TP47.100
+CONS4_013991;443515-4;105;avec sonde de température externe Pt1000 TP47.1000
+CONS4_013482;436075-4;105;avec sonde de température externe TP47
+CONS4_013679;438519-4;105;avec sonde de température externe TP472I
+CONS4_013468;438914-4;105;avec sonde de température externe TP474C.0
+CONS4_013370;440752-4;105;avec sonde de température externe TP475A.0
+CONS4_027063;403538-4;105;avec sonde de température filaire
+CONS4_011403;360241-4;105;Avec sonde de température filaire
+CONS4_015116;430250-4;105;Avec sonde de température filaire Pt100
+CONS4_015259;413566-4;105;Avec sonde de température filaire PT100 1/3 DIN
+CONS4_049849;473448-4;105;Avec sonde de température filaire Pt100 Classe A
+CONS4_037069;419878-4;105;Avec sonde de température filaire Pt100, classe B, 3 fils
+CONS4_101317;402329-4;105;Avec sonde de température filaire thermocouple K
+CONS4_100398;426706-4;105;Avec sonde de température filaire Thermocouple K
+CONS4_010669;397036-4;105;avec sonde de température filaire thermocouple K .
+CONS4_010662;396974-4;105;avec sonde de température filaire thermocouple K type STKF.
+CONS4_018471;412656-4;105;avec sonde de température filaire thermocouple K.
+CONS4_015167;418899-4;105;Avec sonde de température filaire Thermocouple N
+CONS4_015273;402857-4;105;Avec sonde de température filaire thermocouple T
+CONS4_071968;434331-4;105;Avec sonde de température filaire thermocouple T.
+CONS4_039730;408316-4;105;avec sonde de température filaire type thermocouple K
+CONS4_080275;416693-4;105;Avec sonde de température filaire,  thermocouple K.
+CONS4_036825;434092-4;105;avec sonde de température filaire, PT100
+CONS4_017872;435051-4;105;Avec sonde de température filaire, Pt100
+CONS4_036818;441795-4;105;avec sonde de température filaire, PT100.
+CONS4_052391;433744-4;105;avec sonde de température filaire, Thermocouple J Classe 1.
+CONS4_039201;430904-4;105;avec sonde de température filaire, thermocouple J.
+CONS4_052367;435351-4;105;avec sonde de température filaire, Thermocouple J.
+CONS4_017914;442673-4;105;Avec sonde de température filaire, Thermocouple J.
+CONS4_023521;482008-4;105;avec sonde de température filaire, thermocouple K
+CONS4_100231;417353-4;105;Avec sonde de température filaire, Thermocouple K
+CONS4_052519;433846-4;105;avec sonde de température filaire, Thermocouple K Classe 1.
+CONS4_020537;439874-4;105;avec sonde de température filaire, thermocouple K, type STKF.
+CONS4_039707;406341-4;105;avec sonde de température filaire, thermocouple K.
+CONS4_053764;433226-4;105;avec sonde de température filaire, Thermocouple K.
+CONS4_053901;436035-4;105;avec sonde de température filaire, thermocouple KA.
+CONS4_055249;433869-4;105;avec sonde de température filaire, Thermocouple T Classe 1.
+CONS4_040810;408185-4;105;avec sonde de température filaire, thermocouple T.
+CONS4_055233;436007-4;105;avec sonde de température filaire, Thermocouple T.
+CONS4_071944;435911-4;105;Avec sonde de température filaire, thermocouple T.
+CONS4_025267;413792-4;105;Avec sonde de température filaire,thermocouple K.
+CONS4_069062;446684-4;105;Avec sonde de température filaire.
+CONS4_023564;485824-4;105;avec sonde de température général, thermocouple K
+CONS4_013686;438573-4;105;avec sonde de température générale
+CONS4_002240;417699-4;105;Avec sonde de température générale
+CONS4_020579;426745-4;105;avec sonde de température générale, thermocouple K, type STKG.
+CONS4_020572;426712-4;105;avec sonde de température générale, thermocouple K.
+CONS4_000694;317823-4;105;avec sonde de température humide (Tw)
+CONS4_095606;458343-4;105;avec sonde de température interne
+CONS4_018983;445880-4;105;Avec sonde de température interne, équipée d'un élément sensible CMOS.
+CONS4_095815;442271-4;105;Avec sonde de température interne, équipée d'un élément sensible CTN.
+CONS4_019807;466899-4;105;avec sonde de température interne.
+CONS4_081826;445586-4;105;Avec sonde de température interne.
+CONS4_034971;325254-4;105;avec sonde de température IR, thermocouple K.
+CONS4_089964;446725-4;105;avec sonde de température piquée
+CONS4_040243;402040-4;105;avec sonde de température piquée, thermocouple K.
+CONS4_089092;465026-4;105;Avec sonde de température pour rayonnement
+CONS4_056369;380685-4;105;avec sonde de température PT100 1/3DIN
+CONS4_017411;432029-4;105;avec sonde de température PT100 contact
+CONS4_001097;444941-4;105;Avec sonde de température PT100 d'ambiance.
+CONS4_017418;431549-4;105;avec sonde de température PT100 filaire
+CONS4_000771;449197-4;105;avec sonde de température PT100 général
+CONS4_089872;433166-12;105;Avec sonde de température PT100 général
+CONS4_036287;421248-4;105;Avec sonde de température PT100 intégré.
+CONS4_001104;454106-4;105;Avec sonde de température PT100 type boule noire.
+CONS4_037061;418811-4;105;avec sonde de température PT100, 3 fils.
+CONS4_088267;439348-4;105;Avec sonde de température Pt100.
+CONS4_036271;422568-4;105;Avec sonde de température PT100.
+CONS4_019799;449891-4;105;avec sonde de température sans fils type 4116CC.
+CONS4_087440;448920-4;105;avec sonde de température sans fils type THR128.
+CONS4_000786;318282-4;105;Avec sonde de température Sèche
+CONS4_000729;313223-4;105;avec sonde de température sèche (T°C) et humide (Tw)
+CONS4_047478;442188-4;105;avec sonde de température spéciale compost.
+CONS4_008045;437796-4;105;avec sonde de température thermocouple K
+CONS4_012421;410011-4;105;avec sonde de température thermocouple K de type ambiante
+CONS4_012428;408631-4;105;avec sonde de température thermocouple K de type compost
+CONS4_012435;407644-4;105;avec sonde de température thermocouple K de type contact
+CONS4_012491;407314-4;105;avec sonde de température thermocouple K de type filaire
+CONS4_012540;401831-4;105;avec sonde de température thermocouple K de type piqué
+CONS4_012561;405111-4;105;avec sonde de température thermocouple K de type Velcro
+CONS4_028209;401944-4;105;avec sonde de température thermocouple K en velcro
+CONS4_017439;420000-4;105;avec sonde de température thermocouple K filaire
+CONS4_018478;437107-4;105;avec sonde de température thermocouple K.
+CONS4_029870;415435-4;105;avec sonde de température thermocouple S
+CONS4_071848;435911-4;105;Avec sonde de température thermocouple S
+CONS4_040891;408044-4;105;Avec sonde de température thermocouple T
+CONS4_040825;407976-4;105;Avec sonde de température thermocouple T filaire
+CONS4_010515;430400-4;105;avec sonde de température thermocouple T.
+CONS4_089029;414895-4;105;avec sonde de température velcro
+CONS4_011354;413324-4;105;Avec sonde de température velcro
+CONS4_050789;470771-4;105;Avec sonde de température velcro Pt100 Classe A 
+CONS4_087305;411742-4;105;avec sonde de température velcro thermocouple K
+CONS4_049014;435611-4;105;avec sonde de température velcro, CTN.
+CONS4_052775;429114-4;105;avec sonde de température velcro, thermocouple J.
+CONS4_023599;481293-4;105;avec sonde de température velcro, thermocouple K
+CONS4_054683;433148-4;105;avec sonde de température velcro, Thermocouple K Classe 1.
+CONS4_020614;417477-4;105;avec sonde de température velcro, thermocouple K, type STKV.
+CONS4_054779;403757-4;105;avec sonde de température velcro, thermocouple K.
+CONS4_054723;459598-4;105;Avec sonde de température velcro, thermocouple K.
+CONS4_054747;430885-4;105;Avec sonde de température velcro, Thermocouple K.
+CONS4_055889;429738-4;105;avec sonde de température velcro, thermocouple T.
+CONS4_071784;430168-4;105;Avec sonde de température velcro.
+CONS4_017788;278444-4;105;avec sonde de type thermo-hygromètre
+CONS4_023680;460951-4;105;avec sonde de vitesse à fil chaud
+CONS4_098401;427441-4;105;avec sonde de vitesse à fil chaud 
+CONS4_008245;414909-4;105;avec sonde de vitesse à fil chaud  télescopique et capteur de température intégré.
+CONS4_092621;398917-4;105;avec sonde de vitesse à fil chaud  télescopique.
+CONS4_078100;476531-4;105;avec sonde de vitesse à fil chaud .
+CONS4_041532;340146-4;105;avec sonde de vitesse à fil chaud et capteur de température intégré type STV.
+CONS4_000821;368656-4;105;avec sonde de vitesse à fil chaud et capteur de température intégré.
+CONS4_051297;457151-4;105;avec sonde de vitesse à fil chaud et capteur de température PT100 1/3DIN intégré.
+CONS4_090915;352985-4;105;avec sonde de vitesse à fil chaud intégré.
+CONS4_057810;412696-4;105;avec sonde de vitesse à fil chaud télescopique et capteur de température intégré type STV.
+CONS4_097198;432151-4;105;avec sonde de vitesse à fil chaud télescopique et capteur de température intégré.
+CONS4_001836;386489-4;105;avec sonde de vitesse à fil chaud téléscopique et capteur de température intégré.
+CONS4_084594;365353-4;105;avec sonde de vitesse à fil chaud.
+CONS4_042352;339465-4;105;avec sonde de vitesse à hélice de diamètre 70 mm.
+CONS4_001264;352848-4;105;avec sonde de vitesse à hélice diam. 100
+CONS4_097298;359215-4;105;avec sonde de vitesse à hélice Diam. 100 mm
+CONS4_008260;375616-4;105;avec sonde de vitesse à hélice Diam. 100 mm et capteur de température PT100
+CONS4_058177;369748-4;105;avec sonde de vitesse à hélice Diam. 14 mm et capteur de température PT100
+CONS4_001356;351387-4;105;avec sonde de vitesse à hélice diam. 20
+CONS4_001363;353144-4;105;avec sonde de vitesse à hélice diam. 40
+CONS4_058313;377131-4;105;avec sonde de vitesse à hélice Diam. 70 mm et capteur de température PT100
+CONS4_058201;371350-4;105;avec sonde de vitesse à hélice diamètre 14 mm STV-HE14.
+CONS4_058361;371448-4;105;avec sonde de vitesse à hélice diamètre 70 mm avec capteur de température intégré STV-HE70.
+CONS4_044051;329005-4;105;avec sonde de vitesse à hélice et cône de débit
+CONS4_016121;399112-4;105;avec sonde de vitesse de type fil chaud
+CONS4_051376;473687-4;105;avec sonde de vitesse équipée d'un capteur de température
+CONS4_007803;457068-4;105;avec sonde de vitesse équipée d'un capteur de température, PT100 1/3 DIN.
+CONS4_007826;471795-4;105;avec sonde de vitesse équipée d'un capteur de température, PT100 Classe A.
+CONS4_038764;428374-4;105;avec sonde de vitesse et capteur de température intégré.
+CONS4_098851;335819-4;105;avec sonde de vitesse fil chaud
+CONS4_073187;421945-4;105;avec sonde de vitesse fil chaud  télescopique  et capteur de température intégré CTN.
+CONS4_057834;418304-4;105;avec sonde de vitesse fil chaud  télescopique et capteur de température PT100 1/3DIN
+CONS4_030636;301348-4;105;avec sonde de vitesse fil chaud ( capteur de température PT100 1/3DIN ) et cône de débit
+CONS4_044083;327584-4;105;avec sonde de vitesse fil chaud ( capteur de température PT100 1/3DIN ) et cône de débit K35
+CONS4_072979;368432-4;105;avec sonde de vitesse fil chaud et capteur de température intégré CTN.
+CONS4_008222;370299-4;105;avec sonde de vitesse fil chaud et capteur de température PT100 1/3DIN
+CONS4_057842;409675-4;105;avec sonde de vitesse fil chaud télescopique et capteur de température PT100 1/3DIN
+CONS4_058873;364630-4;105;avec sonde de vitesse multifonction
+CONS4_012100;425825-4;105;Avec sonde de vitesse multifonction
+CONS4_000849;391788-4;105;avec sonde de vitesse télescopique
+CONS4_001161;361997-4;105;avec sonde de vitesse.
+CONS4_024993;321157-4;105;Avec sonde déportée
+CONS4_098627;379403-4;105;avec sonde d'humidité
+CONS4_085569;299227-4;105;avec sonde d'humidité 
+CONS4_081748;276695-4;105;avec sonde d'humidité  et capteur de température intégré.
+CONS4_023161;342059-4;105;avec sonde d'humidité  intégré.
+CONS4_001844;315243-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré
+CONS4_062186;303942-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré en inox.
+CONS4_037938;268686-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré en inox. type  STH
+CONS4_037906;439252-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré en inox. type STH
+CONS4_062202;304173-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré en plastique.
+CONS4_037946;439508-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré en plastique. type  STH
+CONS4_031433;268911-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré en plastique. Type STH
+CONS4_038106;441891-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré en plastique. Type STT
+CONS4_037738;443659-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré en plastique.Type STH
+CONS4_031264;303909-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré.
+CONS4_037922;433139-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré. type STH
+CONS4_031053;272953-4;105;avec sonde d'humidité à capteur capacitif et capteur de température intégré. Type STH
+CONS4_031197;288991-4;105;avec sonde d'humidité à capteur capacitif et capteur de température.
+CONS4_024687;268218-4;105;avec sonde d'humidité à capteur capacitif.
+CONS4_018967;277677-4;105;avec sonde d'humidité à capteur CMOS et capteur de température intégré.
+CONS4_044669;315629-4;105;avec sonde d'humidité d'ambiance à capteur CMOS et capteur de température intégré.
+CONS4_044653;321068-4;105;avec sonde d'humidité déportée à capteur CMOS et capteur de température intégré.
+CONS4_000624;302902-4;105;avec sonde d'humidité et capteur de température intégré
+CONS4_005187;287048-4;105;avec sonde d'humidité et capteur de température intégré.
+CONS4_028565;284035-4;105;avec sonde d'humidité et capteur de température intégrés.
+CONS4_031021;261143-4;105;avec sonde d'humidité INOX
+CONS4_023153;342059-4;105;avec sonde d'humidité interne à capteur CMOS et capteur de température intégré.
+CONS4_024855;289668-4;105;avec sonde d'humidité.
+CONS4_035120;433453-4;105;avec sonde d'hygrométrie
+CONS4_089243;265725-4;105;Avec sonde d'hygrométrie
+CONS4_089911;466342-4;105;Avec sonde d'hygrométrie 
+CONS4_061803;290566-4;105;Avec sonde d'hygrométrie ambiante.
+CONS4_063712;459538-4;105;Avec sonde d'hygrométrie arrière et capteur de température intégré.
+CONS4_061811;297948-4;105;Avec sonde d'hygrométrie arrière, capteur capacitif et capteur de température intégré.
+CONS4_061691;296617-4;105;Avec sonde d'hygrométrie arrière.
+CONS4_000596;293698-4;105;avec sonde d'hygrométrie capacitive
+CONS4_061707;297175-4;105;Avec sonde d'hygrométrie d'ambiance.
+CONS4_031101;307519-4;105;Avec sonde d'hygrométrie déportée
+CONS4_062346;291263-4;105;Avec sonde d'hygrométrie déportée et capteur de température intégré.
+CONS4_061819;298041-4;105;Avec sonde d'hygrométrie déportée, capteur capacitif et capteur de température intégré.
+CONS4_061699;296710-4;105;Avec sonde d'hygrométrie déportée.
+CONS4_090835;277257-4;105;avec sonde d'hygrométrie et capteur de température intégré type ExPro CTF.
+CONS4_099460;266586-4;105;avec sonde d'hygrométrie et capteur de température intégré.
+CONS4_063736;462183-4;105;Avec sonde d'hygrométrie et capteur de température intégré.
+CONS4_075866;461185-4;105;Avec sonde d'hygrométrie et de température d'ambiance
+CONS4_062002;299517-4;105;Avec sonde d'hygrométrie.
+CONS4_014451;359171-4;105;avec sonde diamètre 16mm AP472 S4LT
+CONS4_008066;437881-4;105;avec sonde d'usage général thermocouple K
+CONS4_092898;461305-4;105;avec sonde d'usage général, thermocouple K.
+CONS4_014170;366657-4;105;avec sonde extensible omni-directionelle à fil chaud AP471 S2

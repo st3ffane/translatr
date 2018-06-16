@@ -1,0 +1,265 @@
+{
+	"_id": {
+			"$oid": "593f8f2d67da3386375af8bf"
+		},
+		"collection": "alarms",
+		"rules": [{
+			"query": {
+				"state": 1,
+				"ackType": {
+					"_neq": 2
+				},
+				"techAlarme": {
+					"_neq": 1
+				}
+			},
+			"payloads": {
+				"fr_FR": {
+					"title": "Déclenchement alarme sur ${site.name}",
+					"body": "${alarms.slaveDesignation} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation} ${alarms.value}${i18n|alarms.unit}",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				},
+				"en_US": {
+					"title": "Alarm trigger on ${site.name}",
+					"body": "${alarms.slaveDesignation} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation} ${alarms.value}${i18n|alarms.unit}",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			},
+			"mails": {
+				"fr_FR": {
+					"subject": "Kimo TrackLogs - Déclenchement alarme sur ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Déclenchement alarme sur ${site.name}\r\n${alarms.slaveDesignation} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation}\r\n${alarms.value} ${i18n|alarms.unit}",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Déclenchement alarme sur ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation}</p><p><font color='red'>${alarms.value} ${i18n|alarms.unit}</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				},
+				"en_US": {
+					"subject": "Kimo TrackLogs - Alarm trigger on ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Alarm trigger on ${site.name}\r\n${alarms.slaveDesignation} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation}\r\n${alarms.value} ${i18n|alarms.unit}",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Alarm trigger on ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation}</p><p><font color='red'>${alarms.value} ${i18n|alarms.unit}</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		},
+		{
+			"query": {
+				"state": 0,
+				"ackType": {
+					"_neq": 2
+				},
+				"techAlarme": {
+					"_neq": 1
+				}
+			},
+			"payloads": {
+				"fr_FR": {
+					"title": "Retour d'alarme sur ${site.name}",
+					"body": "${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation} ${alarms.value}${i18n|alarms.unit}",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				},
+				"en_US": {
+					"title": "Alarm return on ${site.name}",
+					"body": "${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation} ${alarms.value}${i18n|alarms.unit}",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			},
+			"mails": {
+				"fr_FR": {
+					"subject": "Kimo TrackLogs - Retour d'alarme sur ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Retour d'alarme sur ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation}\r\n${alarms.value} ${i18n|alarms.unit}",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Retour d'alarme sur ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation}</p><p><font color='green'>${alarms.value} ${i18n|alarms.unit}</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				},
+				"en_US": {
+					"subject": "Kimo TrackLogs - Alarm return on ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Alarm return on ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation}\r\n${alarms.value} ${i18n|alarms.unit}",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Alarm return on ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}] | ${alarms.channelDesignation}</p><p><font color='green'>${alarms.value} ${i18n|alarms.unit}</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		},
+		{
+			"query": {
+				"techAlarme": 1,
+				"value": 2
+			},
+			"mails": {
+				"fr_FR": {
+					"subject": "Kimo TrackLogs - Déclenchement alarme technique sur ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Déclenchement alarme technique sur ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]\r\nPile faible",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Déclenchement alarme technique sur ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]</p><p><font color='red'>Pile faible</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"value": "${alarms.value}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				},
+				"en_US": {
+					"subject": "Kimo TrackLogs - Technical alarm triggered on ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Technical alarm triggered on ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]\r\nLow Battery",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Technical alarm triggered on ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]</p><p><font color='red'>Low battery</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"value": "${alarms.value}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		},
+		{
+			"query": {
+				"techAlarme": 1,
+				"value": 1
+			},
+			"mails": {
+				"fr_FR": {
+					"subject": "Kimo TrackLogs - Retour d'alarme technique sur ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Retour d'alarme technique sur ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]\r\nPile changée",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Retour d'alarme technique sur ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]</p><p><font color='green'>Pile changée</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"value": "${alarms.value}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				},
+				"en_US": {
+					"subject": "Kimo TrackLogs - Technical alarm return on ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} :Technical alarm return on ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]\r\nPile changée",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Technical alarm return on ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]</p><p><font color='green'>New battery</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"value": "${alarms.value}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		},
+		{
+			"query": {
+				"techAlarme": 1,
+				"value": 3
+			},
+			"mails": {
+				"fr_FR": {
+					"subject": "Kimo TrackLogs - Déclenchement alarme technique sur ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Déclenchement alarme technique sur ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]\r\nConnexion perdue",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Déclenchement alarme technique sur ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]</p><p><font color='red'>Connexion perdue</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"value": "${alarms.value}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				},
+				"en_US": {
+					"subject": "Kimo TrackLogs - Technical alarm trigger on ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Technical alarm trigger on ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]\r\nLost connection",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Technical alarm trigger on ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]</p><p><font color='red'>Lost connection</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"value": "${alarms.value}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		},
+		{
+			"query": {
+				"techAlarme": 1,
+				"value": 4
+			},
+			"mails": {
+				"fr_FR": {
+					"subject": "Kimo TrackLogs - Retour d'alarme technique sur ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Retour d'alarme technique sur ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]\r\nConnexion rétablie",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Retour d'alarme technique sur ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]</p><p><font color='green'>Connexion rétablie</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"value": "${alarms.value}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				},
+				"en_US": {
+					"subject": "Kimo TrackLogs - Technical alarm return on ${site.name}",
+					"text": "Kimo TrackLogs\r\n${alarms.date} : Technical alarm return on ${site.name}\r\n${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]\r\nReconnected",
+					"html": "<!doctype html><html lang=\"${locale}\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"></head><body><p>Kimo TrackLogs</p><p>${alarms.date} : Technical alarm return on ${site.name}</p><p>${alarms.slaveDesignation} | ${alarms.slaveNumber} - ${alarms.slaveType} [${alarms.slaveSerial}]</p><p><font color='green'>Reconnected</font></p></body></html>",
+					"data": {
+						"alarmId": "${alarms.id}",
+						"slaveId": "${alarms.slaveNumber}",
+						"state": "${alarms.state}",
+						"value": "${alarms.value}",
+						"techAlarme": "${alarms.techAlarme}",
+						"siteId": "${site.master.serial}"
+					}
+				}
+			}
+		}]
+	}
+	

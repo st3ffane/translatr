@@ -1,0 +1,908 @@
+main.COMMON.channel_1647331140_1|Interne|Internal|interna|intern
+main.COMMON.channel_1647363012_1|1|1|1|1
+main.COMMON.channel_1647363012_2|2|2|2|2
+main.COMMON.channel_1647363012_3|3|3|3|3
+main.COMMON.channel_1647363012_4|4|4|4|4
+main.COMMON.channel_1647542564_1|Interne|Internal|interna|intern
+main.COMMON.channel_1647542564_2|1|1|1|1
+main.COMMON.channel_1647542564_3|2|2|2|2
+main.COMMON.channel_1647560644_1|Interne 1|Internal 1|Interna 1|Intern 1
+main.COMMON.channel_1647560644_2|Interne 2|Internal 2|Internal 2|Intern 2
+main.COMMON.channel_1647560644_3|Interne 3|Internal 3|Interno 3|Intern 3
+main.COMMON.channel_1647560644_4|Interne 4|Internal 4|Internal 4|Intern 4
+main.COMMON.channel_1647542564_4|3|3|3|3
+main.COMMON.channel_1648328996_1|Interne|Internal|interna|intern
+main.COMMON.channel_1647542564_5|4|4|4|4
+main.COMMON.channel_1648328996_2|1-CTS|1-CTS|1-CTS|1-CTS
+main.COMMON.channel_1648328996_3|2-CTS|2-CTS|2-CTS|2-CTS
+main.COMMON.channel_1648328996_4|3-CTS|3-CTS|3-CTS|3-CTS
+main.COMMON.channel_1648328996_5|4-CTS|4-CTS|4-CTS|4-CTS
+main.COMMON.mailNotificationTitle|Gestion des alertes|Alert Management|Gestión de alertas|Benachrichtigungsverwaltung
+main.COMMON.mailNotification|Alertes par mail|Alerts by email|Alertas por correo electrónico|Benachrichtigungen per E-Mail
+main.COMMON.mailNotificationTechnical|Recevoir les alarmes techniques|Receive technical alarms|Recibe alarmas técnicas|Erhalten Sie technische Alarme
+main.COMMON.mailNotificationThreshold|Recevoir les alarmes sur seuils|Receive alarms on thresholds|Recibe alarmas en umbrales|Alarme bei Schwellenwerten empfangen
+main.COMMON.passwordStrategyTitle|Gestion de la stratégie des mots de passe|Password strategy management|Gestión de estrategia de contraseña|Passwort Strategieverwaltung
+main.COMMON.passwordStrategyUnit|Jour(s)|Days)|Día (s)|Tag (e)
+main.COMMON.passwordStrategyLabel|Durée de validité des mots de passe|Duration of validity of passwords|Duración de la validez de las contraseñas|Gültigkeitsdauer von Passwörtern
+main.COMMON.LORA_DEVICE_NOT_FOUND|L'appareil n'existe pas|The device does not exist|El dispositivo no existe|Das Gerät existiert nicht
+main.COMMON.passwordStrategyPlaceholder|Par défaut, 90 jours de validité|By default, 90 days of validity|Por defecto, 90 días de validez|Standardmäßig 90 Tage gültig
+main.COMMON.LORA_DEVICE_ALREADY_REGISTERED|L'appareil est déjà enregistré|The device is already registered|El dispositivo ya está registrado|Das Gerät ist bereits registriert
+main.COMMON.LORA_DEVICE_SITE_NOT_FOUND|Le site est introuvable|The site was not found|El sitio no fue encontrado|Die Seite wurde nicht gefunden
+main.COMMON.passwordStrategyDescription|Nombre de jours maximal de validité des mots de passes sur vos différents sites (en nombre de jours).|Maximum number of days passwords valid on your different sites (in number of days).|Número máximo de días válidos en sus diferentes sitios (en número de días).|Maximale Anzahl von Tagen, die auf Ihren verschiedenen Websites gültig sind (in Tagen).
+main.COMMON.selectAll|Tout sélectionner|Select all|Seleccionar todo|Wähle alle aus
+main.COMMON.all|Tous|All|todos|alle
+main.COMMON.all_female|Toutes|All|Todas|alle
+main.COMMON.cancel|Annuler|Cancel|anular|stornieren
+main.COMMON.ok|OK|OK|bueno|Ok
+main.COMMON.unselectAll|Tout désélectionner|Anything wrong|Algo mal|Irgendetwas stimmt nicht
+main.COMMON.valid|Valider|Validate|validar|bestätigen
+main.COMMON.send|Envoyer|To send|enviar a|senden
+main.COMMON.defaultZoneName|Zone par défaut|Zone by default|Zona por defecto|Zone standardmäßig
+main.COMMON.save|Enregistrer|Record|registro|Rekord
+main.COMMON.delete|Supprimer|Remove|eliminar|entfernen
+main.COMMON.add|Ajouter|Add|añadir|hinzufügen
+main.COMMON.hour|Heure|Hour|Hora|Zeit
+main.COMMON.date|Date|Dated|fecha|Datum
+main.COMMON.channel|Voie|way|camino|Weg
+main.COMMON.channelInternal|interne|internal|interna|intern
+main.COMMON.errorFieldsMandatory|Veuillez renseigner tous les champs|Please fill in all fields|Por favor complete todos los campos|Bitte füllen Sie alle Felder aus
+main.COMMON.unit_unknown|Unité non spécifiée|Unit unspecified|Unidad no especificada|Einheit nicht angegeben
+main.COMMON.errorMaxProfile|Nombre maximum de profils atteint|Maximum number of profiles reached|Número máximo de perfiles alcanzados|Maximale Anzahl der erreichten Profile
+main.COMMON.errorNameExists|Le nom de profil n'est pas disponible|Profile name is not available|El nombre del perfil no está disponible|Der Profilname ist nicht verfügbar
+main.COMMON.errorConfirmationMismatch|La confirmation du mot de passe ne correspond pas|Confirmation of the password does not match|La confirmación de la contraseña no coincide|Die Bestätigung des Passwortes stimmt nicht überein
+main.COMMON.USER_EXISTS|Le nom d'utilisateur n'est pas disponible|Username is not available|El nombre de usuario no está disponible|Der Benutzername ist nicht verfügbar
+main.COMMON.MAIL_EXISTS|L'adresse mail n'est pas disponible|The email address is not available|La dirección de correo electrónico no está disponible|Die E-Mail-Adresse ist nicht verfügbar
+main.COMMON.LICENSE_CODE_INVALID|Le code abonnement est invalide|The subscription code is invalid|El código de suscripción no es válido|Der Abonnementcode ist ungültig
+main.COMMON.USER_OR_MAIL_EXISTS|Le nom d'utilisateur ou le mail ne sont pas disponibles|Username or email are not available|Nombre de usuario o correo electrónico no están disponibles|Benutzername oder E-Mail sind nicht verfügbar
+main.COMMON.LICENSE_USED|Le code abonnement a déjà été utilisé|The subscription code has already been used|El código de suscripción ya ha sido utilizado|Der Abonnementcode wurde bereits verwendet
+main.COMMON.LICENSE_KEY_INVALID|Le code produit est invalide|Product code is invalid|El código del producto no es válido|Der Produktcode ist ungültig
+main.COMMON.LICENSE_MAX_USERS|Vous avez atteint la limite du nombre d'utilisateurs actifs|You have reached the limit of the number of active users|Has alcanzado el límite de la cantidad de usuarios activos|Sie haben das Limit der Anzahl aktiver Benutzer erreicht
+main.COMMON.MASTER_NOT_FOUND|La license est introuvable|The license is not found|La licencia no se encuentra|Die Lizenz wurde nicht gefunden
+main.COMMON.LICENSE_MAX_SLAVES|Vous avez atteint la limite du nombre d'appareils actifs|You have reached the limit of the number of active devices|Has alcanzado el límite de la cantidad de dispositivos activos|Sie haben das Limit der Anzahl der aktiven Geräte erreicht
+main.COMMON.lastName|Nom|Name|apellido|Name
+main.COMMON.firstName|Prénom|PrÃ © name|Nombre PrÃ ©|PrÃ © Name
+main.COMMON.mail|Adresse mail|Mail address|Correo electrónico|E-Mail-Adresse
+main.COMMON.password|Mot de passe|Password|Contraseña|Passwort
+main.COMMON.login|Identifiant de connexion|Connection identifier|ID de acceso|Login-ID
+main.COMMON.LICENSE_MAX_READ_DATA|Vous ne pouvez consulter les données que sur une période de {1} mois glissants|You can only view data over a rolling {1} month period|Solo puede ver los datos durante un período de {1} mes continuo|Sie können Daten nur über einen Zeitraum von {1} Monaten hinweg anzeigen
+main.COMMON.confirmation|Confirmation|Confirmation|confirmación|Bestätigung
+main.COMMON.name|Nom|Name|apellido|Name
+main.COMMON.unit_0|aucune|any|no|keine
+main.COMMON.unit_1|m/s|m / s|m / s|m / s
+main.COMMON.unit_2|fpm|fpm|FPM|fpm
+main.COMMON.unit_5|cfm|cfm|pcm|cfm
+main.COMMON.unit_6|m3/s|m3 / s|m3 / s|m3 / s
+main.COMMON.SITE_EXISTS|Le site est déjà enregistré sur un autre compte|The site is already registered on another account|El sitio ya está registrado en otra cuenta|Die Website ist bereits auf einem anderen Konto registriert
+main.COMMON.unit_7|°C|Â ° C|Â ° C|Â ° C
+main.COMMON.unit_8|°F|Â ° F|Â ° F|Â ° F
+main.COMMON.unit_9|%RH|% RH|% de humedad relativa|% RH
+main.COMMON.unit_4|L/s|L / s|L / s|L / s
+main.COMMON.unit_11|Pa|Pa|Pensilvania|Pa
+main.COMMON.unit_10|%PSI|PSI%|PSI%|PSI%
+main.COMMON.unit_12|mmH2O|mmH2O|mmH2O|mmH2O
+main.COMMON.unit_13|inWg|INWG|INWG|INWG
+main.COMMON.unit_14|kPa|kPa|kPa|kPa
+main.COMMON.unit_3|m3/h|m3 / h|m3 / h|m3 / h
+main.COMMON.unit_15|mmHg|mmHg|mmHg|mmHg
+main.COMMON.unit_16|mbar|mbar|mbar|mbar
+main.COMMON.unit_17|absolueg/kg|absolueg / kg|absolueg / kg|absolueg / kg
+main.COMMON.unit_22|kJ/kg|kJ / kg|kJ / kg|kJ / kg
+main.COMMON.unit_23|mA|my|mA|mA
+main.COMMON.unit_24|A|AT|la|A
+main.COMMON.unit_20|°C Tw|Â ° C Tw|Â ° C Tw|° C Tw
+main.COMMON.unit_21|°F Tw|Â ° F Tw|Â ° F Tw|° F Tw
+main.COMMON.unit_18|°C Td|Â ° C Td|Â ° C Td|° C Td
+main.COMMON.unit_19|°F Td|Â ° F Td|Â ° F Td|° F Td
+main.COMMON.unit_25|mV|mV|mV|mV
+main.COMMON.unit_26|V|V|V|V
+main.COMMON.unit_32|pulse|pulse|pulso|Puls
+main.COMMON.unit_27|lux|lux|lux|Lux
+main.COMMON.unit_33|pulses|pulse|pulso|Puls
+main.COMMON.unit_34|KelvinK|Kelvink|Kelvink|Kelvink
+main.COMMON.unit_36|mph|mph|mph|mph
+main.COMMON.unit_35|km/h|km / h|km / h|km / h
+main.COMMON.unit_37|Hz|Hz|hz|Hz
+main.COMMON.unit_39|rpm|rpm|rpm|rpm
+main.COMMON.unit_38|tr/min|rev / min|rev / min|U / min
+main.COMMON.unit_31|unité libre|free unit|unidad libre|freie Einheit
+main.COMMON.unit_40|m/min|m / min|m / min|m / min
+main.COMMON.unit_42|bar|bar|bar|Bar
+main.COMMON.unit_41|in/min|in / min|en / min|in / min
+main.COMMON.unit_43|daPa|daPa|daPa|daPa
+main.COMMON.unit_44|hPa|hPa|hPa|hPa
+main.COMMON.unit_45|ppm|ppm|ppm|ppm
+main.COMMON.unit_46|dB|dB|dB|dB
+main.COMMON.unit_lora_0|aucune|any|no|keine
+main.COMMON.unit_47|ohms|ohms|ohmios|Ohm
+main.COMMON.unit_lora_1|%RH|% RH|% de humedad relativa|% RH
+main.COMMON.unit_lora_2||||
+main.COMMON.unit_lora_3|unité libre|free unit|unidad libre|freie Einheit
+main.COMMON.unit_lora_16|°C|Â ° C|Â ° C|Â ° C
+main.COMMON.unit_lora_17|°F|Â ° F|Â ° F|Â ° F
+main.COMMON.unit_lora_18|K|K|K|K
+main.COMMON.unit_lora_32|%RH|% RH|% de humedad relativa|% RH
+main.COMMON.unit_lora_33|g/kg|g / kg|g / kg|g / kg
+main.COMMON.unit_lora_34|kJ/kg|kJ / kg|kJ / kg|kJ / kg
+main.COMMON.unit_lora_35|°CTd|Â ° Ctd|Â ° Ctd|Â ° Ctd
+main.COMMON.unit_lora_15|unité inconnue|unknown unit|unidad desconocida|unbekannte Einheit
+main.COMMON.unit_lora_36|°FTd|Â ° FTD|Â ° FTD|Â ° FTD
+main.COMMON.unit_lora_38|°F Tw|Â ° F Tw|Â ° F Tw|° F Tw
+main.COMMON.unit_lora_37|°C Tw|Â ° C Tw|Â ° C Tw|° C Tw
+main.COMMON.unit_lora_19|Delta °C|Delta Â ° C|Delta Â ° C|Delta ° C
+main.COMMON.unit_lora_20|Delta °F|Delta Â ° F|Delta ° F|Delta ° F
+main.COMMON.unit_lora_39|g/m3|g / m3|g / m3|g / m3
+main.COMMON.unit_lora_48|bar|bar|bar|Bar
+main.COMMON.unit_lora_49|PSI|PSI|PSI|PSI
+main.COMMON.unit_lora_51|inWg|INWG|INWG|INWG
+main.COMMON.unit_lora_50|kPa|kPa|kPa|kPa
+main.COMMON.unit_lora_52|hPa|hPa|hPa|hPa
+main.COMMON.unit_lora_53|mbar|mbar|mbar|mbar
+main.COMMON.unit_lora_54|mmHg|mmHg|mmHg|mmHg
+main.COMMON.unit_lora_55|mmH2O|mmH2O|mmH2O|mmH2O
+main.COMMON.unit_lora_56|daPa|daPa|daPa|daPa
+main.COMMON.unit_lora_57|Pa|Pa|Pensilvania|Pa
+main.COMMON.unit_lora_64|m/s|m / s|m / s|m / s
+main.COMMON.unit_lora_65|fpm|fpm|FPM|fpm
+main.COMMON.unit_lora_66|km/h|km / h|km / h|km / h
+main.COMMON.unit_lora_67|mph|mph|mph|mph
+main.COMMON.unit_lora_80|m3/h|m3 / h|m3 / h|m3 / h
+main.COMMON.unit_lora_82|cfm|cfm|pcm|cfm
+main.COMMON.unit_lora_81|l/s|l / s|l / s|l / s
+main.COMMON.unit_lora_83|m3/s|m3 / s|m3 / s|m3 / s
+main.COMMON.unit_lora_84|nm3/h|Nm3 / h|Nm3 / h|Nm3 / h
+main.COMMON.unit_lora_85|dm3/h|dm3 / h|dm3 / h|dm3 / h
+main.COMMON.unit_lora_96|Hz|Hz|hz|Hz
+main.COMMON.unit_lora_97|tr/min|rev / min|rev / min|U / min
+main.COMMON.unit_lora_98|rpm|rpm|rpm|rpm
+main.COMMON.unit_lora_100|in/min|in / min|en / min|in / min
+main.COMMON.unit_lora_99|m/min|m / min|m / min|m / min
+main.COMMON.unit_lora_102|m/s|m / s|m / s|m / s
+main.COMMON.unit_lora_112|ppm|ppm|ppm|ppm
+main.COMMON.unit_lora_101|ft/min|ft / min|ft / min|ft / min
+main.COMMON.unit_lora_113|mg/m3|mg / m3|mg / m3|mg / m3
+main.COMMON.unit_lora_114|mg/kWh|mg / kWh|mg / kWh|mg / kWh
+main.COMMON.unit_lora_115|g/kWh|g / kWh|g / kWh|g / kWh
+main.COMMON.unit_lora_116|g/GJ|g / GJ|g / GJ|g / GJ
+main.COMMON.unit_lora_117|g/m3|g / m3|g / m3|g / m3
+main.COMMON.unit_lora_118|%|%|%|%
+main.COMMON.unit_lora_128|lux|lux|lux|Lux
+main.COMMON.unit_lora_129|fc|fc|fc|fc
+main.COMMON.unit_lora_120|g/an|g / year|g / año|g / Jahr
+main.COMMON.unit_lora_130|W/m2|W / m2|W / m2|W / m2
+main.COMMON.unit_lora_131|klux|klux|klux|klux
+main.COMMON.unit_lora_144|db|db|db|db
+main.COMMON.unit_lora_132|kfc|kfc|KFC|kfc
+main.COMMON.unit_lora_160|mV|mV|mV|mV
+main.COMMON.unit_lora_119|% LIE|% LIE|% MENTIRA|% LIE
+main.COMMON.unit_lora_161|V|V|V|V
+main.COMMON.unit_lora_163|mA|my|mA|mA
+main.COMMON.unit_lora_162|µA|ÂμA|ÂμA|ÂμA
+main.COMMON.unit_lora_164|A|AT|la|A
+main.COMMON.unit_lora_165|Ohms|ohms|ohmios|Ohm
+main.COMMON.unit_lora_176|wbgt|WBGT|WBGT|WBGT
+main.COMMON.unit_lora_192|s|s|s|s
+main.COMMON.unit_lora_193|min|min|min|min
+main.COMMON.unit_lora_177|W/m2/K|W / m2 / K|W / m2 / K|W / m2 / K
+main.COMMON.unit_lora_194|h|h|h|h
+main.COMMON.unit_lora_208|mm|mm|mm|Millimeter
+main.COMMON.unit_lora_209|in|in|en|in
+main.COMMON.unit_lora_210|m|m|m|m
+main.COMMON.unit_lora_255|Comptage|counting|contando|Zählen
+main.COMMON.source_0|Application|Application|solicitud|Anwendung
+main.COMMON.source_1|Appareil|Apparatus|aparato|Apparat
+main.COMMON.source_5|Cloud|Cloud|nube|Wolke
+main.COMMON.source_4|Base De Communication|Communication Basis|Base de comunicación|Kommunikationsbasis
+main.COMMON.source_3|Voie Calculée|Calculated Way|Manera Calculada|Berechneter Weg
+main.COMMON.source_2|Alarme Deportée|Deported Alarm|Alarma deportada|Abgeschobener Alarm
+main.COMMON.code_1|Application Lancée|Application Launched|Aplicación Lanzada|Anwendung gestartet
+main.COMMON.code_2|Application Fermée|Closed application|Solicitud cerrada|Geschlossene Anwendung
+main.COMMON.code_10|Connexion Utilisateur|User Login|Login de usuario|Benutzeranmeldung
+main.COMMON.code_11|Deconnexion Utilisateur|User Logout|Cierre de sesión del usuario|Benutzerabmeldung
+main.COMMON.code_3|Modification Préférences|Modification Preferences|Preferencias de modificación|Änderungspräferenzen
+main.COMMON.code_4|Modification Paramètres Messagerie|Editing Messaging Settings|Edición de la configuración de mensajería|Nachrichteneinstellungen bearbeiten
+main.COMMON.code_12|Connexion Echouée|Failed Connection|Conexión fallida|Fehlgeschlagene Verbindung
+main.COMMON.code_13|Ajout Utilisateur|Adding User|Agregar usuario|Benutzer hinzufügen
+main.COMMON.code_14|Modification Utilisateur|User Modification|Modificación del usuario|Benutzeränderung
+main.COMMON.code_15|Suppression Utilisateur|User Deletion|Deleción del usuario|Benutzer löschen
+main.COMMON.code_16|Changement Password|Change Password|Cambiar contraseña|Passwort ändern
+main.COMMON.code_17|Ajout Groupe|Group Addition|Adición grupal|Gruppenzugehörigkeit
+main.COMMON.code_18|Modification Groupe|Group Modification|Modificación grupal|Gruppenmodifizierung
+main.COMMON.code_19|Suppression Groupe|Group deletion|Eliminación de grupo|Gruppenlöschung
+main.COMMON.code_100|Appairage Appareil RF|RF appliance pairing|Emparejamiento de dispositivos RF|HF-Gerätekopplung
+main.COMMON.code_20|Gestion Utilisateurs Modifiée|User Management Modified|Gestión de usuarios modificada|Benutzerverwaltung geändert
+main.COMMON.code_101|Suppression Appareil RF|RF Device Removal|Eliminación de dispositivos RF|HF-Gerät entfernen
+main.COMMON.code_102|Remplacement Appareil RF|RF Device Replacement|Reemplazo de dispositivo RF|RF-Geräteaustausch
+main.COMMON.code_105|Griser Appareil RF|Gray RF Device|Dispositivo de RF gris|Graues HF-Gerät
+main.COMMON.code_104|Retrait Appareil RF|RF Device Removal|Eliminación de dispositivos RF|HF-Gerät entfernen
+main.COMMON.code_103|Placement Appareil RF|RF Device Placement|Colocación de dispositivos RF|RF-Gerätplatzierung
+main.COMMON.code_106|Degriser Appareil RF|Degrade RF Device|Degrada el dispositivo de RF|RF-Gerät abbauen
+main.COMMON.code_107|Configuration Verification Reseau|Network Verification Configuration|Configuración de verificación de red|Netzwerküberprüfungskonfiguration
+main.COMMON.code_201|Configuration Appareil|Device Configuration|Configuración del dispositivo|Gerätekonfiguration
+main.COMMON.code_108|Planification Vidages|Waste Planning|Planificación de desechos|Abfallplanung
+main.COMMON.code_109|Planification Mesures|Planning Measures|Medidas de planificación|Planungsmaßnahmen
+main.COMMON.code_202|Dechargement Appareil|Device Unloading|Descarga del dispositivo|Gerät entladen
+main.COMMON.code_203|Lancement Campagne Par PC|Launch Campaign By PC|Launch Campaign por PC|Kampagne nach PC starten
+main.COMMON.code_205|Vidage Appareil|Device emptying|Vaciado del dispositivo|Gerät entleeren
+main.COMMON.code_206|Lecture Mesures Appareil|Reading Device Measurements|Lectura de medidas del dispositivo|Gerätemessungen lesen
+main.COMMON.code_204|Arrêt Campagne Par PC|Stop Campaign By PC|Stop Campaign Por Computadora|Stoppt die Kampagne auf dem PC
+main.COMMON.code_207|Test Communication|Test Communication|Comunicación de prueba|Kommunikation testen
+main.COMMON.code_1001|Produit Ajouté|Added Product|Producto agregado|Produkt hinzugefügt
+main.COMMON.code_1003|Produit Supprime|Product Deletes|Elimina Producto|Produkt wird gelöscht
+main.COMMON.code_1002|Infos Produit Modifiées|Product Information Changed|Información del producto modificada|Produktinformationen geändert
+main.COMMON.code_2001|Alarme Deportée Ajoutée|Deported Alarm Added|Alarma deportada agregada|Abgeschobener Alarm hinzugefügt
+main.COMMON.code_2002|Alarme Deportée Modifiée|Deported Alarm Modified|Alarma deportada modificada|Abgeleiteter Alarm geändert
+main.COMMON.code_2003|Alarme Deportée Supprimée|Deported Alarm Deleted|Alarma deportada eliminada|Abgeleiteter Alarm gelöscht
+main.COMMON.code_2005|Alarme Email Ajoutée|Alarm Email Added|Correo electrónico de alarma agregado|Alarm E-Mail hinzugefügt
+main.COMMON.code_2004|Pilotage Relais Appareil|Device Relay Control|Control de relé del dispositivo|Geräte-Relaissteuerung
+main.COMMON.code_2006|Alarme Email Modifiée|Modified Email Alarm|Alarma de correo electrónico modificado|Geänderter E-Mail-Alarm
+main.COMMON.code_2007|Alarme Email Supprimée|Alarm Deleted Email|Correo electrónico eliminado por alarma|Alarm gelöschte E-Mail
+main.COMMON.code_3002|Arrêt Service|Stop Service|Detener el servicio|Stoppen Sie den Service
+main.COMMON.code_2008|Alarme Email Envoyée|Email Alarm Sent|Alarma de correo electrónico enviada|E-Mail-Alarm gesendet
+main.COMMON.code_3001|Démarrage Service|Initiation Service|Servicio de iniciación|Initiierungsservice
+main.COMMON.code_5001|Connexion échouée|Failed connection|Conexión fallida|Fehlgeschlagene Verbindung
+main.COMMON.code_5002|Connexion rétablie|Revised connection|Conexión revisada|Überarbeitete Verbindung
+main.COMMON.code_5004|Requête au serveur|Server request|Solicitud del servidor|Serveranfrage
+main.COMMON.code_5003|Echec envoi de données|Failed to send data|Error al enviar datos|Fehler beim Senden der Daten
+main.COMMON.code_6001|Création de site|Site creation|Creación del sitio|Website-Erstellung
+main.COMMON.code_6003|Echec identification|Failure identification|Identificación de fallas|Fehlererkennung
+main.COMMON.code_6002|Supression de site|Site deletion|Eliminación del sitio|Löschen von Websites
+main.COMMON.code_2011|Configuration Appareil Bluetooth|Bluetooth Device Setup|Configuración del dispositivo Bluetooth|Bluetooth-Geräteeinrichtung
+main.COMMON.code_2010|Configuration Appareil Simplifiée|Simplified Device Configuration|Configuración de dispositivo simplificada|Vereinfachte Gerätekonfiguration
+main.COMMON.code_2012|Configuration Appareil Complète|Complete Device Configuration|Configuración completa del dispositivo|Komplette Gerätekonfiguration
+main.COMMON.probe_1|Température CTN Ambiance|Temperature NTC Ambience|Temperatura NTC Ambiente|Temperatur NTC Ambiente
+main.COMMON.probe_2|Température CTN Interne|Internal CTN temperature|Temperatura interna CTN|Interne CTN-Temperatur
+main.COMMON.probe_5|Courant 4/20 mA|4/20 mA current|Corriente de 4/20 mA|4/20 mA Strom
+main.COMMON.probe_3|Température CTN Déportée|NTC temperature DeÌ door|NTC temperatura DeÌ puerta|NTC Temperatur DeÌ Tür
+main.COMMON.probe_4|Courant 0/20 mA|0/20 mA current|Corriente de 0/20 mA|0/20 mA Strom
+main.COMMON.probe_10|Luminosité|LuminositeÌ|LuminositeÌ|LuminositeÌ
+main.COMMON.probe_6|Tension 0/10 V|Voltage 0/10 V|Voltaje 0/10 V|Spannung 0/10 V
+main.COMMON.probe_7|Tension 0/2500 mV|Voltage 0/2500 mV|Voltaje 0/2500 mV|Spannung 0/2500 mV
+main.COMMON.probe_9|Thermo-Hygro SHT Déportée|Thermo-Hygro SHT DeÌ door|Thermo-Hygro SHT DeÌ puerta|Thermo-Hygro SHT DeÌ Tür
+main.COMMON.probe_12|Température Thermocouple T|Temperature Thermocouple T|Termopar de temperatura T|Temperatur-Thermoelement T
+main.COMMON.probe_11|Température Thermocouple K|Temperature Thermocouple K|Termopar de temperatura K|Temperatur-Thermoelement K
+main.COMMON.probe_13|Température Thermocouple J|Temperature Thermocouple J|Termopar de temperatura J|Temperatur Thermoelement J
+main.COMMON.probe_8|Thermo-Hygro SHT Ambiance|Thermo-Hygro SHT Ambience|Ambiente Thermo-Hygro SHT|Thermo-Hygro SHT Ambiente
+main.COMMON.probe_15|Thermo-Hygro Ambiance|Thermo-Hygro Ambiance|Ambiente Thermo-Hygro|Thermo-Hygro Ambiente
+main.COMMON.probe_14|Température PT100 Déportée|Temperature PT100 DeÌ door|Temperatura PT100 DeÌ puerta|Temperatur PT100 DeÌ Tür
+main.COMMON.probe_16|Thermo-Hygro Inox Déportée|Thermo-Hygro Inox DeÌ door|Puerta Thermo-Hygro Inox DeÌ|Thermo-Hygro Inox DeÌ Tür
+main.COMMON.probe_17|Pince ampèremétrique 20 A|Clamp ampeÌ € remeÌque 20 A|Abrazadera ampeÌ € remeÌque 20 A|Klemme Ampere € remoteÌque 20 A
+main.COMMON.probe_18|Pince ampèremétrique 50 A|Clamp ampeÌ € remeÌ cale 50 A|Abrazadera ampeÌ € remeÌ cale 50 A|Klemme Ampere € 50%
+main.COMMON.probe_19|Pince ampèremétrique 100 A|Clamp ampeÌ € remeÌ trique 100 A|Abrazadera ampeÌ € remeÌ trique 100 A|Klemme ampe € remeÌ trique 100 A
+main.COMMON.probe_20|Pince ampèremétrique 200 A|Clamp ampeÌ € remeÌ trique 200 A|Abrazadera ampeÌ € remeÌ trique 200 A|Klemme ampe € remoreÌ trique 200 A
+main.COMMON.probe_22|Thermo-Hygro Plastique Déportée|Thermo-Hygro Plastic DeÌ door|Thermo-Hygro Plastic DeÌ puerta|Thermo-Hygro Kunststoff DeÌ Tür
+main.COMMON.probe_21|Pince ampèremétrique 600 A|Clamp ampeÌ € remeÌctrique 600 A|Abrazadera ampeÌ € remeÌctrique 600 A|Clamp Ampere 600 A
+main.COMMON.probe_23|Température KT20|Temperature KT20|Temperatura KT20|Temperatur KT20
+main.COMMON.probe_24|Température Thermocouple S|Temperature Thermocouple S|Termocupla de temperatura S|Temperatur-Thermoelement S
+main.COMMON.probe_26|Compteur impulsions|Pulse counter|Contador de pulsos|Impulszähler
+main.COMMON.probe_25|Détection impulsions|Pulse deÌection|Deyección de pulso|Pulsdezektion
+main.COMMON.probe_27|Pression 1000 Pa|1000 Pa pressure|1000 Pa de presión|1000 Pa Druck
+main.COMMON.Probe_30|Lumière|Light|luz|Licht
+main.COMMON.probe_28|Pression 10000 Pa|Pressure 10000 Pa|Presión 10000 Pa|Druck 10000 Pa
+main.COMMON.Probe_29|Cellule CO2|CO2 cell|Celda de CO2|CO2-Zelle
+main.COMMON.Probe_lora_1|Thermocouple K|Thermocouple K|Termopar K|Thermoelement K
+main.COMMON.Probe_lora_2|Thermocouple J|Thermocouple J|Termopar J|Thermoelement J
+main.COMMON.Probe_lora_3|Thermocouple T|Thermocouple T|Termopar T|Thermoelement T
+main.COMMON.Probe_lora_4|Thermocouple N|Thermocouple N|Termopar N|Thermoelement N
+main.COMMON.Probe_lora_5|Thermocouple S|Thermocouple S|Termopar S|Thermoelement S
+main.COMMON.Probe_lora_6|Courant 0-20mA|Current 0-20mA|Corriente 0-20mA|Strom 0-20 mA
+main.COMMON.Probe_lora_7|Courant 4-20mA|4-20mA current|Corriente 4-20mA|4-20 mA Strom
+main.COMMON.Probe_lora_8|Tension 0-5V|0-5V voltage|Voltaje 0-5V|0-5V Spannung
+main.COMMON.Probe_lora_9|Tension 0-10V|0-10V voltage|Voltaje 0-10V|0-10V Spannung
+main.COMMON.Probe_lora_10|Compteur impulsion|Impulse counter|Contador de impulsos|Impulszähler
+main.COMMON.Probe_lora_11|Pince ampèremétrique 50A|50A Ampere Clamp|Abrazadera de amperios 50A|50A Ampereklemme
+main.COMMON.Probe_lora_12|Pince ampèremétrique 100A|Clamp ammeter 100A|Amperímetro de pinza 100A|Klemm-Amperemeter 100A
+main.COMMON.Probe_lora_13|Pince ampèremétrique 200A|Clamp ammeter 200A|Amperímetro de pinza 200A|Klemm-Amperemeter 200A
+main.COMMON.Probe_lora_15|Température CTN externe|External NTC temperature|Temperatura externa NTC|Externe NTC-Temperatur
+main.COMMON.Probe_lora_14|Pince ampèremétrique 600A|Clamp ammeter 600A|Amperímetro de pinza 600A|Klemm-Amperemeter 600A
+main.COMMON.Probe_lora_17|Température interne|Internal temperature|Temperatura interna|Innentemperatur
+main.COMMON.Probe_lora_16|température PT100 externe|external PT100 temperature|temperatura externa PT100|externe PT100 Temperatur
+main.COMMON.Probe_lora_18|Pression d'eau 0-10 bar|Water pressure 0-10 bar|Presión de agua 0-10 bar|Wasserdruck 0-10 bar
+main.COMMON.Probe_lora_19|Sonde hygro-température|Hygro-temperature probe|Sonda de humedad|Hygro-Temperaturfühler
+main.COMMON.Probe_lora_20|Sonde hygro-température inox|Stainless steel hygro-temperature probe|Sonda de higro-temperatura de acero inoxidable|Hygro-Temperatursonde aus Edelstahl
+main.COMMON.Probe_lora_24|CO2 interne|Internal CO2|CO2 interno|Internes CO2
+main.COMMON.Probe_lora_23|Lumière interne|Internal light|Luz interna|Internes Licht
+main.COMMON.Probe_lora_22|Sonde hygro-température interne|Internal hygro-temperature probe|Sonda de temperatura interna|Interne Hygro-Temperatursonde
+main.COMMON.Probe_lora_21|Sonde hygro-température ABS/amb|ABS hygro-temperature probe / amb|Sonda de temperatura higrométrica ABS / amb|ABS Hygro-Temperaturfühler / amb
+main.COMMON.Probe_lora_25|Pression atmosphérique interne|Internal atmospheric pressure|Presión atmosférica interna|Interner atmosphärischer Druck
+main.COMMON.Probe_lora_26|Pression interne 1000 Pa|Internal pressure 1000 Pa|Presión interna 1000 Pa|Innendruck 1000 Pa
+main.COMMON.Probe_lora_27|Pression interne 10000 Pa|Internal pressure 10000 Pa|Presión interna 10000 Pa|Innendruck 10000 Pa
+main.COMMON.techAlarm_1|Batterie changée|Battery changed|Batería cambiada|Batterie gewechselt
+main.COMMON.Probe_lora_28|Pression d'eau 0-20 bar|Water pressure 0-20 bar|Presión de agua 0-20 bar|Wasserdruck 0-20 bar
+main.COMMON.techAlarm_2|Batterie faible|Low battery|Batería baja|Batterie schwach
+main.COMMON.techAlarm_3|Perte de communication|Loss of communication|Pérdida de comunicación|Verlust der Kommunikation
+main.COMMON.techAlarm_666|Erreur de traitement de données|Error processing data|Error al procesar los datos|Fehler beim Verarbeiten der Daten
+main.COMMON.techAlarm_4|Communication rétablie|Revised communication|Comunicación revisada|Überarbeitete Kommunikation
+main.COMMON.techAlarm_3_more|Aucune communication avec le serveur depuis 1heure|No communication with the server since 1 hour|Sin comunicación con el servidor desde 1 hora|Keine Kommunikation mit dem Server seit 1 Stunde
+main.COMMON.techAlarm_510|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.COMMON.techAlarm_511|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.COMMON.techAlarm_512|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.COMMON.techAlarm_506|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.COMMON.techAlarm_514|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.COMMON.techAlarm_512_more|512: Appareil non configuré|512: Unconfigured device|512: dispositivo desconfigurado|512: Nicht konfiguriertes Gerät
+main.COMMON.techAlarm_511_more|511: Version de configuration inconnu.|511: Unknown configuration version.|511: versión de configuración desconocida.|511: Unbekannte Konfigurationsversion.
+main.COMMON.techAlarm_510_more|510: Pas de réponse de la base de données|510: No response from the database|510: ninguna respuesta de la base de datos|510: Keine Antwort von der Datenbank
+main.COMMON.techAlarm_514_more|514: Erreur de base de données.|514: Database error.|514: error de la base de datos.|514: Datenbankfehler.
+main.COMMON.record_as_template|Enregistrer la configuration comme modèle|Save the configuration as a template|Guarde la configuración como una plantilla|Speichern Sie die Konfiguration als Vorlage
+main.COMMON.not_configurable|**Vous ne pouvez pas configurer cette voie.|** You can not configure this channel.|** No puedes configurar este canal.|** Sie können diesen Kanal nicht konfigurieren.
+main.COMMON.error_template_name_empty|Vous devez renseigner un nom de modèle.|You must enter a model name.|Debe ingresar un nombre de modelo.|Sie müssen einen Modellnamen eingeben.
+main.LostPasswordForm.mail|Adresse email|E-mail adress|Dirección de correo electrónico|E-Mail-Adresse
+main.COMMON.techAlarm_506_more|506: Configuration de l'appareil et données reçues incohérentes|506: Device Configuration and Data Received Inconsistent|506: configuración del dispositivo y datos recibidos inconsistentes|506: Gerätekonfiguration und empfangene Daten inkonsistent
+main.COMMON.INVALID_PASSWORD_LENGTH|Le mot de passe doit faire au moins 6 caractères.|The password must be at least 6 characters long.|La contraseña debe tener al menos 6 caracteres de longitud.|Das Passwort muss mindestens 6 Zeichen lang sein.
+main.LostPasswordForm.errorWrongMail|Adresse mail incorrecte|Invalid email address|Dirección de correo electrónico no válida|Ungültige E-Mail-Adresse
+main.COMMON.ALREADY_USED_PASSWORD|Vous avez déjà utilisé récemment ce mot de passe, merci d'en choisir un autre.|You have already used this password recently, please choose another one.|Ya usó esta contraseña recientemente, elija otra.|Sie haben dieses Passwort bereits vor Kurzem verwendet, wählen Sie bitte ein anderes.
+main.LostPasswordForm.errorInactive|**Ce compte est actuellement inactif. Veuillez contacter votre administrateur.|** This account is currently inactive. |** Esta cuenta actualmente está inactiva. |** Dieses Konto ist derzeit inaktiv. 
+main.LostPasswordForm.title|Identifiant ou mot de passe oublié|Username or password forgotten|Nombre de usuario o contraseña olvidada|Benutzername oder Passwort vergessen
+main.COMMON.Request Timeout|Le serveur a mis trop de temps a répondre, merci de rééssayer dans quelques instants.|The waiter took too long to answer, thank you for answering in a few moments.|El camarero tardó demasiado en responder, gracias por responder en unos momentos.|Der Kellner brauchte zu lange, um zu antworten, danke, dass Sie in wenigen Augenblicken geantwortet haben.
+main.InstallationTypeChoice.siteName|Nom du site|name of the site|Nombre del sitio|Name der Site
+main.InstallationTypeChoice.siteSerial|Identifiant de l'installation|Identifier of the installation|Identificador de la instalación|Kennung der Installation
+main.InstallationTypeChoice.slaveCode|Code de l'appareil|Device code|Código de dispositivo|Gerätecode
+main.InstallationTypeChoice.devicetype_placeholder|**Choisir le type d'appareil|** Choose the device type|** Elija el tipo de dispositivo|** Wählen Sie den Gerätetyp
+main.InstallationTypeChoice.slaveSerial|N° de série de l'appareil|Serial number of the device|Número de serie del dispositivo|Seriennummer des Geräts
+main.InstallationTypeChoice.modal_info_title|**Installation CTS-Cloud|** CTS-Cloud installation|** Instalación CTS-Cloud|** CTS-Cloud Installation
+main.InstallationTypeChoice.modal_info_ok|**OK|**OK|OK **|OK **
+main.InstallationTypeChoice.modal_info_code|**Code appareil|** Device code|** Código de dispositivo|** Gerätecode
+main.RegisterForm.login|Identifiant de connexion|Connection identifier|ID de acceso|Login-ID
+main.RegisterForm.mail|Mail|Mail|correo|Post
+main.RegisterForm.register|S'enregistrer|register|registro|registrieren
+main.InstallationTypeChoice.modal_info_serial|**Numéro de série|** Serial number|** Número de serie|** Seriennummer
+main.RegisterForm.licenseCode|Code abonnement|Subscription code|Código de suscripción|Abonnementcode
+main.RegisterForm.personalInformations|Informations Personnelles|Personal informations|Información personal|Persönliche Informationen
+main.RegisterForm.confirmation|Confirmation du mot de passe|Password Confirmation|Confirmación de contraseña|Bestätigung des Passwortes
+main.InstallationTypeChoice.modal_info_txt1|**Veuillez entrer les références d'un de vos appareils CTS-Cloud.|** Please enter the references of one of your CTS-Cloud devices.|** Ingrese las referencias de uno de sus dispositivos CTS-Cloud.|** Bitte geben Sie die Referenzen eines Ihrer CTS-Cloud-Geräte ein.
+main.RegisterForm.accountInformations|Paramètres du compte|Account settings|Configuración de cuenta|Kontoeinstellungen
+main.RegisterForm.siteInformations|Informations du site|Site information|Información del sitio|Informationen zur Website
+main.LoginForm.connexion|Connexion|Log in|acceder|einloggen
+main.LoginForm.title|Connexion|Log in|acceder|einloggen
+main.LoginForm.ERROR|Une erreur est survenue lors de la connexion. Veuillez contacter votre administrateur.|An error occurred while connecting. |Se produjo un error al conectarse. |Beim Verbindungsaufbau ist ein Fehler aufgetreten. 
+main.InstallationTypeChoice.modal_info_txt2|**Le numéro de série et le code appareil se trouvent sur l'étiquette située à l'arrière du boîtier.|** The serial number and the unit code are located on the label on the back of the case.|** El número de serie y el código de la unidad se encuentran en la etiqueta en la parte posterior de la caja.|** Die Seriennummer und der Gerätecode befinden sich auf dem Etikett auf der Gehäuserückseite.
+main.LoginForm.USER_INACTIVE|Votre accès est désactivé. Veuillez contacter votre administrateur.|Your access is disabled. |Tu acceso esta deshabilitado |Dein Zugang ist deaktiviert. 
+main.LoginForm.register|Créer un compte|Create an account|Crea una cuenta|Erstellen Sie ein Konto
+main.LoginForm.errorFieldsMandatory|Tous les champs sont obligatoire|All fields are mandatory|Todos los campos son obligatorios|Alle Felder sind erforderlich
+main.LoginForm.errorWrongLogin|Identifiant ou mot de passe incorrect|Incorrect username or password|Nombre de usuario o contraseña incorrectos|Falscher Benutzername oder falsches Passwort
+main.LoginForm.activationError|Une erreur est survenue durant l'activation|An error occurred during activation|Se produjo un error durante la activación|Während der Aktivierung ist ein Fehler aufgetreten
+main.LoginForm.activationSuccess|Votre compte est maintenant activé. Vous pouvez vous connecter.|Your account is now activated. |Su cuenta ahora está activada. |Ihr Konto ist jetzt aktiviert. 
+main.LoginForm.admin_account_tmp_blocked|Ce compte a été bloqué suite à une tentative d'intrusion. Un mail a été envoyé à l'administrateur du site|This account has been blocked due to an intrusion attempt. |Esta cuenta ha sido bloqueada debido a un intento de intrusión. |Dieses Konto wurde aufgrund eines Einbruchsversuchs gesperrt. 
+main.LoginForm.attempt_reach_limit|Vous avez atteind le nombre maximal d'essais pour vous identifier.|You have reached the maximum number of attempts to identify yourself.|Ha alcanzado la cantidad máxima de intentos para identificarse.|Sie haben die maximale Anzahl von Versuchen erreicht, sich zu identifizieren.
+main.LoginForm.lostPassword|Identifiant ou mot de passe oublié|Username or password forgotten|Nombre de usuario o contraseña olvidada|Benutzername oder Passwort vergessen
+main.LoginForm.registerSuccess|Votre inscription a bien été prise en compte|Your registration has been taken into account|Su registro ha sido tenido en cuenta|Ihre Registrierung wurde berücksichtigt
+main.LoginForm.account_tmp_blocked|Ce compte a été bloqué suite à une tentative d'intrusion pour des raisons de sécurité.|This account has been blocked due to an intrusion attempt for security reasons.|Esta cuenta ha sido bloqueada debido a un intento de intrusión por razones de seguridad.|Dieses Konto wurde aufgrund eines Einbruchsversuchs aus Sicherheitsgründen gesperrt.
+main.Menu.events|Journal des événements|Event Diary|Diario del evento|Ereignis-Tagebuch
+main.Menu.admin_events|Journal d'administration|Administration diary|Diario de administración|Verwaltungstagebuch
+main.Menu.reporting|Exporter|Export|exportación|Export
+main.Menu.unload|Déchargement|Detail © loading|Detalle de carga ©|Detail © Laden
+main.Menu.informations|Informations|information|información|Informationen
+main.Menu.settings|Paramètres|ParamÃ¨tres|ParamÃ¨tres|ParamÃ¨tres
+main.LoginForm.cfr21_password_success|Vos informations de connexion ont été mises à jour.|Your login information has been updated.|Su información de inicio de sesión ha sido actualizada.|Ihre Login-Daten wurden aktualisiert.
+main.LoginForm.lostPasswordSuccess|Un email contenant votre nouveau mot de passe a été envoyé à l'adresse|An email containing your new password has been sent to the address|Se ha enviado un correo electrónico con su nueva contraseña a la dirección|Eine E-Mail mit Ihrem neuen Passwort wurde an die Adresse gesendet
+main.Menu.configuration|Configuration|Configuration|configuración|Konfiguration
+main.Menu.logoff|Déconnexion|Detail © connection|Detalle de la conexión ©|Detail © Verbindung
+main.Menu.configure|Configuration|Configuration|configuración|Konfiguration
+main.SettingsPage.settings|Paramètres|ParamÃ¨tres|ParamÃ¨tres|ParamÃ¨tres
+main.InformationsPage.informations|Informations|information|información|Informationen
+main.InformationsPage.version|Version|Version|versión|Version
+main.InformationsPage.documentation|Notice|notice|aviso|Bekanntmachung
+main.SettingsLicensePage.title|Abonnement|Subscription|suscripción|Abonnement
+main.SettingsLicensePage.renewLicenseTitle|Abonnement|Subscription|suscripción|Abonnement
+main.SettingsAccountPage.title|Mon Compte|My account|Mi cuenta|Mein Konto
+main.SettingsUserAccessPage.title|Gestion des accès utilisateurs|Management of user access|Gestión del acceso de los usuarios|Verwaltung des Benutzerzugriffs
+main.InformationsPage.documentationLink|Télécharger la notice|Download the manual|Descargue el manual|Laden Sie das Handbuch herunter
+main.SettingsLicensePage.licenseCode|Code d'abonnement|Subscription code|Código de suscripción|Abonnementcode
+main.SettingsLicensePage.renewLicenseSubtitle|Veuillez rentrer votre nouveau code d'abonnement|Please enter your new subscription code|Por favor ingrese su nuevo código de suscripción|Bitte geben Sie Ihren neuen Abonnementcode ein
+main.SettingsUserPage.title|Gestion des utilisateurs|User Management|Gestión de usuario|Benutzerverwaltung
+main.SettingsLicensePage.licenseRenewSuccess|Votre nouvel abonnement est maintenant actif|Your new subscription is now active|Tu nueva suscripción ahora está activa|Ihr neues Abonnement ist jetzt aktiv
+main.SettingsUserPage.login|Identifiant de connexion|Connection identifier|ID de acceso|Login-ID
+main.SettingsUserPage.addUserTitle|Ajout d'un utilisateur|Add a user|Agrega un usuario|Fügen Sie einen Benutzer hinzu
+main.SettingsUserPage.addUserSubtitle|Veuillez renseigner les champs suivants|Please fill in the following fields|Por favor complete los siguientes campos|Bitte füllen Sie die folgenden Felder aus
+main.SettingsProfilePage.title|Gestion des profils|Profile Management|Gestión de perfiles|Profilverwaltung
+main.SettingsProfilePage.addProfileSubtitle|Veuillez renseigner les champs suivants|Please fill in the following fields|Por favor complete los siguientes campos|Bitte füllen Sie die folgenden Felder aus
+main.UserList.login|Utilisateurs|users|usuarios|Benutzer
+main.UserList.role|Groupe|Group|grupo|Gruppe
+main.SettingsProfilePage.addProfileTitle|Ajout d'un profil|Adding a profile|Agregar un perfil|Hinzufügen eines Profils
+main.ProfileList.profiles|Profils|profiles|perfiles|Profile
+main.SettingsUserPage.ERROR_INVALID_LOGIN|Un login doit faire un minimum de 6 caractères|A login must be a minimum of 6 characters|Un inicio de sesión debe tener un mínimo de 6 caracteres|Ein Login muss mindestens 6 Zeichen lang sein
+main.SettingsUserPage.ERROR_INVALID_PASSWRD|Un mot de passe doit faire un minimum de 6 caractères|A password must be at least 6 characters long|Una contraseña debe tener al menos 6 caracteres de largo|Ein Passwort muss mindestens 6 Zeichen lang sein
+main.ProfileList.profileSelection|Sélection d'un profil|Selecting a profile|Seleccionando un perfil|Auswählen eines Profils
+main.UserDetail.active|Compte actif|Active account|Cuenta activa|Aktives Konto
+main.UserDetail.informations|Information du compte|Account Information|Información de cuenta|Kontoinformationen
+main.UserList.userSelection|Sélection d'un utilisateur|Selection of a user|Selección de un usuario|Auswahl eines Benutzers
+main.UserDetail.defaultProfile|Profil par défaut|Default profile|Perfil predeterminado|Standardprofil
+main.UserDetail.accesses|Accès|access|acceso|Zugang
+main.UserDetail.sites|Sites accessibles|Accessible sites|Sitios accesibles|Zugängliche Websites
+main.UserDetail.defaultZone|Zone non définie|Area not defined|Área no definida|Bereich nicht definiert
+main.UserDetail.MODIFY_SUCCESS|Utilisateur modifié avec succés|User successfully modified|Usuario modificado con éxito|Benutzer erfolgreich geändert
+main.UserDetail.DELETE_SUCCESS|Utilisateur supprimé avec succés|User successfully deleted|Usuario borrado con éxito|Benutzer wurde erfolgreich gelöscht
+main.UserDetail.errorInvalidPassword|Un mot de passe doit faire un minimum de 6 caractères|A password must be at least 6 characters long|Una contraseña debe tener al menos 6 caracteres de largo|Ein Passwort muss mindestens 6 Zeichen lang sein
+main.UserDetail.ADD_SUCCESS|Utilisateur ajouté avec succés|User successfully added|Usuario agregado con éxito|Benutzer wurde erfolgreich hinzugefügt
+main.UserDetail.errorInvalidLogin|Un mot de passe doit faire un minimum de 6 caractères|A password must be at least 6 characters long|Una contraseña debe tener al menos 6 caracteres de largo|Ein Passwort muss mindestens 6 Zeichen lang sein
+main.AccountDetail.informations|Information du compte|Account Information|Información de cuenta|Kontoinformationen
+main.UserDetail.updatePassword|Modifier le mot de passe|change the password|Cambiar contraseña|Passwort ändern
+main.AccountDetail.mail|Adresse mail|Mail address|Correo electrónico|E-Mail-Adresse
+main.AccountDetail.UPDATE_SUCCESS|Utilisateur modifié avec succés|User successfully modified|Usuario modificado con éxito|Benutzer erfolgreich geändert
+main.AccountDetail.updatePassword|Modifier le mot de passe|change the password|Cambiar contraseña|Passwort ändern
+main.UserDetail.updatePasswordTitle|Modification du mot de passe|Changing the password|Cambiar la contraseña|Ändern des Passwortes
+main.UserDetail.confirmDelete|Etes-vous sûr de vouloir supprimer cet utilisateur ?|Are you sure you want to delete this user?|¿Seguro que quieres eliminar a este usuario?|Möchtest du diesen Nutzer wirklich löschen?
+main.ProfileDetail.sites|Sites accessibles|Accessible sites|Sitios accesibles|Zugängliche Websites
+main.ProfileDetail.informations|Information du profil|Profile information|Información de perfil|Profilinformationen
+main.ProfileDetail.active|Profil actif|Active profile|Perfil activo|Aktives Profil
+main.AccountDetail.updatePasswordTitle|Modification du mot de passe|Changing the password|Cambiar la contraseña|Ändern des Passwortes
+main.ProfileDetail.global|Général|GÃ © nÃ © ral|GÃ © nÃ © ral|GÃ © nÃ © ral
+main.ProfileDetail.accessType|Type d'accès|Type of access|Tipo de acceso|Art des Zugangs
+main.ProfileDetail.aclAffectation|Affectation des droits|Assignment of rights|Asignación de derechos|Zuordnung von Rechten
+main.ProfileDetail.DELETE_SUCCESS|Profile supprimé avec succés|Profile deleted successfully|Perfil eliminado con éxito|Profil wurde erfolgreich gelöscht
+main.ProfileDetail.MODIFY_SUCCESS|Profile modifié avec succés|Profile modified successfully|Perfil modificado con éxito|Profil erfolgreich geändert
+main.ProfileDetail.API_ADMIN_MANAGE_PROFILES|Gestion des profils|Profile Management|Gestión de perfiles|Profilverwaltung
+main.ProfileDetail.confirmDelete|Etes-vous sûr de vouloir supprimer ce profil ?|Are you sure you want to delete this profile?|¿Seguro que quieres eliminar este perfil?|Sind Sie sicher, dass Sie dieses Profil löschen möchten?
+main.ProfileDetail.API_ADMIN_MANAGE_USERS|Gestion des utilisateurs|User Management|Gestión de usuario|Benutzerverwaltung
+main.ProfileDetail.API_USERS_ADD_SITES|Ajout|adding|añadiendo|Hinzufügen
+main.ProfileDetail.ADD_SUCCESS|Profile ajouté avec succés|Profile successfully added|Perfil agregado con éxito|Profil wurde erfolgreich hinzugefügt
+main.ProfileDetail.API_ADMIN_MANAGE|Gestion des droits|Rights management|Gestión de derechos|Rechteverwaltung
+main.ProfileDetail.API_SITES_UPDATE_SLAVES|Activation/Désactivation|Activation / deactivation Detail ©|La activación / desactivación Detalle ©|Aktivierung / Deaktivierung Details ©
+main.ProfileDetail.API_SITES_MANAGE_SLAVES|Gestion des appareils|Device Management|Gestión de dispositivos|Geräteverwaltung
+main.ProfileDetail.API_SITES_CONFIGURE_SLAVES|Configuration des appareils|Device configuration|Configuración del dispositivo|Gerätekonfiguration
+main.ProfileDetail.API_ALARMS_UPDATE|Acquittement des alarmes|Acknowledging alarms|Reconociendo alarmas|Alarme bestätigen
+main.ProfileDetail.API_USERS_MANAGE_SITES|Gestion des sites|Site Management|Gestión del sitio|Standortverwaltung
+main.UserAccessList.login|Utilisateur|User|usuario|Benutzer
+main.ProfileDetail.API_USERS_UPDATE_SITES|Modification du nom|Name change|Cambio de nombre|Namensänderung
+main.SettingsSideBar.settings|Paramètres|ParamÃ¨tres|ParamÃ¨tres|ParamÃ¨tres
+main.ProfileDetail.API_SITES_MANAGE_ZONES|Gestion des zones / groupements d'appareils|Management of zones / groups of devices|Gestión de zonas / grupos de dispositivos|Verwaltung von Zonen / Gerätegruppen
+main.ProfileDetail.API_USER_CFR31|Signature des données|Signature of data|Firma de datos|Signatur der Daten
+main.SettingsSideBar.users|Utilisateurs|users|usuarios|Benutzer
+main.SettingsSideBar.profiles|Profils|profiles|perfiles|Profile
+main.SettingsSideBar.license|Abonnement|Subscription|suscripción|Abonnement
+main.SettingsSideBar.groups|Groupes|Groups|grupos|Gruppen
+main.SettingsSideBar.account|Mon Compte|My account|Mi cuenta|Mein Konto
+main.UserAccessList.success|Enregistrement effectué avec succés|Registration successfully completed|Registro completado con éxito|Registrierung erfolgreich abgeschlossen
+main.AdminPage.site|Nom du site|name of the site|Nombre del sitio|Name der Site
+main.ProfileDetail.PROFILE_USED|Vous ne pouvez pas supprimer un profil attaché à un utlisateur|You can not delete a profile attached to a user|No puede eliminar un perfil adjunto a un usuario|Sie können ein an einen Benutzer angefügtes Profil nicht löschen
+main.SettingsSideBar.userAccesses|Accès utilisateurs|User access|Acceso de usuario|Benutzerzugriff
+main.AdminPage.yes|Oui|Yes|sí|ja
+main.AdminPage.no|Non|No|no|nicht
+main.AdminPage.search|Recherche|Research|búsqueda|Suche
+main.AdminPage.master|Numéro de série|Serial number|Número de serie|Seriennummer
+main.AdminPage.activated|Compte activé|Account activated|Cuenta activada|Konto aktiviert
+main.AdminPage.userList|Liste des utilisateurs sur lesquels vous pouvez prendre le contrôle|List of users you can take control of|Lista de usuarios de los que puede tomar el control|Liste der Benutzer, die Sie steuern können
+main.SitePage.siteList|Liste de vos sites|List of your sites|Lista de tus sitios|Liste Ihrer Websites
+main.SitePage.welcome|Bienvenue sur Kimo Cloud|Welcome to Kimo Cloud|Bienvenido a Kimo Cloud|Willkommen in der Kimo Cloud
+main.SitePage.siteName|Nom du site|name of the site|Nombre del sitio|Name der Site
+main.SitePage.addSiteTitle|Ajout d'un site|Adding a site|Agregar un sitio|Hinzufügen einer Website
+main.SitePage.MASTER_NOT_FOUND|La license est introuvable|The license is not found|La licencia no se encuentra|Die Lizenz wurde nicht gefunden
+main.SitePage.CONTROL_EXISTS|Le site est déjà enregistré sur un autre compte|The site is already registered on another account|El sitio ya está registrado en otra cuenta|Die Website ist bereits auf einem anderen Konto registriert
+main.SitePage.addSiteSubtitle|Veuillez indiquer les informations du site à ajouter|Please enter the information of the site to add|Por favor ingrese la información del sitio para agregar|Bitte geben Sie die Informationen der Website ein, die Sie hinzufügen möchten
+main.SitePage.serial|Identifiant du site|Site identifier|Identificador del sitio|Website-ID
+main.HomePage.waitingZoneName|Appareils en attente de configuration|Devices waiting for configuration|Dispositivos que esperan configuración|Geräte warten auf Konfiguration
+main.SitePage.helpAddSite|Ajoutez vos sites en cliquant sur l’icône (+) pour accéder aux données de vos appareils.|Add your sites by clicking on the icon () to access the data of your devices.|Agregue sus sitios haciendo clic en el ícono () para acceder a los datos de sus dispositivos.|Fügen Sie Ihre Websites hinzu, indem Sie auf das Symbol () klicken, um auf die Daten Ihrer Geräte zuzugreifen.
+main.HomePage.unload|Déchargement forcé|Forced unloading|Descarga forzada|Erzwungenes Entladen
+main.HomePage.confirmDelete|Etes-vous sûr de vouloir supprimer ce site ?|Are you sure you want to delete this site?|¿Seguro que quieres eliminar este sitio?|Möchtest du diese Seite wirklich löschen?
+main.HomePage.editZoneTitle|Editer la zone|Edit zone|Editar zona|Zone bearbeiten
+main.HomePage.ZONE_DEFAULT|Vous ne pouvez pas modifier la zone par défaut|You can not change the default zone|No puedes cambiar la zona predeterminada|Sie können die Standardzone nicht ändern
+main.HomePage.addZoneTitle|Ajouter une zone|Add a zone|Agregar una zona|Fügen Sie eine Zone hinzu
+main.HomePage.siteName|Nom du site|name of the site|Nombre del sitio|Name der Site
+main.HomePage.addZone|Ajouter une zone|Add a zone|Agregar una zona|Fügen Sie eine Zone hinzu
+main.HomePage.zoneName|Nom de la zone|Name of the area|Nombre del área|Name des Gebiets
+main.HomePage.editZone|Editer une zone|Edit an area|Editar un área|Bearbeiten Sie einen Bereich
+main.HomePage.editSite|Modification du site|Modification of the site|Modificación del sitio|Änderung der Website
+main.NavBar.profile|Profil|Profile|perfil|Profil
+main.NavBar.settings|Paramètres|ParamÃ¨tres|ParamÃ¨tres|ParamÃ¨tres
+main.NavBar.logout|Déconnexion|Detail © connection|Detalle de la conexión ©|Detail © Verbindung
+main.NavBar.feedbackSubtitle|Veuillez saisir votre avis|Please enter your opinion|Por favor ingrese su opinion|Bitte geben Sie Ihre Meinung ein
+main.NavBar.feedbackTitle|Votre avis nous intéresse|Your opinion interests us|Tu opinión nos interesa|Ihre Meinung interessiert uns
+main.HomePage.confirmZoneDelete|Etes-vous sûr de vouloir supprimer cette zone ?|Are you sure you want to delete this area?|¿Estás seguro de que deseas eliminar esta área?|Möchten Sie diesen Bereich wirklich löschen?
+main.SideBar.slaves|Liste des appareils|List of devices|Lista de dispositivos|Liste der Geräte
+main.SlaveList.slaves|Liste des appareils|List of devices|Lista de dispositivos|Liste der Geräte
+main.SideBar.alarm|Liste des alarmes|List of alarms|Lista de alarmas|Liste der Alarme
+main.ChannelList.values|Valeurs|Values|valores|Werte
+main.ChannelList.statistics|Statistiques|Statistics|estadística|Statistiken
+main.ChannelList.measures|Dernières mesures relevées|Latest measurements taken|Últimas mediciones tomadas|Neueste Messungen vorgenommen
+main.ChannelList.dataViewMode0|Graphique|Graphic|gráfico|Grafik
+main.ChannelList.dataViewMode1|Tableau|Board|mesa|Tabelle
+main.ChannelList.dataViewMode3|Configuration|Configuration|configuración|Konfiguration
+main.ChannelList.dataViewMode2|Résumé|RÃ © © Suma|RÃ © © Suma|RÃ © © Suma
+main.ChannelList.dataViewMode4|Signatures|signatures|firmas|Unterschriften
+main.ChannelList.minimum|Minimum|Minimum|mínimo|Minimum
+main.ChannelList.maximum|Maximum|Maximum|máximo|Maximum
+main.ChannelList.noMeasures|Aucunes mesures relevées|No measures taken|No se tomaron medidas|Keine Maßnahmen ergriffen
+main.ChannelList.average|Moyenne|Average|promedio|Durchschnitt
+main.ChannelListTable.values|Valeurs|Values|valores|Werte
+main.ChannelList.mkt|MKT|MKT|MKT|MKT
+main.ChannelListTable.statistics|Statistiques|Statistics|estadística|Statistiken
+main.ChannelListTable.minimum|Minimum|Minimum|mínimo|Minimum
+main.ChannelListTable.maximum|Maximum|Maximum|máximo|Maximum
+main.ChannelListTable.average|Moyenne|Average|promedio|Durchschnitt
+main.ChannelListTable.mkt|MKT|MKT|MKT|MKT
+main.ChannelList.deviation|Ecart type|Standard deviation|Desviación estándar|Standardabweichung
+main.SlaveAbstract.comments|Commentaire|Comment|comentario|Kommentar
+main.SlaveAbstract.device|Appareil|Apparatus|aparato|Apparat
+main.HomePage.confirmChangeSlaveStatus|Attention :  les mesures et les alarmes de cet appareil ne seront plus envoyées sur le cloud si vous le désactivez.|Caution: Measurements and alarms on this device will no longer be sent to the cloud if you unmount it.|Precaución: las mediciones y alarmas en este dispositivo ya no se enviarán a la nube si lo desmonta.|Vorsicht: Messungen und Alarme auf diesem Gerät werden nicht mehr in die Cloud gesendet, wenn Sie die Verbindung trennen.
+main.SlaveAbstract.configuration|Configuration|Configuration|configuración|Konfiguration
+main.SlaveAbstract.reference|Appareil|Apparatus|aparato|Apparat
+main.SlaveAbstract.designation|Désignation|Detail © shipping name|Detalle © Nombre de envío|Detail © Name
+main.ChannelListTable.deviation|Ecart type|Standard deviation|Desviación estándar|Standardabweichung
+main.SlaveAbstract.version|Version|Version|versión|Version
+main.SlaveAbstract.campaign|Campagne|Campaign|campaña|Kampagne
+main.SlaveAbstract.logType_0|Différé|Differentiation Result © ©|Resultado diferenciación © ©|Differenzierung Ergebnis © ©
+main.SlaveAbstract.logType_1|Instant|moment|momento|Moment
+main.SlaveAbstract.channels|Voies|Routes|rutas|Routen
+main.SlaveAbstract.logType_2|Minimum|Minimum|mínimo|Minimum
+main.SlaveAbstract.logType_3|Maximum|Maximum|máximo|Maximum
+main.SlaveAbstract.logType_4|Moyenne|Average|promedio|Durchschnitt
+main.SlaveAbstract.serial|N° de série|Serial number|Número de serie|Seriennummer
+main.SlaveAbstract.logType|Type d'enregistrement|Registration type|Tipo de registro|Registrierungsart
+main.SlaveAbstract.logType_5|Surveillance|surveillance|vigilancia|Überwachung
+main.SlaveAbstract.logType_6|EnLigne|Online|En línea|OnLine
+main.SlaveAbstract.logType_7|Fin|End|final|Ende
+main.SlaveAbstract.logType_9|Thermohygrometre|thermohygrometer|thermohygrometer|Thermohygrometer
+main.SlaveAbstract.logType_8|Thermometre|Thermometer|termómetro|Thermometer
+main.SlaveAbstract.logType_10|Detection d'impulsions|Pulse detection|Detección de pulso|Pulserkennung
+main.SlaveAbstract.recordDelay|Intervalle d'enregistrement|Recording interval|Intervalo de grabación|Aufzeichnungsintervall
+main.SlaveAbstract.endDate|Date de fin|End date|Fecha final|Enddatum
+main.SlaveAbstract.measureInterval|Intervalle de mesure|Measurement interval|Intervalo de medición|Messintervall
+main.SlaveAbstract.probeType|Type de sonde|Probe type|Tipo de sonda|Sondentyp
+main.SlaveAbstract.startDate|Date de départ|Departure date|Fecha de salida|Abreisedatum
+main.SlaveAbstract.alarmState_0|Normal|Normal|normal|normal
+main.SlaveAbstract.alarmState_1|Active|active|activo|aktiv
+main.SlaveAbstract.alarmState_2|Inconnu|Unknown|desconocido|unbekannt
+main.SlaveAbstract.minute|min.|min.|min.|Minute
+main.AlarmList.alarms|Alarmes|alarms|alarmas|Alarm
+main.SlaveAbstract.alarmState|Etat de la voie|State of the track|Estado de la pista|Zustand der Strecke
+main.SlaveAbstract.highThreshold|Seuil haut|High threshold|Umbral alto|Hohe Schwelle
+main.SlaveAbstract.lowThreshold|Seuil bas|Low threshold|Umbral bajo|Niedrige Schwelle
+main.AlarmList.value|Valeur|Value|valor|Wert
+main.AlarmList.mode|Etat|State|estado|Zustand
+main.SlaveAbstract.noAlarmState|Pas d'alarmes configurées|No configured alarms|Sin alarmas configuradas|Keine konfigurierten Alarme
+main.AlarmList.slaveDesignation|Désignation de l'appareil|Designation of the device|Designación del dispositivo|Bezeichnung des Gerätes
+main.AlarmList.sameComment|Appliquer le même commentaire à toutes les alarmes|Apply the same comment to all alarms|Aplica el mismo comentario a todas las alarmas|Wende den gleichen Kommentar auf alle Alarme an
+main.AlarmList.channelDesignation|Désignation de la voie|Designation of the way|Designación del camino|Bezeichnung des Weges
+main.AlarmList.ack|Acquitter|pay|pagar|zahlen
+main.AlarmList.filterUnacked|Alarmes non acquittées|Unpaid alarms|Alarmas impagas|Unbezahlte Alarme
+main.AlarmList.filterAcked|Alarmes acquittées|Acknowledged alarms|Alarmas reconocidas|Bestätigte Alarme
+main.AlarmList.filterNone|Toutes les alarmes|All alarms|Todas las alarmas|Alle Alarme
+main.AlarmList.modalTitle|Identification et Commentaires|Identification and Comments|Identificación y comentarios|Identifikation und Kommentare
+main.AlarmList.passwordLabel|Votre mot de passe|Your password|su contraseña|Dein Passwort
+main.AlarmList.ackPending|Acquittement en cours...|Acquittal in progress ...|Absoluto en progreso ...|Freispruch läuft ...
+main.AlarmList.modalSubtitle|Laissez un message avant d'acquitter l'alarme|Leave a message before acknowledging the alarm|Deje un mensaje antes de reconocer la alarma|Hinterlassen Sie eine Nachricht, bevor Sie den Alarm bestätigen
+main.AlarmList.oneAckAlarm|Veuillez sélectionner au moins une alarme à acquitter|Please select at least one alarm to acknowledge|Seleccione al menos una alarma para confirmar|Bitte wählen Sie mindestens einen Alarm aus, der bestätigt werden soll
+main.AlarmList.justificationLabel|Justification de l'acquittement|Justification of the acquittal|Justificación de la absolución|Begründung des Freispruchs
+main.AlarmList.justificationDesc|La justification est obligatoire|Justification is mandatory|La justificación es obligatoria|Begründung ist obligatorisch
+main.AlarmItem.CONFIRMED_CONFIGURATION|Configuration confirmée|Configuration confirmed|Configuración confirmada|Konfiguration bestätigt
+main.AlarmList.passwordDesc|Merci de vous identifier avant de procéder a l'acquittement des alarmes|Please identify yourself before proceeding to acknowledge the alarms|Identifíquese antes de proceder a confirmar las alarmas|Bitte identifizieren Sie sich, bevor Sie die Alarme bestätigen
+main.AlarmList.error_invalid_fields|Tous les champs doivent obligatoirement être renseignés.|All fields must be filled in.|Todos los campos deben ser completados|Alle Felder müssen ausgefüllt werden.
+main.AlarmItem.CAMPAGNE_END|Arret de campagne|Campaign stop|Campaña parada|Kampagnenstopp
+main.AlarmItem.BLE_STOP_CAMPAGNE|Arret de campagne via application mobile|Campaign stop via mobile application|Campaña parada a través de la aplicación móvil|Kampagnenstopp über mobile Anwendung
+main.AlarmItem.UNKNOWN_DATAS_CONFIGURATION_A|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.AlarmItem.UNKNOWN_DATAS_CONFIGURATION_B|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.AlarmItem.UNKNOWN_DATAS_CONFIGURATION_C|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.AlarmItem.CAMPAGNE_STARTED|Démarrage de la campagne|Start of the campaign|Inicio de la campaña|Beginn der Kampagne
+main.AlarmItem.BLE_UNLOAD|Déchargement de données via application mobile|Downloading data via mobile app|Descargar datos a través de la aplicación móvil|Herunterladen von Daten über die mobile App
+main.DateFilterList.TODAY|Aujourd'hui|Today|hoy|heute
+main.AlarmItem.ANNUL_CONFIG|Annulation de la configuration via application mobile|Canceling the configuration via mobile app|Cancelando la configuración a través de la aplicación móvil|Abbrechen der Konfiguration über die mobile App
+main.DateFilterList.LATEST|Dernières données|Latest data|Últimos datos|Neueste Daten
+main.DateFilterList.YESTERDAY|Depuis Hier|Since yesterday|Desde ayer|Seit gestern
+main.DateFilterList.WEEK|7 derniers jours|Last 7 days|Los últimos 7 días|Letzte 7 Tage
+main.DateFilterList.UNACKED|Alarmes non acquittées|Unpaid alarms|Alarmas impagas|Unbezahlte Alarme
+main.DateFilterList.ACKED|Alarmes acquittées|Acknowledged alarms|Alarmas reconocidas|Bestätigte Alarme
+main.DateFilterList.ALL|Toutes les alarmes|All alarms|Todas las alarmas|Alle Alarme
+main.UnloadList.unload|Décharger|DÃ © charge|DÃ © cargo|DÃ © Gebühr
+main.UnloadList.unloadTitle|Déchargement|Detail © loading|Detalle de carga ©|Detail © Laden
+main.DateFilterList.MONTH|30 derniers jours|Last 30 days|Últimos 30 días|Letzte 30 Tage
+main.DateFilterList.INTERVAL|Entre deux dates|Between two dates|Entre dos fechas|Zwischen zwei Daten
+main.AlarmItem.INCOHERENT_CHANNELS_COUNT|Configuration de l'appareil et données reçues incohérentes|Device configuration and data received inconsistently|Configuración del dispositivo y datos recibidos de manera inconsistente|Gerätekonfiguration und Daten wurden nicht konsistent empfangen
+main.UnloadList.modalTitle|Déchargement en cours|Unloading in progress|Descarga en progreso|Entladen läuft
+main.UnloadList.unloadSubtitle|Sélectionner les appareils à décharger|Select devices to unload|Seleccionar dispositivos para descargar|Wählen Sie die zu entladenden Geräte aus
+main.LogEventList.user|Utilisateur|User|usuario|Benutzer
+main.UnloadList.modalSubtitle1|Cette opération peut durer quelques minutes.|This operation may take a few minutes.|Esta operación puede tomar unos minutos.|Dieser Vorgang kann einige Minuten dauern.
+main.LogEventList.source|Source|Source|fuente|Quelle
+main.UnloadList.oneUnload|Veuillez sélectionner au moins un appareil|Please select at least one device|Seleccione al menos un dispositivo|Bitte wählen Sie mindestens ein Gerät aus
+main.LogEventList.description|Description|Description|descripción|Beschreibung
+main.LogEventList.category|Catégorie|Categories © gory|Categorías © sangriento|Kategorien © gory
+main.LogEventList.comment|Commentaire|Comment|comentario|Kommentar
+main.LogEventList.events|Journal des évènements|Event Diary|Diario del evento|Ereignis-Tagebuch
+main.LogEventList.CONFIRMED_CONFIGURATION|Configuration confirmée|Configuration confirmed|Configuración confirmada|Konfiguration bestätigt
+main.UnloadList.modalSubtitle2|Vous pouvez continuer à utiliser l'application pendant la mise à jour des données|You can continue using the application while updating data|Puede seguir usando la aplicación mientras actualiza los datos|Sie können die Anwendung weiterhin verwenden, während Sie Daten aktualisieren
+main.LogEventList.BLE_STOP_CAMPAGNE|Arret de campagne via application mobile|Campaign stop via mobile application|Campaña parada a través de la aplicación móvil|Kampagnenstopp über mobile Anwendung
+main.LogEventList.CAMPAGNE_END|Arret de campagne|Campaign stop|Campaña parada|Kampagnenstopp
+main.LogEventList.CAMPAGNE_STARTED|Démarrage de la campagne|Start of the campaign|Inicio de la campaña|Beginn der Kampagne
+main.LogEventList.BLE_UNLOAD|Déchargement de données via application mobile|Downloading data via mobile app|Descargar datos a través de la aplicación móvil|Herunterladen von Daten über die mobile App
+main.LogEventList.ANNUL_CONFIG|Annulation de la configuration via application mobile|Canceling the configuration via mobile app|Cancelando la configuración a través de la aplicación móvil|Abbrechen der Konfiguration über die mobile App
+main.LogEventList.UNKNOWN_DATAS_CONFIGURATION_A|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.LogEventList.UNKNOWN_DATAS_CONFIGURATION_B|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.LogEventList.UNKNOWN_DATAS_CONFIGURATION_C|Erreur de traitement de données.|Error processing data.|Error al procesar los datos.|Fehler beim Verarbeiten der Daten
+main.LogEventList.INCOHERENT_CHANNELS_COUNT|Configuration de l'appareil et données reçues incohérentes|Device configuration and data received inconsistently|Configuración del dispositivo y datos recibidos de manera inconsistente|Gerätekonfiguration und Daten wurden nicht konsistent empfangen
+main.AdminLogEventList.source|Source|Source|fuente|Quelle
+main.AdminLogEventList.category|Catégorie|Categories © gory|Categorías © sangriento|Kategorien © gory
+main.AdminLogEventList.description|Description|Description|descripción|Beschreibung
+main.AdminLogEventList.comment|Commentaire|Comment|comentario|Kommentar
+main.AdminLogEventList.admin_logs_USER_CONNECTION| |||
+main.AdminLogEventList.user|Utilisateur|User|usuario|Benutzer
+main.AdminLogEventList.admin_logs_USER_DECONNEXION| |||
+main.AdminLogEventList.events|Journal des évènements - Administration|Event Log - Administration|Registro de eventos - Administración|Ereignisprotokoll - Administration
+main.AdminLogEventList.admin_logs_SITE_DELETION|Suppression du site|Deleting the site|Eliminar el sitio|Löschen der Site
+main.AdminLogEventList.errorLoadingLogs|Une erreur lors de la récupération des logs. Merci de réssayer plus tard...|An error during the recovery of the logs. |Un error durante la recuperación de los registros. |Ein Fehler bei der Wiederherstellung der Protokolle. 
+main.ReportingPage.title|Exportation des données|Exporting data|Exportar datos|Daten exportieren
+main.ReportingPage.fileTypePDF|PDF|PDF|PDF|PDF
+main.AdminLogEventList.admin_logs_SITE_CREATION|Création d'un nouveau site sur le portail web:|Creation of a new website on the web portal:|Creación de un nuevo sitio web en el portal web:|Erstellung einer neuen Website im Webportal:
+main.ReportingPage.fileTypeCSV|CSV|CSV|CSV|CSV
+main.ReportingPage.fileType|Type de fichier|File type|Tipo de archivo|Dateityp
+main.AdminLogEventList.admin_logs_AUTH_ECHEC|Un utilisateur a échoué à se connecter a 4 reprises. Ce compte a été bloqué pour des raisons de sécurité pour 10 mins.|A user has failed to log in 4 times. |Un usuario no ha podido iniciar sesión 4 veces. |Ein Benutzer konnte sich 4 Mal nicht anmelden. 
+main.ReportingPage.pdfOption|Options PDF|PDF options|Opciones de PDF|PDF-Optionen
+main.ReportingPage.pdfOptionCharts|Inclure les graphiques|Include graphics|Incluir gráficos|Grafiken einbeziehen
+main.ReportingPage.moreSettings|Configuration des appareils|Device configuration|Configuración del dispositivo|Gerätekonfiguration
+main.ReportingPage.pdfOptionPreview|Prévisualiser le fichier|Preview file|Archivo de vista previa|Vorschaudatei
+main.ReportingPage.moreLogevents|Journal des événements|Event Diary|Diario del evento|Ereignis-Tagebuch
+main.ReportingPage.moreTable|Tableaux de valeurs|Tables of values|Tablas de valores|Werttabellen
+main.ReportingPage.export|Exporter|Export|exportación|Export
+main.ReportingPage.more|Données à intégrer au rapport|Data to be included in the report|Datos que se incluirán en el informe|Daten, die in den Bericht aufgenommen werden sollen
+main.ReportingPage.moreAlarm|Journal des alarmes|Alarm Log|Registro de alarma|Alarmprotokoll
+main.ReportingPage.moreStats|Tableaux de statistiques|Statistical tables|Tablas estadísticas|Statistische Tabellen
+main.ChannelItem.channel|Voie|way|camino|Weg
+main.ReportingPage.next|Suivant >|Next>|Siguiente>|Weiter>
+main.ReportingPage.moreSignatures|**Signatures (cfr21)|** Signatures (cfr21)|** Firmas (cfr21)|** Unterschriften (cfr21)
+main.ChannelItem.channelInternal|interne|internal|interna|intern
+main.ReportingPage.period|Période à exporter|Period to export|Periodo para exportar|Zeitraum zum Exportieren
+main.ReportingPage.previous|< Précédent|<Previous|<Anterior|<Vorherige
+main.ModalMessage.httpForbiddenTitle|Accès refusé|Access denied|Acceso denegado|Zugriff verweigert
+main.ModalMessage.httpErrorTitle|**Erreur de connexion au serveur|** Error connecting to the server|** Error al conectarse al servidor|** Fehler beim Verbinden mit dem Server
+main.ModalMessage.httpErrorBody|**Une erreur de communication avec le serveur est arrivé. Merci de réssayer plus tard.|** A communication error with the server has arrived. |** Ha llegado un error de comunicación con el servidor. |** Ein Kommunikationsfehler mit dem Server ist angekommen. 
+main.ModalMessage.httpForbiddenBody|Vous ne disposez pas des autorisations nécessaires pour accéder à cette fonctionnalité. Veuillez contacter votre administrateur.|You do not have the necessary permissions to access this feature. |No tienes los permisos necesarios para acceder a esta función. |Sie verfügen nicht über die erforderlichen Berechtigungen, um auf diese Funktion zuzugreifen. 
+main.Tooltip.WS_SITE_UNLOAD_SLAVE_START|Déchargement en cours...|Unloading ...|Descargando ...|Entladen ...
+main.ModalMessage.httpSignaturePostError|**Une erreur est arrivée lors de l'enregistrement des signatures. Merci de réessayer plus tard.|** An error occurred while saving signatures. |** Se produjo un error al guardar las firmas. |** Beim Speichern von Signaturen ist ein Fehler aufgetreten. 
+main.Tooltip.WS_SITE_UNLOAD_SLAVE_SUCCESS|Déchargement effectué avec succés|Successfully unloaded|Descargado con éxito|Erfolgreich entladen
+main.Tooltip.DEVICE_DISCONNECTED|Le Logiciel CTS-RF ne semble pas connecté au CLOUD|CTS-RF Software does not appear to be connected to CLOUD|El software CTS-RF no parece estar conectado a CLOUD|Die CTS-RF-Software scheint nicht mit CLOUD verbunden zu sein
+main.Tooltip.WS_SITE_ALARM_ACK_START|Acquittement des alarmes en cours...|Acknowledging alarms ...|Reconociendo alarmas ...|Alarme bestätigen ...
+main.Tooltip.WS_SITE_UNLOAD_SLAVE_ERROR_408|Déchargement impossible :  le logiciel ne semble pas connecté au CLOUD|Unable to download: the software does not seem to be connected to CLOUD|No se puede descargar: el software no parece estar conectado a CLOUD|Herunterladen nicht möglich: Die Software scheint nicht mit CLOUD verbunden zu sein
+main.Tooltip.WS_SITE_ALARM_ACK_SUCCESS|Acquittement des alarmes effectué avec succés|Acknowledging alarms successfully completed|Reconocimiento de alarmas completadas con éxito|Bestätigung, dass die Alarme erfolgreich abgeschlossen wurden
+main.Tooltip.WS_SITE_ALARM_ACK_ERROR_408|Acquittement des alarmes impossible : le logiciel ne semble pas connecté au CLOUD|Acknowledgment of the alarms impossible: the software does not seem connected to the CLOUD|Reconocimiento de las alarmas imposibles: el software no parece estar conectado a la NUBE|Quittierung der Alarme unmöglich: Die Software scheint nicht mit der CLOUD verbunden zu sein
+main.Tooltip.WS_SITE_ALARM_ACK_ERROR_undefined|Acquittement des alarmes impossible : Le serveur a rencontré une erreur inconnue|Acknowledgment of alarms not possible: The server has encountered an unknown error|Reconocimiento de alarmas no posibles: el servidor ha encontrado un error desconocido|Quittieren von Alarmen nicht möglich: Der Server hat einen unbekannten Fehler festgestellt
+main.Tooltip.LICENSE_EXPIRATION_DAYS|Attention votre license arrive à expiration dans {1} jours|Warning your license expires in {1} days|Advertencia de que su licencia caduca en {1} días|Warnung, dass Ihre Lizenz in {1} Tagen abläuft
+main.ReportingSlaveList.title|Exportation des données - Choix des appareils à exporter|Exporting data - Choosing devices to export|Exportar datos: elegir dispositivos para exportar|Daten exportieren - Auswahl der zu exportierenden Geräte
+main.LicenseDetail.licenseCode|Code d'abonnement|Subscription code|Código de suscripción|Abonnementcode
+main.LicenseDetail.activationType|Type d'abonnement|Subscription type|Tipo de suscripción|Abonnementtyp
+main.LicenseDetail.level|Niveau d'abonnement|Subscription level|Nivel de suscripción|Abonnement-Ebene
+main.Tooltip.WS_SITE_ALARM_ACK_ERROR_403|Acquittement des alarmes impossible : Action non autorisée.|Acknowledgment of alarms impossible: Action not allowed.|Reconocimiento de alarmas imposibles: acción no permitida.|Quittierung der Alarme unmöglich: Aktion nicht erlaubt.
+main.LicenseDetail.expirationDate|Date d'expiration|Expiration date|Fecha de caducidad|Ablaufdatum
+main.LicenseDetail.maxDevices|Nombre d'enregistreurs|Number of recorders|Cantidad de grabadoras|Anzahl der Recorder
+main.LicenseDetail.licenceFeature|Caractéristiques de l'abonnement|Characteristics of the subscription|Características de la suscripción|Merkmale des Abonnements
+main.LicenseDetail.maxReadData|Consultation des données|Data consultation|Consulta de datos|Datenkonsultation
+main.LicenseDetail.maxBackupData|Sauvegarde des données|Backing up data|Copia de seguridad de datos|Daten sichern
+main.LicenseDetail.duration|Durée d'engagement|Duration of commitment|Duración del compromiso|Dauer der Verpflichtung
+main.LicenseDetail.maxUsers|Nombre d'utilisateurs|Number of users|Número de usuarios|Anzahl der Benutzer
+main.LicenseDetail.LICENSE_KEY_KimoCLOUDFREE|Niveau 4|Level 4|Nivel 4|Stufe 4
+main.LicenseDetail.LICENSE_KEY_MC4|Niveau 4|Level 4|Nivel 4|Stufe 4
+main.LicenseDetail.LICENSE_KEY_TL4|Niveau 4|Level 4|Nivel 4|Stufe 4
+main.LicenseDetail.month|mois|month|mes|Monat
+main.LicenseDetail.max|max.|max.|máx.|max.
+main.LicenseDetail.LICENSE_KEY_MC2|Niveau 2|Level 2|Nivel 2|Stufe 2
+main.LicenseDetail.LICENSE_KEY_MC1|Niveau 1|Level 1|Nivel 1|Stufe 1
+main.LicenseDetail.LICENSE_KEY_MC3|Niveau 3|Level 3|Nivel 3|Stufe 3
+main.ConfigurePage.serial|N° de série|Serial number|Número de serie|Seriennummer
+main.ConfigurePage.version|Version|Version|versión|Version
+main.ConfigurePage.unit|Unité|UNITA ©|UNITA ©|UNITA ©
+main.ConfigurePage.configureDevice|Configuration|Configuration|configuración|Konfiguration
+main.LicenseDetail.slidingMonth|mois glissants|rolling months|meses de rodaje|rollende Monate
+main.LicenseDetail.renew|Modifier / Renouveler|Edit / Renew|Editar / Renovar|Bearbeiten / Erneuern
+main.ConfigurePage.configureError|Erreur de configuration|Configuration error|Error de configuración|Konfigurationsfehler
+main.ConfigurePage.loraNetwork|Réseau Lora|Lora Network|Lora Network|Lora-Netzwerk
+main.ConfigurePage.configureSuccess|Configuration de l'appareil réussie|Configuration of the successful device|Configuración del dispositivo exitoso|Konfiguration des erfolgreichen Geräts
+main.ConfigurePage.informationDevice|Appareil|Apparatus|aparato|Apparat
+main.ConfigurePage.Designation|Nom|Name|apellido|Name
+main.ConfigurePage.Intervals|Intervalles|intervals|intervalos|Intervalle
+main.ConfigurePage.IntervalEnregistrement|Intervalle d'enregistrement|Recording interval|Intervalo de grabación|Aufzeichnungsintervall
+main.ConfigurePage.IntervalMesure|Intervalle de mesure|Measurement interval|Intervalo de medición|Messintervall
+main.ConfigurePage.configureChannels|Configuration des voies|Channel configuration|Configuración del canal|Kanalkonfiguration
+main.ConfigurePage.configureServer|Configuration envoyée au serveur|Configuration sent to the server|Configuración enviada al servidor|Konfiguration an den Server gesendet
+main.ConfigurePage.DepartType_1|Bouton|Button|botón|Taste
+main.ConfigurePage.DepartType_2|Immediat|Immediate|immediat|immediat
+main.ConfigurePage.Enregistrement|Enregistrement|Recording|registro|Anmeldung
+main.ConfigurePage.Display|Affichage|Viewing|Viendo|Anzeigen
+main.ConfigurePage.DepartType|Type de Départ|Departure type|Tipo de salida|Abreisetyp
+main.ConfigurePage.Leds|LEDs|LEDs|LED|LEDs
+main.ConfigurePage.DepartType_0|Par date|By date|Por fecha|Nach Datum
+main.ConfigurePage.Activated|Activé|© Enabled|© Habilitado|© Aktiviert
+main.ConfigurePage.Proteged|Protégé|Prota © gÃ ©|Prota © gÃ ©|Prota © gÃ ©
+main.ConfigurePage.Fonctionnement|Fonctionnement|Operation|operación|Betrieb
+main.ConfigurePage.DateEtHeureDepart|Date de Départ|Departure Date|Fecha de partida|Abreisedatum
+main.ConfigurePage.Infos|Information de l'appareil|Device Information|Información del dispositivo|Geräteinformationen
+main.ConfigurePage.tempo|Temporisation|timeout|tiempo de espera|Timeout
+main.ConfigurePage.comments|Commentaires|comments|comentarios|Kommentare
+main.ConfigurePage.dataset|Campagne|Campaign|campaña|Kampagne
+main.ConfigurePage.record|Enregistrer|Record|registro|Rekord
+main.ConfigurePage.recordMode_2|Minimum|Minimum|mínimo|Minimum
+main.ConfigurePage.recordMode_1|Instantané|© instantly|© al instante|© sofort
+main.ConfigurePage.recordMode_3|Maximum|Maximum|máximo|Maximum
+main.ConfigurePage.recordMode_4|Moyenne|Average|promedio|Durchschnitt
+main.ConfigurePage.ConfigurationAllreadyProgramed|Une configuration est déjà en cours|A configuration is already in progress|Una configuración ya está en progreso|Eine Konfiguration ist bereits in Bearbeitung
+main.ConfigurePage.recordMode|Mode d'enregistrement|Registration mode|Modo de registro|Registrierungsmodus
+main.ConfigurePage.hours|Heure(s)|Hour (s)|Hora (s)|Stunde (n)
+main.ConfigurePage.minutes|Minute(s)|Minutes)|Minutos)|Minute (n)
+main.ConfigurePage.seconds|Seconde(s)|Second (s)|Segundo (s)|Sekunde (n)
+main.ConfigurePage.low|Bas|Low|bajo|niedrig
+main.ConfigurePage.high|Haut|top|superior|Top
+main.ConfigurePage.seuilEntre|Seuil entre {0} et {1} {2}|Threshold between {0} and {1} {2}|Umbral entre {0} y {1} {2}|Schwellenwert zwischen {0} und {1} {2}
+main.ConfigurePage.stopByButton|Arrêt par bouton|Stop by button|Botón de detener|Stoppt den Knopf
+main.ConfigurePage.ERROR_430|Une configuration est déjà en cours|A configuration is already in progress|Una configuración ya está en progreso|Eine Konfiguration ist bereits in Bearbeitung
+main.ConfigurePage.enableThresholds|Activer seuils|Activate thresholds|Activar umbrales|Aktivieren Sie Schwellenwerte
+main.ConfigurePage.thresholds|Seuils alarme|Alarm thresholds|Umbrales de alarma|Alarmschwellen
+main.ConfigurePage.ERROR_417|Erreur 417 inconnue|Error 417 unknown|Error 417 desconocido|Fehler 417 unbekannt
+main.ConfigurePage.ERROR_500|Erreur 500 inconnue|Error 500 unknown|Error 500 desconocido|Fehler 500 unbekannt
+main.ConfigurePage.ERROR_512|Erreur 512 inconnue|Unknown error 512|Error desconocido 512|Unbekannter Fehler 512
+main.ConfigurePage.ERROR_408|Configuration impossible : le KILOG ne semble pas connecté au CLOUD|Impossible configuration: KILOG does not seem connected to CLOUD|Configuración imposible: KILOG no parece estar conectado a CLOUD|Unmögliche Konfiguration: KILOG scheint nicht mit CLOUD verbunden zu sein
+main.ConfigurePage.ERROR_220|Erreur 220 inconnue|Error 220 unknown|Error 220 desconocido|Fehler 220 unbekannt
+main.ConfigurePage.loadConfiguration|Charger une configuration|Load a configuration|Cargar una configuración|Laden Sie eine Konfiguration
+main.ConfigurePage.validmulti|**Configuration multiple|** Multiple configuration|** Configuración múltiple|** Mehrfachkonfiguration
+main.ConfigurePage.success|Configuration envoyée avec succés|Configuration sent successfully|Configuración enviada con éxito|Konfiguration erfolgreich gesendet
+main.ConfigurePage.cfr21dialogPasswordLabel|Votre mot de passe|Your password|su contraseña|Dein Passwort
+main.ConfigurePage.cfr21dialogTitle|Identification et justification|Identification and justification|Identificación y justificación|Identifikation und Rechtfertigung
+main.ConfigurePage.cfr21dialogerror_fields|Tous les champs doivent obligatoirement être renseignés.|All fields must be filled in.|Todos los campos deben ser completados|Alle Felder müssen ausgefüllt werden.
+main.ConfigurePage.cfr21dialogCommentLabel|La justification pour ce changement de configuration|The justification for this configuration change|La justificación para este cambio de configuración|Die Begründung für diese Konfiguration ändert sich
+main.ConfigurePage.cfr21dialogDesc|Merci de vous identifier avant de procéder au changement de configuration|Please identify yourself before proceeding with the configuration change|Identifíquese antes de continuar con el cambio de configuración|Bitte identifizieren Sie sich, bevor Sie mit der Konfigurationsänderung fortfahren
+main.ConfigurePage.validmultihelp|**Envoyer cette configuration à une selection d' appareils compatibles de ce site|** Send this configuration to a selection of compatible devices from this site|** Envíe esta configuración a una selección de dispositivos compatibles desde este sitio|** Senden Sie diese Konfiguration von dieser Site an eine Auswahl kompatibler Geräte
+main.ConfigurePage.INVALID_DATE_TIME|**Format de date invalide: DD/MM/YYYY HH:MM|** Invalid date format: DD / MM / YYYY HH: MM|** Formato de fecha no válido: DD / MM / AAAA HH: MM|** Ungültiges Datumsformat: TT / MM / JJJJ HH: MM
+main.ConfigurePage.templatedialogTitle|Sélectionner un modèle de configuration|Select a configuration template|Seleccione una plantilla de configuración|Wählen Sie eine Konfigurationsvorlage aus
+main.ConfigurePage.templatedialogLabel|Liste des configurations compatibles avec votre appareil|List of configurations compatible with your device|Lista de configuraciones compatibles con su dispositivo|Liste der Konfigurationen, die mit Ihrem Gerät kompatibel sind
+main.ConfigurePage.templatedialogDesc|Veuillez sélectionnez un modèle de configuration ci dessous. Celui ci sera appliqué à l'appreil choisi.|Please select a configuration template below. |Por favor, seleccione una plantilla de configuración a continuación. |Bitte wählen Sie eine Konfigurationsvorlage aus. 
+main.ConfigurePage.INVALID_CONFIG_FORMAT|Configuration invalide, annulation|Invalid configuration, cancellation|Configuración inválida, cancelación|Ungültige Konfiguration, Stornierung
+main.ConfigurePage.templatedialogerror_fields|Aucune configuration n'a été sélectionnée.|No configuration has been selected.|No se ha seleccionado ninguna configuración.|Es wurde keine Konfiguration ausgewählt.
+main.ConfigurePage.NO_CANAL_CONFIG|Aucun canal de configuration défini|No configuration channel defined|Sin canal de configuración definido|Kein Konfigurationskanal definiert
+main.ConfigurePage.NO_MODE|Aucun mode d'affichage de défini|No display mode of defined|Sin modo de visualización de definido|Kein Anzeigemodus von definiert
+main.ConfigurePage.NO_RECORD_TYPE|Aucun type d'enregistrement défini.|No record type defined.|Sin tipo de registro definido.|Kein Datensatztyp definiert
+main.ConfigurePage.NO_MESURE_TIME|Durée de mesure non définie|Measurement time undefined|Tiempo de medición indefinido|Messzeit undefiniert
+main.ConfigurePage.NO_START_TYPE|Aucun type de départ défini|No type of defined departure|Ningún tipo de partida definida|Keine Art der definierten Abfahrt
+main.ConfigurePage.NO_RECORD_TIME|Durée d'enregistrement non définie|Recording time undefined|Tiempo de grabación indefinido|Aufnahmezeit undefiniert
+main.ConfigurePage.NO_CAMPAGNE_NAME|Aucun nom de campagne de défini|No defined campaign name|Sin nombre de campaña definido|Kein definierter Kampagnenname
+main.ConfigurePage.INVALID_CANAL|Canal de configuration invalide|Invalid configuration channel|Canal de configuración inválido|Ungültiger Konfigurationskanal
+main.ConfigurePage.INVALID_MODE|Mode d'affichage invalide|Invalid display mode|Modo de visualización inválido|Ungültiger Anzeigemodus
+main.ConfigurePage.INVALID_RECORD_TIME|Durée d'enregistrement non valide|Invalid recording time|Tiempo de grabación no válido|Ungültige Aufnahmezeit
+main.ConfigurePage.INVALID_LED_ALARM|Aucun mode LED pour les alarmes de défini.|No LED mode for defined alarms.|Sin modo LED para alarmas definidas.|Kein LED-Modus für definierte Alarme.
+main.ConfigurePage.INVALID_LED_ON|Aucun mode LED pour le voyant actif de défini|No LED mode for the active indicator of de fi ned|No hay modo LED para el indicador activo de de fi nido|Kein LED-Modus für den aktiven Indikator defined
+main.ConfigurePage.INVALID_CAMPAGNE_NAME_LENGTH|Le nom de campagne doit faire au minimum 3 caractères et au maximum 20|Campaign name must be at least 3 characters and at most 20|El nombre de la campaña debe tener al menos 3 caracteres y como máximo 20|Kampagnenname muss mindestens 3 und höchstens 20 Zeichen lang sein
+main.ConfigurePage.INVALID_MESURE_TIME|Durée de mesure invalide: doit etre compris entre ...|Invalid measurement time: must be between ...|Tiempo de medición no válido: debe estar entre ...|Ungültige Messzeit: muss zwischen ... liegen
+main.ConfigurePage.INVALID_RECORD_TYPE|Type d'enrgistrement de mesure invalide.|Invalid measurement recording type.|Tipo de grabación de medición inválida.|Ungültiger Messwertaufzeichnungstyp
+main.ConfigurePage.INVALID_DATE_FORMAT|Format de la date de départ incorrect|Invalid departure date format|Formato de fecha de salida no válido|Ungültiges Abreisedatumformat
+main.ConfigurePage.INVALID_START_TYPE|le type de départ doit être par date, par bouton ou immédiat|the type of departure must be by date, button or immediate|el tipo de salida debe ser por fecha, botón o inmediato|Die Art der Abreise muss nach Datum, Knopf oder Sofort erfolgen
+main.ConfigurePage.INVALID_SEUIL_FORMAT|Format de seuil invalide: doit etre un nombre strictement positif|Invalid threshold format: must be a strictly positive number|Formato de umbral inválido: debe ser un número estrictamente positivo|Ungültiges Schwellenwertformat: Muss eine streng positive Zahl sein
+main.ConfigurePage.INVALID_TEMPO_FORMAT|Format de temporisation invalide: doit etre un nombre strictement positif.|Invalid timing format: must be a strictly positive number.|Formato de tiempo inválido: debe ser un número estrictamente positivo.|Ungültiges Timing-Format: Muss eine streng positive Zahl sein.
+main.ConfigurePage.INVALID_CHANNEL_REF_PROBE|Type de sonde inconnue|Unknown probe type|Tipo de sonda desconocido|Unbekannter Sondentyp
+main.ConfigurePage.INVALID_CHANNEL_NUMBER|Numéro de voie invalide|Invalid lane number|Número de carril inválido|Ungültige Lane-Nummer
+main.ConfigurePage.INVALID_CHANNEL_NAME|Nom de voie invalide: doit faire au maximum 15 caractères|Invalid channel name: must be a maximum of 15 characters|Nombre del canal inválido: debe tener un máximo de 15 caracteres|Ungültiger Kanalname: Muss maximal 15 Zeichen lang sein
+main.ConfigurePage.INVALID_CHANNEL_UNIT|Unité de la voie inconnue|Unit of the unknown way|Unidad de la manera desconocida|Einheit der unbekannten Art
+main.ConfigurePage.XML_CONFIG_NO_TOKEN|Aucun token de défini pour une configuration xml|No definition token for xml configuration|Sin token de definición para la configuración xml|Kein Definitionstoken für die XML-Konfiguration
+main.ConfigurePage.NO_DATE_GIVEN|Aucune date de départ pour la campagne n'a été renseignée|No departure date for the campaign has been entered|No se ha ingresado ninguna fecha de salida para la campaña|Es wurde kein Abreisedatum für die Kampagne eingegeben
+main.ConfigurePage.RECORD_LT_MESURE|La durée d'enregistrement ne peut pas être inférieure à la durée de mesure|The recording time can not be shorter than the measurement time|El tiempo de grabación no puede ser más corto que el tiempo de medición|Die Aufnahmezeit darf nicht kürzer als die Messzeit sein
+main.ConfigurePage.INVALID_NO_CHANNEL|Aucune voie de séléctionnée pour les enregistrements|No channels of interest for the recordings|Sin canales de interés para las grabaciones|Keine Kanäle von Interesse für die Aufnahmen
+main.ConfigurePage.INVALID_SEUILS_VALUES|Le seuil HAUT ne peut etre superieur au seuil BAS|The HIGH threshold can not be greater than the BAS threshold|El umbral ALTO no puede ser mayor que el umbral BAS|Der HOCH-Schwellenwert kann nicht größer als der BAS-Schwellenwert sein
+main.ConfigurePage.CONFIG_NOT_LOGGED|Not loggin!|Not loggin!|¡No inicie sesión!|Nicht anmelden!
+main.ConfigurePage.NO_CFR_DATAS|Aucunes informations d'identification n'ont été fournies|No credentials were provided|No se proporcionaron credenciales|Es wurden keine Anmeldeinformationen bereitgestellt
+main.SlaveConfiguration.full|Configuration complète|Complete configuration|Configuración completa|Komplette Konfiguration
+main.ConfigurePage.unknown|Erreur serveur inconnue...|Unknown server error ...|Error de servidor desconocido ...|Unbekannter Serverfehler ...
+main.ConfigurePage.CONFIG_UNKNOWN_USER|Les informations d'identifications fournies sont érronées.|The credentials information provided is erroneous.|La información de credenciales proporcionada es errónea.|Die angegebenen Anmeldeinformationen sind fehlerhaft.
+main.SlaveConfiguration.LaunchFull|Lancer la reconfiguration complète par XML|Start the complete reconfiguration by XML|Comience la reconfiguración completa por XML|Starten Sie die komplette Neukonfiguration per XML
+main.SlaveConfiguration.simplified|Configuration simplifiée|Simplified configuration|Configuración simplificada|Vereinfachte Konfiguration
+main.SlaveConfiguration.warningText1|Attention ! Nous vous conseillons d'utiliser l'application mobile Kimo Cloud pour changer les paramètres de vos appareils. Elle vous permettra de configurer votre appareil plus facilement.|Warning ! |Atención ! |Achtung! 
+main.ProbesType.Probe_4|Courant 0-20mA|Current 0-20mA|Corriente 0-20mA|Strom 0-20 mA
+main.ProbesType.Probe_1|Température CTN d'ambiance|Room NTC temperature|Temperatura de la habitación NTC|Raum NTC Temperatur
+main.ProbesType.Probe_5|Courant 4-20mA|4-20mA current|Corriente 4-20mA|4-20 mA Strom
+main.ProbesType.Probe_6|Tension 0-10V|0-10V voltage|Voltaje 0-10V|0-10V Spannung
+main.ProbesType.Probe_2|Température CTN interne|Internal CTN temperature|Temperatura interna CTN|Interne CTN-Temperatur
+main.SlaveConfiguration.warningText2| Vous pouvez également suivre les instructions de cet assistant pour configurer votre appareil par fichier XML|You can also follow the instructions of this wizard to configure your device by XML file|También puede seguir las instrucciones de este asistente para configurar su dispositivo por archivo XML|Sie können auch den Anweisungen dieses Assistenten folgen, um Ihr Gerät anhand der XML-Datei zu konfigurieren
+main.ProbesType.Probe_3|Température CTN déportée|NTC temperature dropped|La temperatura NTC cayó|NTC-Temperatur ist gesunken
+main.ProbesType.Probe_10|Lumière|Light|luz|Licht
+main.ProbesType.Probe_7|Tension 0-2500mV|0-2500mV voltage|Voltaje 0-2500mV|0-2500mV Spannung
+main.ProbesType.Probe_8|Thermo-Hygro SHT d'ambiance|Thermo-Hygro SHT Ambience|Ambiente Thermo-Hygro SHT|Thermo-Hygro SHT Ambiente
+main.ProbesType.Probe_9|Thermo-Hygro SHT déportée|Thermo-Hygro SHT released|Lanzamiento de Thermo-Hygro SHT|Thermo-Hygro SHT veröffentlicht
+main.ProbesType.Probe_11|Température Thermocouple K|K Thermocouple temperature|K Temperatura del termopar|K Thermoelementtemperatur
+main.ProbesType.Probe_12|Température Thermocouple T|Thermocouple temperature T|Temperatura del termopar T|Thermoelementtemperatur T
+main.ProbesType.Probe_13|Température Thermocouple J|Thermocouple Temperature J|Temperatura del termopar J|Thermoelementtemperatur J
+main.ProbesType.Probe_18|Pince ampèremétrique 50A|50A Ampere Clamp|Abrazadera de amperios 50A|50A Ampereklemme
+main.ProbesType.Probe_14|Température PT100 déportée|PT100 Temperatures|Temperaturas PT100|PT100 Temperaturen
+main.ProbesType.Probe_15|Thermo-Hygro d'ambiance|Thermo-Hygro Ambient|Ambiente Thermo-Hygro|Thermo-Hygro-Umgebung
+main.ProbesType.Probe_19|Pince ampèremétrique 100A|Clamp ammeter 100A|Amperímetro de pinza 100A|Klemm-Amperemeter 100A
+main.ProbesType.Probe_20|Pince ampèremétrique 200A|Clamp ammeter 200A|Amperímetro de pinza 200A|Klemm-Amperemeter 200A
+main.ProbesType.Probe_17|Pince ampèremétrique 20A|Clamp ammeter 20A|Amperímetro de abrazadera 20A|Klemm-Amperemeter 20A
+main.ProbesType.Probe_21|Pince ampèremétrique 600A|Clamp ammeter 600A|Amperímetro de pinza 600A|Klemm-Amperemeter 600A
+main.ProbesType.Probe_16|Thermo-Hygro inox déportée|Thermo-Hygro stainless steel|Acero inoxidable Thermo-Hygro|Thermo-Hygro Edelstahl
+main.ProbesType.Probe_23|Température KT20|KT20 Temperatures|Temperaturas KT20|KT20 Temperaturen
+main.ProbesType.Probe_25|Détection d'impulsions|Pulse detection|Detección de pulso|Pulserkennung
+main.ProbesType.Probe_24|Température Thermocouple S|Thermocouple temperature S|Temperatura del termopar S|Thermoelementtemperatur S
+main.ProbesType.Probe_22|Thermo-Hygro plastique déportée|Thermo-Hygro plastic spilled|Plástico Thermo-Hygro derramado|Thermo-Hygro Kunststoff verschüttet
+main.ProbesType.Probe_29|Cellule CO2|CO2 cell|Celda de CO2|CO2-Zelle
+main.ProbesType.Probe_30|Lumière|Light|luz|Licht
+main.ProbesType.Probe_26|Compteur d'impulsions|Pulse counter|Contador de pulsos|Impulszähler
+main.ProbesType.Probe_lora_1|Thermocouple K|Thermocouple K|Termopar K|Thermoelement K
+main.ProbesType.Probe_lora_2|Thermocouple J|Thermocouple J|Termopar J|Thermoelement J
+main.ProbesType.Probe_27|Pression 1000Pa|1000Pa pressure|Presión 1000Pa|1000 Pa Druck
+main.ProbesType.Probe_lora_3|Thermocouple T|Thermocouple T|Termopar T|Thermoelement T
+main.ProbesType.Probe_28|Pression 10000Pa|Pressure 10000Pa|Presión 10000Pa|Druck 10000Pa
+main.ProbesType.Probe_lora_4|Thermocouple N|Thermocouple N|Termopar N|Thermoelement N
+main.ProbesType.Probe_lora_5|Thermocouple S|Thermocouple S|Termopar S|Thermoelement S
+main.ProbesType.Probe_lora_6|Courant 0-20mA|Current 0-20mA|Corriente 0-20mA|Strom 0-20 mA
+main.ProbesType.Probe_lora_7|Courant 4-20mA|4-20mA current|Corriente 4-20mA|4-20 mA Strom
+main.ProbesType.Probe_lora_8|Tension 0-5V|0-5V voltage|Voltaje 0-5V|0-5V Spannung
+main.ProbesType.Probe_lora_9|Tension 0-10V|0-10V voltage|Voltaje 0-10V|0-10V Spannung
+main.ProbesType.Probe_lora_10|Compteur impulsion|Impulse counter|Contador de impulsos|Impulszähler
+main.ProbesType.Probe_lora_11|Pince ampèremétrique 50A|50A Ampere Clamp|Abrazadera de amperios 50A|50A Ampereklemme
+main.ProbesType.Probe_lora_12|Pince ampèremétrique 100A|Clamp ammeter 100A|Amperímetro de pinza 100A|Klemm-Amperemeter 100A
+main.ProbesType.Probe_lora_13|Pince ampèremétrique 200A|Clamp ammeter 200A|Amperímetro de pinza 200A|Klemm-Amperemeter 200A
+main.ProbesType.Probe_lora_14|Pince ampèremétrique 600A|Clamp ammeter 600A|Amperímetro de pinza 600A|Klemm-Amperemeter 600A
+main.ProbesType.Probe_lora_15|Température CTN externe|External NTC temperature|Temperatura externa NTC|Externe NTC-Temperatur
+main.ProbesType.Probe_lora_16|température PT100 externe|external PT100 temperature|temperatura externa PT100|externe PT100 Temperatur
+main.ProbesType.Probe_lora_17|Température interne|Internal temperature|Temperatura interna|Innentemperatur
+main.ProbesType.Probe_lora_18|Pression d'eau 0-10 bar|Water pressure 0-10 bar|Presión de agua 0-10 bar|Wasserdruck 0-10 bar
+main.ProbesType.Probe_lora_19|Sonde hygro-température|Hygro-temperature probe|Sonda de humedad|Hygro-Temperaturfühler
+main.ProbesType.Probe_lora_20|Sonde hygro-température inox|Stainless steel hygro-temperature probe|Sonda de higro-temperatura de acero inoxidable|Hygro-Temperatursonde aus Edelstahl
+main.ProbesType.Probe_lora_21|Sonde hygro-température ABS/amb|ABS hygro-temperature probe / amb|Sonda de temperatura higrométrica ABS / amb|ABS Hygro-Temperaturfühler / amb
+main.ProbesType.Probe_lora_22|Sonde hygro-température interne|Internal hygro-temperature probe|Sonda de temperatura interna|Interne Hygro-Temperatursonde
+main.ProbesType.Probe_lora_23|Lumière interne|Internal light|Luz interna|Internes Licht
+main.ProbesType.Probe_lora_24|CO2 interne|Internal CO2|CO2 interno|Internes CO2
+main.ProbesType.Probe_lora_25|Pression atmosphérique interne|Internal atmospheric pressure|Presión atmosférica interna|Interner atmosphärischer Druck
+main.ProbesType.Probe_lora_26|Pression interne 1000 Pa|Internal pressure 1000 Pa|Presión interna 1000 Pa|Innendruck 1000 Pa
+main.ProbesType.Probe_lora_27|Pression interne 10000 Pa|Internal pressure 10000 Pa|Presión interna 10000 Pa|Innendruck 10000 Pa
+main.ProbesType.Probe_lora_28|Pression d'eau 0-20 bar|Water pressure 0-20 bar|Presión de agua 0-20 bar|Wasserdruck 0-20 bar
+main.VisTimeline_dlg.cancel|Annuler|Cancel|anular|stornieren
+main.VisTimeline_dlg.save|Signer|Sign|signo|Zeichen
+main.VisTimeline_dlg.device_label|Nom|Name|apellido|Name
+main.VisTimeline_dlg.device_serial|**Numéro de série|** Serial number|** Número de serie|** Seriennummer
+main.VisTimeline_dlg.from|Du|Of|de los|von der
+main.VisTimeline_dlg.to|Au|the|la|die
+main.VisTimeline_dlg.reason|Raison|reason|razón|Grund
+main.VisTimeline_dlg.password|Mot de passe|Password|Contraseña|Passwort
+main.VisTimeline.title|Périodes signées|Signed periods|Periodos firmados|Signierte Zeiträume
+main.VisTimeline.sign_datas|Signer la periode|Sign the period|Firme el período|Unterschreibe den Zeitraum
+main.VisTimeline_dlg.comment|Commentaires|comments|comentarios|Kommentare
+main.VisTimeline_dlg.dlg_sign_title|Signer les mesures sur la periode sélectionnée|Sign the measurements over the selected period|Firme las medidas durante el período seleccionado|Unterzeichnen Sie die Messungen über den ausgewählten Zeitraum
+main.VisTimeline_dlg.examen|Examen|Examination|revisión|Rezension
+main.VisTimeline_dlg.approbation|Approbation|Approval|aprobación|Genehmigung
+main.VisTimeline_dlg.reason_text|Justification de la signature|Justification of the signature|Justificación de la firma|Begründung der Unterschrift
+main.VisTimeline_dlg.responsabilite|Responsabilité|© RESPONSABILITA|© RESPONSABILITA|© RESPONSABILITA
+main.signature_arry.date|Date|Dated|fecha|Datum
+main.VisTimeline_dlg.paternite|Paternité|© Paternita|© Paternita|© paternità
+main.signature_arry.period|Période|PÃ © period|período de PÃ ©|PÃ © Zeitraum
+main.signature_arry.who|Utilisateur|User|usuario|Benutzer
+main.signature_arry.reason|Raison|reason|razón|Grund
+main.signature_arry.reason1|Examen|Examination|revisión|Rezension
+main.signature_arry.reason2|Approbation|Approval|aprobación|Genehmigung
+main.signature_arry.reason3|Responsabilité|© RESPONSABILITA|© RESPONSABILITA|© RESPONSABILITA
+main.VisTimeline_dlg.password_text|Veuillez entrer votre mot de passe pour valider l'autentification|Please enter your password to validate the authentication|Por favor ingrese su contraseña para validar la autenticación|Bitte geben Sie Ihr Passwort ein, um die Authentifizierung zu bestätigen
+main.signature_arry.reason4|Paternité|© Paternita|© Paternita|© paternità
+main.signature_arry.comment|Commentaires|comments|comentarios|Kommentare
+main.AssistantConfiguration.code_app|**Code appareil|** Device code|** Código de dispositivo|** Gerätecode
+main.AssistantConfiguration.serial|**Numéro de série|** Serial number|** Número de serie|** Seriennummer
+main.AssistantConfiguration.devicetype_placeholder|**Choisir le type d'appareil|** Choose the device type|** Elija el tipo de dispositivo|** Wählen Sie den Gerätetyp
+main.AssistantConfiguration.title|**Identification de l'appareil|** Device identification|** Identificación del dispositivo|** Geräteidentifikation
+main.VisTimeline_dlg.comment_text|Une courte phrase (max: 200 chars) pour expliquer les données (optionnel)|A short sentence (max: 200 floats) to explain the data (optional)|Una oración corta (máximo: 200 flotantes) para explicar los datos (opcional)|Ein kurzer Satz (max: 200 Floats) zur Erklärung der Daten (optional)
+main.AssistantConfiguration.devicetype|**Type de l'appareil|** Type of device|** Tipo de dispositivo|** Gerätetyp
+main.AssistantConfiguration.radio_ble|**Configuration par l'application mobile (Conseillé)|** Configuration by mobile application (Recommended)|** Configuración por aplicación móvil (recomendado)|** Konfiguration durch mobile Anwendung (empfohlen)
+main.AssistantConfiguration.p2_title|**Configuration de l'appareil|** Device configuration|** Configuración del dispositivo|** Gerätekonfiguration
+main.AssistantConfiguration.radio_xml|**Configuration par fichier XML|** Configuration by XML file|** Configuración por archivo XML|** Konfiguration über XML-Datei
+main.AssistantConfiguration.description|**Indiquez le numéro de série et le code de l’appareil. Ces informations se trouvent à l’arrière du boîtier de l’enregistreur.|** Enter the serial number and the code of the device. |** Ingrese el número de serie y el código del dispositivo. |** Geben Sie die Seriennummer und den Code des Geräts ein. 
+main.AssistantConfiguration.p2_code|**Code de configuration|** Configuration code|** Código de configuración|** Konfigurationscode
+main.AssistantConfiguration.p3_title|**Configuration de l'appareil|** Device configuration|** Configuración del dispositivo|** Gerätekonfiguration
+main.AssistantConfiguration.p2_info_2|**Vous pouvez également suivre les instructions de cet assistant pour configurer votre appareil par fichier XML.|** You can also follow the instructions of this wizard to configure your device by XML file.|** También puede seguir las instrucciones de este asistente para configurar su dispositivo por archivo XML.|** Sie können den Anweisungen dieses Assistenten auch folgen, um Ihr Gerät anhand der XML-Datei zu konfigurieren.
+main.AssistantConfiguration.p4_title|**Enregistrement de la configuration|** Saving the configuration|** Guardando la configuración|** Speichern der Konfiguration
+main.AssistantConfiguration.p2_description|**Connectez votre appareil en USB à l’ordinateur. Un code de configuration va apparaitre sur l’écran de l’enregistreur, renseignez le ici.|** Connect your device in USB to the computer. |** Conecte su dispositivo en USB a la computadora. |** Verbinden Sie Ihr Gerät über USB mit dem Computer. 
+main.AssistantConfiguration.p2_info_1|**Afin de continuer le mise en route de votre appareil, nous vous conseillons d'utiliser l'application mobile Kimo Cloud for All. Elle vous permettra de configurer votre appareil plus facilement.|** In order to continue getting started with your device, we recommend using the Kimo Cloud for All mobile app. |** Para continuar con el uso de su dispositivo, le recomendamos usar la aplicación móvil Kimo Cloud for All. |** Um weiterhin mit Ihrem Gerät zu beginnen, empfehlen wir die Verwendung der mobilen App "Kimo Cloud for All". 
+main.AssistantConfiguration.p4_end_head|**Le fichier de configuration conf|** conf config file|** conf config file|** Konf Konfigurationsdatei
+main.AssistantConfiguration.p5_title|**Placement de l'appareil|** Placement of the device|** Colocación del dispositivo|** Platzierung des Geräts
+main.AssistantConfiguration.p4_end_tail|.xml a été enregistré sur votre ordinateur. Copiez ce fichier sur votre enregistreur, affiché sur votre ordinateur dans les stockages amovibles.|.xml has been saved on your computer. |.xml ha sido guardado en su computadora. |.xml wurde auf Ihrem Computer gespeichert. 
+main.AssistantConfiguration.p2_alert|*Attention ! Ne débranchez pas votre appareil du port USB pendant la configuration, sinon le numéro de configuration ne sera plus valide.|*Warning ! |*Atención ! |* Achtung! 
+main.AssistantComponent.end|**Terminer|** Finish|** Finalizar|** Fertig
+main.AssistantComponent.prev|**Précédent|** PrÃ © cÃ © dent|** PrÃ © cÃ © dent|** PrÃ © cÃ © dent
+main.AssistantComponent.next|**Suivant|**Following|**Próximo|** Weiter
+main.AssistantConfiguration.error_417|**Erreur de données du formulaire|** Form data error|** Error de datos de formulario|** Formulardatenfehler
+main.OldPasswordForm.connexion|**Mettre à jour le mot de passe|** Update password|** Actualizar contraseña|** Passwort aktualisieren
+main.OldPasswordForm.hello|**Bonjour |**Hello|**Buenos dias|** Hallo
+main.OldPasswordForm.title|**Mise à jour du mot de passe|** Update password|** Actualizar contraseña|** Passwort aktualisieren
+main.OldPasswordForm.tooold|**trop vieux|**too old|**demasiado viejo|** zu alt
+main.AssistantConfiguration.p5_instructions|**Une fois le fichier de configuration copié sur votre appareil, celui-ci est prêt à fonctionner. Donnez lui une désignation et sélectionnez la zone dans laquelle vous souhaitez l’intégrer.|** Once the configuration file is copied to your device, it is ready to work. |** Una vez que el archivo de configuración se copia a su dispositivo, está listo para funcionar. |** Sobald die Konfigurationsdatei auf Ihr Gerät kopiert wurde, kann sie verwendet werden. 
+main.OldPasswordForm.firstconnect|**Première connexion|** First connection|** Primera conexión|** Erste Verbindung
+main.AssistantConfiguration.p4_alert|**Attention ! Si votre navigateur est configuré de manière à télécharger automatiquement les fichiers, vous trouverez votre fichier dans le dossier de téléchargement habituel.|**Warning ! |**Atención ! |** Achtung! 
+main.OldPasswordForm.oldpassword|**Votre ancien mot de passe|** Your old password|** Su contraseña anterior|** Dein altes Passwort
+main.OldPasswordForm.newpassword|**Votre nouveau mot de passe|** Your new password|** Tu nueva contraseña|** Ihr neues Passwort
+main.OldPasswordForm.ERROR_DIFFERENT_PASSWORD|**ERROR_DIFFERENT_PASSWORD|** ERROR_DIFFERENT_PASSWORD|** ERROR_DIFFERENT_PASSWORD|** ERROR_DIFFERENT_PASSWORD
+main.OldPasswordForm.replaypassword|**Confirmer votre nouveau mot de passe|** Confirm your new password|** Confirma tu nueva contraseña|** Bestätigen Sie Ihr neues Passwort
+main.OldPasswordForm.more| **La norme CFR-21 implique de modifier les passwords lors de votre première connexion et au moins tous les 90 jours, ....|** The CFR-21 standard involves changing the passwords during your first connection and at least every 90 days, ....|** El estándar CFR-21 implica cambiar las contraseñas durante su primera conexión y al menos cada 90 días, ....|** Der CFR-21-Standard beinhaltet das Ändern der Passwörter während Ihrer ersten Verbindung und mindestens alle 90 Tage ....
+main.OldPasswordForm.ALREADY_USED_PASSWORD|Vous avez déjà utilisé ce mot de passe récement. Merci d'en choisir un autre.|You have already used this password reset. |Ya has usado este restablecimiento de contraseña. |Sie haben dieses Zurücksetzen des Kennworts bereits verwendet. 
+main.OldPasswordForm.errorTooShort|Un mot de passe doit faire au minimum 6 caractères.|A password must be at least 6 characters long.|Una contraseña debe tener al menos 6 caracteres de longitud.|Ein Passwort muss mindestens 6 Zeichen lang sein.
+main.MultiConfiguration.title|**Configurations multiples|** Multiple configurations|** Múltiples configuraciones|** Mehrere Konfigurationen
+main.OldPasswordForm.ERROR_CONFIRMATION_MISMATCH|**Le nouveau mot de passe ne peut pas etre le meme que l'ancien!|** The new password can not be the same as the old one!|** ¡La nueva contraseña no puede ser la misma que la anterior!|** Das neue Passwort darf nicht mit dem alten identisch sein!
+main.MultiConfiguration.description_working|**La configuration est envoyée au serveur. Cette opération peut prendre quelques minutes, merci de patienter.|** The configuration is sent to the server. |** La configuración se envía al servidor. |** Die Konfiguration wird an den Server gesendet. 
+main.MultiConfiguration.description_compat|**Selectionner dans la liste ci-dessous le ou les appareils a configurer|** Select from the list below the device (s) to be configured|** Seleccione de la lista debajo de los dispositivos que se configurarán|** Wählen Sie aus der Liste unter dem / den zu konfigurierenden Gerät (en)
+main.MultiConfiguration.no_slaves|**Aucun appareil compatible n'a été trouvé sur ce site.|** No compatible device was found on this site.|** No se encontró ningún dispositivo compatible en este sitio.|** Auf dieser Website wurde kein kompatibles Gerät gefunden.

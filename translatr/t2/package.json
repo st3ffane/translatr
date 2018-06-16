@@ -1,0 +1,16 @@
+{
+  "name": "translate",
+  "version": "0.0.1",
+  "description": "prend en entree un fichier csv key,value et utilise google translate pour recuperer les traductions",
+  "main": "translate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stephane PONTEINS Kimo Instruments",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "request": "^2.81.0",
+    "sentencer": "^0.1.5"
+  }
+}
