@@ -6,8 +6,6 @@
 const stream = require("stream");
 const fs= require("fs");
 const fspath = require('path');
-var request = require("request");
-var tk = require('./utils/taskqueue');
 const {unmerge} = require('./utils/merge');
 //const kvx = new RegExp(/(\w+);"([^"]+)"/);
 /* var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=" 
@@ -18,18 +16,70 @@ const {unmerge} = require('./utils/merge');
   translatedText = result[0][0][0];
  */
 
-//Promessify la lib request, pour garder le style de codage
-function request_promise(url){
-    return new Promise( (resolve, reject)=>{
-        request(url, (err, response, body)=>{
-            if(err) reject(err);
-            else resolve(body);
+
+
+function createTranslaterStream(config){
+    let res_reader = new stream.Transform({objectMode:true}); // use object, not strings
+    //reception de nouveau chunks de données, convertie en string,
+    //recupere la clé et la valeur a traduire
+    res_reader._transform = function(chunck, encoding, done){
+        // read datas
+        
+        let dt = chunck;//from buffer?
+        let path = dt.key.split('.');
+        path[0] = '';
+        let key = path.join('.'); // clear first element (file name)
+
+        let async_translate = null;
+
+        // if config.dict, search for key
+        if(config._dictionnary && config._dictionnary[key]) {
+            async_translate = Promise.resolve(config._dictionnary[key]);
+            //dt.value = config._dictionnary[key];            
+        } else {
+            // google translate
+            let engine = config._engine;
+            async_translate = engine(dt.value, config); // une seule langue pour l'instant....
+            dt.value = dt.value.toUpperCase();
+        }
+
+
+        async_translate.then( (translated)=>{
+            dt.value = translated; 
+            this.push(dt)
+            done();
         });
-    })
+        
+        
+        
+    }
+    //fin des données
+    res_reader._flush = function(done){
+        done();//TODO
+    }
+
+    return res_reader;
 }
 
 
+function createUnmergerStream(config){
+    let unmerge_writer = new stream.Transform({objectMode:true}); // pour recreer les inner objects
+    unmerge_writer._result = {};
+    unmerge_writer._transform = function(chunck, encoding, done){     
+        this._result[chunck.key] = chunck.value;
+        done();
+    }
+    unmerge_writer.end = function() {
+        // unmerge all
+        console.log('hello')
+        let tmp = unmerge(this._result);
+        this.push(JSON.stringify(tmp));
 
+        //this.emit('end'); // end buffer
+    };
+
+    return unmerge_writer;
+}
 
 /**
  * Pour l'instant, test avec un seul fichier....
@@ -42,9 +92,13 @@ module.exports = function (config){
         //resource reader: recupere un stream en input contenant les données au format  key, "value"
         //et lance les pools pour les traductions
 
-        let res_reader = new stream.Transform({objectMode:true}); // use object, not strings
-        let unmerge_writer = new stream.Transform({objectMode:true}); // pour recreer les inner objects
-
+        // ouverture du fichier, utilise le readstream du format de fichier
+        // only first one for now;....
+        let reader = config._inputs[0].reader;       
+        let res_reader = createTranslaterStream(config);
+        let unmerge_writer = createUnmergerStream(config);
+        let writer = fs.createWriteStream('./test.txt'); // TODO: pour l'instant, ecrit dans un seul fichier
+        
         /*res_reader._junk = null;
         res_reader._tasks = null;
 
@@ -111,48 +165,6 @@ module.exports = function (config){
             tk.next()
         }*/
 
-        //reception de nouveau chunks de données, convertie en string,
-        //recupere la clé et la valeur a traduire
-        res_reader._transform = function(chunck, encoding, done){
-            // read datas
-            
-            let dt = chunck;//from buffer?
-            dt.value = dt.value.toUpperCase();
-            //this._google_translate(dt);
-            //this.emit('data', JSON.stringify(dt))
-            this.push(dt)
-            done();
-            
-        }
-        //fin des données
-        res_reader._flush = function(done){
-            done();//TODO
-        }
-
-        unmerge_writer._result = {};
-        unmerge_writer._transform = function(chunck, encoding, done){     
-            this._result[chunck.key] = chunck.value;
-            done();
-        }
-        unmerge_writer.end = function() {
-            // unmerge all
-            console.log('hello')
-            let tmp = unmerge(this._result);
-            this.push(JSON.stringify(tmp));
-
-            //this.emit('end'); // end buffer
-        };
-
-
-       
-        let writer = fs.createWriteStream('./test.txt');
-
-        // ouverture du fichier, utilise le readstream du format de fichier
-        // only first one for now;....
-        let reader = config._inputs[0].reader;       
-        // le fichier dans lequel on enregistre les resultats... 
-        //let writer = fs.createWriteStream('./test.txt',{encoding:'utf8'});
-        
         //e,d event not fired!!!
         return reader(config._inputs[0].path)
         .then( (keyvaluereader)=>{
